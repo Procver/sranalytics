@@ -1,0 +1,1996 @@
+{
+	"TrackName": "ks_barcelona",
+	"TrackConfig": "layout_gp",
+	"Type": "QUALIFY",
+	"DurationSecs": 0,
+	"RaceLaps": 0,
+	"Cars": [
+		{
+			"CarId": 0,
+			"Driver": {
+				"Name": "Gustavo Rousseau",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198137749332",
+				"GuidsList": [
+					"76561198137749332"
+				]
+			},
+			"Model": "tcs_citroen",
+			"Skin": "TCS_10_GralLeeGR",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 1,
+			"Driver": {
+				"Name": "Cokaso_Indenor4 //Arg//",
+				"Team": "",
+				"Nation": "",
+				"Guid": "76561198023043342",
+				"GuidsList": [
+					"76561198023043342"
+				]
+			},
+			"Model": "tcs_citroen",
+			"Skin": "TCS_32_coco",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 2,
+			"Driver": {
+				"Name": "jcardona08",
+				"Team": "",
+				"Nation": "COL",
+				"Guid": "76561198320640011",
+				"GuidsList": [
+					"76561198320640011"
+				]
+			},
+			"Model": "tcs_citroen",
+			"Skin": "TCS_17_JCardona",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 3,
+			"Driver": {
+				"Name": "Lucas Fernandez",
+				"Team": "Citroen Total WTCC",
+				"Nation": "",
+				"Guid": "76561198159144897",
+				"GuidsList": [
+					"76561198159144897"
+				]
+			},
+			"Model": "tcs_citroen",
+			"Skin": "TCS_73_LFernandez",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 4,
+			"Driver": {
+				"Name": "Jaxmirrax",
+				"Team": "",
+				"Nation": "",
+				"Guid": "76561198243211318",
+				"GuidsList": [
+					"76561198243211318"
+				]
+			},
+			"Model": "tcs_honda",
+			"Skin": "TCS_9_JToribio",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 5,
+			"Driver": {
+				"Name": "juan borselli",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561197994639038",
+				"GuidsList": [
+					"76561197994639038"
+				]
+			},
+			"Model": "tcs_honda",
+			"Skin": "TCS_69_JBorselli",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 6,
+			"Driver": {
+				"Name": "ComicalAgate",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198046035980",
+				"GuidsList": [
+					"76561198046035980"
+				]
+			},
+			"Model": "tcs_honda",
+			"Skin": "Hondagenerico_1",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 7,
+			"Driver": {
+				"Name": "eze_cba17",
+				"Team": "",
+				"Nation": "",
+				"Guid": "76561198042368236",
+				"GuidsList": [
+					"76561198042368236"
+				]
+			},
+			"Model": "tcs_honda",
+			"Skin": "Hondagenerico_2",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 8,
+			"Driver": {
+				"Name": "danugo",
+				"Team": "",
+				"Nation": "URY",
+				"Guid": "76561198081264364",
+				"GuidsList": [
+					"76561198081264364"
+				]
+			},
+			"Model": "tcs_chevrolet",
+			"Skin": "TCS_44_HCaballero",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 9,
+			"Driver": {
+				"Name": "Juan Ignacio San Martin",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198027691137",
+				"GuidsList": [
+					"76561198027691137"
+				]
+			},
+			"Model": "tcs_chevrolet",
+			"Skin": "CruzeGenerico_1",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 10,
+			"Driver": {
+				"Name": "David Gomez",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198097246663",
+				"GuidsList": [
+					"76561198097246663"
+				]
+			},
+			"Model": "tcs_chevrolet",
+			"Skin": "TCS_9_GomezD",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 11,
+			"Driver": {
+				"Name": "Adan Trejo",
+				"Team": "",
+				"Nation": "",
+				"Guid": "76561198140747163",
+				"GuidsList": [
+					"76561198140747163"
+				]
+			},
+			"Model": "tcs_chevrolet",
+			"Skin": "CruzeGenerico_2",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 12,
+			"Driver": {
+				"Name": "Javier Pena",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198026372362",
+				"GuidsList": [
+					"76561198026372362"
+				]
+			},
+			"Model": "tcs_chevrolet",
+			"Skin": "TCS_84_EMarchetti",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 13,
+			"Driver": {
+				"Name": "Mario Aseff",
+				"Team": "",
+				"Nation": "",
+				"Guid": "76561198019649613",
+				"GuidsList": [
+					"76561198019649613"
+				]
+			},
+			"Model": "tcs_volvo",
+			"Skin": "volvo",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 14,
+			"Driver": {
+				"Name": "Ursula ROJAS//ARG//",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198017703005",
+				"GuidsList": [
+					"76561198017703005"
+				]
+			},
+			"Model": "tcs_volvo",
+			"Skin": "volvo_14",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 15,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "tcs_citroen",
+			"Skin": "CitroenGenerico_1",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 16,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "tcs_citroen",
+			"Skin": "CitroenGenerico_2",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 17,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "tcs_citroen",
+			"Skin": "CitroenGenerico_3",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 18,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "tcs_citroen",
+			"Skin": "CitroenGenerico_4",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 19,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "tcs_citroen",
+			"Skin": "CitroenGenerico_5",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 20,
+			"Driver": {
+				"Name": "julian Lopez",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198069727235",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "tcs_honda",
+			"Skin": "Hondagenerico_3",
+			"BallastKG": 0,
+			"Restrictor": 0
+		}
+	],
+	"Result": [
+		{
+			"DriverName": "Juan Ignacio San Martin",
+			"DriverGuid": "76561198027691137",
+			"CarId": 9,
+			"CarModel": "tcs_chevrolet",
+			"BestLap": 104126,
+			"TotalTime": 850464,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "David Gomez",
+			"DriverGuid": "76561198097246663",
+			"CarId": 10,
+			"CarModel": "tcs_chevrolet",
+			"BestLap": 104843,
+			"TotalTime": 812439,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Gustavo Rousseau",
+			"DriverGuid": "76561198137749332",
+			"CarId": 0,
+			"CarModel": "tcs_citroen",
+			"BestLap": 105324,
+			"TotalTime": 689729,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "julian Lopez",
+			"DriverGuid": "76561198069727235",
+			"CarId": 20,
+			"CarModel": "tcs_honda",
+			"BestLap": 105769,
+			"TotalTime": 1004595,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Jaxmirrax",
+			"DriverGuid": "76561198243211318",
+			"CarId": 4,
+			"CarModel": "tcs_honda",
+			"BestLap": 105780,
+			"TotalTime": 874624,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Cokaso_Indenor4 //Arg//",
+			"DriverGuid": "76561198023043342",
+			"CarId": 1,
+			"CarModel": "tcs_citroen",
+			"BestLap": 105794,
+			"TotalTime": 755662,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "ComicalAgate",
+			"DriverGuid": "76561198046035980",
+			"CarId": 6,
+			"CarModel": "tcs_honda",
+			"BestLap": 106101,
+			"TotalTime": 796846,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "jcardona08",
+			"DriverGuid": "76561198320640011",
+			"CarId": 2,
+			"CarModel": "tcs_citroen",
+			"BestLap": 106880,
+			"TotalTime": 907649,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "danugo",
+			"DriverGuid": "76561198081264364",
+			"CarId": 8,
+			"CarModel": "tcs_chevrolet",
+			"BestLap": 107151,
+			"TotalTime": 928625,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "eze_cba17",
+			"DriverGuid": "76561198042368236",
+			"CarId": 7,
+			"CarModel": "tcs_honda",
+			"BestLap": 107181,
+			"TotalTime": 696054,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Ursula ROJAS//ARG//",
+			"DriverGuid": "76561198017703005",
+			"CarId": 14,
+			"CarModel": "tcs_volvo",
+			"BestLap": 107933,
+			"TotalTime": 485464,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Javier Pena",
+			"DriverGuid": "76561198026372362",
+			"CarId": 12,
+			"CarModel": "tcs_chevrolet",
+			"BestLap": 107933,
+			"TotalTime": 443166,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "juan borselli",
+			"DriverGuid": "76561197994639038",
+			"CarId": 5,
+			"CarModel": "tcs_honda",
+			"BestLap": 108127,
+			"TotalTime": 386146,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Adan Trejo",
+			"DriverGuid": "76561198140747163",
+			"CarId": 11,
+			"CarModel": "tcs_chevrolet",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Lucas Fernandez",
+			"DriverGuid": "76561198159144897",
+			"CarId": 3,
+			"CarModel": "tcs_citroen",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 15,
+			"CarModel": "tcs_citroen",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 16,
+			"CarModel": "tcs_citroen",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 17,
+			"CarModel": "tcs_citroen",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 18,
+			"CarModel": "tcs_citroen",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 19,
+			"CarModel": "tcs_citroen",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Mario Aseff",
+			"DriverGuid": "76561198019649613",
+			"CarId": 13,
+			"CarModel": "tcs_volvo",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		}
+	],
+	"Laps": [
+		{
+			"DriverName": "ComicalAgate",
+			"DriverGuid": "76561198046035980",
+			"CarId": 6,
+			"CarModel": "tcs_honda",
+			"Timestamp": 1824057,
+			"LapTime": 114540,
+			"Sectors": [
+				37697,
+				40838,
+				36005
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Gustavo Rousseau",
+			"DriverGuid": "76561198137749332",
+			"CarId": 0,
+			"CarModel": "tcs_citroen",
+			"Timestamp": 1825633,
+			"LapTime": 116755,
+			"Sectors": [
+				39607,
+				41058,
+				36090
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "jcardona08",
+			"DriverGuid": "76561198320640011",
+			"CarId": 2,
+			"CarModel": "tcs_citroen",
+			"Timestamp": 1830822,
+			"LapTime": 117504,
+			"Sectors": [
+				38772,
+				41336,
+				37396
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "danugo",
+			"DriverGuid": "76561198081264364",
+			"CarId": 8,
+			"CarModel": "tcs_chevrolet",
+			"Timestamp": 1832747,
+			"LapTime": 123498,
+			"Sectors": [
+				45530,
+				41576,
+				36392
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Cokaso_Indenor4 //Arg//",
+			"DriverGuid": "76561198023043342",
+			"CarId": 1,
+			"CarModel": "tcs_citroen",
+			"Timestamp": 1839653,
+			"LapTime": 130691,
+			"Sectors": [
+				51374,
+				41279,
+				38038
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Jaxmirrax",
+			"DriverGuid": "76561198243211318",
+			"CarId": 4,
+			"CarModel": "tcs_honda",
+			"Timestamp": 1847655,
+			"LapTime": 138108,
+			"Sectors": [
+				59564,
+				41301,
+				37243
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Juan Ignacio San Martin",
+			"DriverGuid": "76561198027691137",
+			"CarId": 9,
+			"CarModel": "tcs_chevrolet",
+			"Timestamp": 1852544,
+			"LapTime": 143260,
+			"Sectors": [
+				66679,
+				40986,
+				35595
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "eze_cba17",
+			"DriverGuid": "76561198042368236",
+			"CarId": 7,
+			"CarModel": "tcs_honda",
+			"Timestamp": 1861502,
+			"LapTime": 151970,
+			"Sectors": [
+				73670,
+				41526,
+				36774
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "David Gomez",
+			"DriverGuid": "76561198097246663",
+			"CarId": 10,
+			"CarModel": "tcs_chevrolet",
+			"Timestamp": 1870023,
+			"LapTime": 160698,
+			"Sectors": [
+				84395,
+				40847,
+				35456
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "juan borselli",
+			"DriverGuid": "76561197994639038",
+			"CarId": 5,
+			"CarModel": "tcs_honda",
+			"Timestamp": 1878469,
+			"LapTime": 169217,
+			"Sectors": [
+				79433,
+				51489,
+				38295
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "ComicalAgate",
+			"DriverGuid": "76561198046035980",
+			"CarId": 6,
+			"CarModel": "tcs_honda",
+			"Timestamp": 1930909,
+			"LapTime": 106865,
+			"Sectors": [
+				30303,
+				40661,
+				35901
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Gustavo Rousseau",
+			"DriverGuid": "76561198137749332",
+			"CarId": 0,
+			"CarModel": "tcs_citroen",
+			"Timestamp": 1932564,
+			"LapTime": 106935,
+			"Sectors": [
+				30146,
+				40779,
+				36010
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Javier Pena",
+			"DriverGuid": "76561198026372362",
+			"CarId": 12,
+			"CarModel": "tcs_chevrolet",
+			"Timestamp": 1935025,
+			"LapTime": 225628,
+			"Sectors": [
+				146523,
+				42097,
+				37008
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "jcardona08",
+			"DriverGuid": "76561198320640011",
+			"CarId": 2,
+			"CarModel": "tcs_citroen",
+			"Timestamp": 1938652,
+			"LapTime": 107829,
+			"Sectors": [
+				30708,
+				40734,
+				36387
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "danugo",
+			"DriverGuid": "76561198081264364",
+			"CarId": 8,
+			"CarModel": "tcs_chevrolet",
+			"Timestamp": 1941250,
+			"LapTime": 108495,
+			"Sectors": [
+				30221,
+				41104,
+				37170
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Cokaso_Indenor4 //Arg//",
+			"DriverGuid": "76561198023043342",
+			"CarId": 1,
+			"CarModel": "tcs_citroen",
+			"Timestamp": 1949192,
+			"LapTime": 109541,
+			"Sectors": [
+				30413,
+				41005,
+				38123
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Juan Ignacio San Martin",
+			"DriverGuid": "76561198027691137",
+			"CarId": 9,
+			"CarModel": "tcs_chevrolet",
+			"Timestamp": 1957833,
+			"LapTime": 105288,
+			"Sectors": [
+				29984,
+				40114,
+				35190
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Jaxmirrax",
+			"DriverGuid": "76561198243211318",
+			"CarId": 4,
+			"CarModel": "tcs_honda",
+			"Timestamp": 1962363,
+			"LapTime": 114705,
+			"Sectors": [
+				30851,
+				40906,
+				42948
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "eze_cba17",
+			"DriverGuid": "76561198042368236",
+			"CarId": 7,
+			"CarModel": "tcs_honda",
+			"Timestamp": 1975125,
+			"LapTime": 113614,
+			"Sectors": [
+				33501,
+				42893,
+				37220
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "David Gomez",
+			"DriverGuid": "76561198097246663",
+			"CarId": 10,
+			"CarModel": "tcs_chevrolet",
+			"Timestamp": 1975835,
+			"LapTime": 105804,
+			"Sectors": [
+				30014,
+				40005,
+				35785
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Ursula ROJAS//ARG//",
+			"DriverGuid": "76561198017703005",
+			"CarId": 14,
+			"CarModel": "tcs_volvo",
+			"Timestamp": 1977925,
+			"LapTime": 268533,
+			"Sectors": [
+				187199,
+				41860,
+				39474
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "juan borselli",
+			"DriverGuid": "76561197994639038",
+			"CarId": 5,
+			"CarModel": "tcs_honda",
+			"Timestamp": 1986892,
+			"LapTime": 108466,
+			"Sectors": [
+				31106,
+				41230,
+				36130
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "ComicalAgate",
+			"DriverGuid": "76561198046035980",
+			"CarId": 6,
+			"CarModel": "tcs_honda",
+			"Timestamp": 2038461,
+			"LapTime": 107548,
+			"Sectors": [
+				30350,
+				40892,
+				36306
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Gustavo Rousseau",
+			"DriverGuid": "76561198137749332",
+			"CarId": 0,
+			"CarModel": "tcs_citroen",
+			"Timestamp": 2039004,
+			"LapTime": 106443,
+			"Sectors": [
+				30320,
+				40460,
+				35663
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Javier Pena",
+			"DriverGuid": "76561198026372362",
+			"CarId": 12,
+			"CarModel": "tcs_chevrolet",
+			"Timestamp": 2044035,
+			"LapTime": 109009,
+			"Sectors": [
+				30902,
+				41455,
+				36652
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "danugo",
+			"DriverGuid": "76561198081264364",
+			"CarId": 8,
+			"CarModel": "tcs_chevrolet",
+			"Timestamp": 2049936,
+			"LapTime": 108499,
+			"Sectors": [
+				30591,
+				41193,
+				36715
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "jcardona08",
+			"DriverGuid": "76561198320640011",
+			"CarId": 2,
+			"CarModel": "tcs_citroen",
+			"Timestamp": 2051829,
+			"LapTime": 113170,
+			"Sectors": [
+				30518,
+				41113,
+				41539
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Cokaso_Indenor4 //Arg//",
+			"DriverGuid": "76561198023043342",
+			"CarId": 1,
+			"CarModel": "tcs_citroen",
+			"Timestamp": 2056488,
+			"LapTime": 107292,
+			"Sectors": [
+				30373,
+				40941,
+				35978
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Juan Ignacio San Martin",
+			"DriverGuid": "76561198027691137",
+			"CarId": 9,
+			"CarModel": "tcs_chevrolet",
+			"Timestamp": 2062811,
+			"LapTime": 104984,
+			"Sectors": [
+				29978,
+				40091,
+				34915
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Jaxmirrax",
+			"DriverGuid": "76561198243211318",
+			"CarId": 4,
+			"CarModel": "tcs_honda",
+			"Timestamp": 2069477,
+			"LapTime": 107122,
+			"Sectors": [
+				30654,
+				40860,
+				35608
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "eze_cba17",
+			"DriverGuid": "76561198042368236",
+			"CarId": 7,
+			"CarModel": "tcs_honda",
+			"Timestamp": 2082944,
+			"LapTime": 107835,
+			"Sectors": [
+				30191,
+				41400,
+				36244
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Ursula ROJAS//ARG//",
+			"DriverGuid": "76561198017703005",
+			"CarId": 14,
+			"CarModel": "tcs_volvo",
+			"Timestamp": 2086309,
+			"LapTime": 108400,
+			"Sectors": [
+				30743,
+				41436,
+				36221
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "juan borselli",
+			"DriverGuid": "76561197994639038",
+			"CarId": 5,
+			"CarModel": "tcs_honda",
+			"Timestamp": 2095006,
+			"LapTime": 108127,
+			"Sectors": [
+				30884,
+				41216,
+				36027
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "David Gomez",
+			"DriverGuid": "76561198097246663",
+			"CarId": 10,
+			"CarModel": "tcs_chevrolet",
+			"Timestamp": 2099095,
+			"LapTime": 123264,
+			"Sectors": [
+				36432,
+				46993,
+				39839
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Gustavo Rousseau",
+			"DriverGuid": "76561198137749332",
+			"CarId": 0,
+			"CarModel": "tcs_citroen",
+			"Timestamp": 2146037,
+			"LapTime": 107041,
+			"Sectors": [
+				30104,
+				40582,
+				36355
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Javier Pena",
+			"DriverGuid": "76561198026372362",
+			"CarId": 12,
+			"CarModel": "tcs_chevrolet",
+			"Timestamp": 2151971,
+			"LapTime": 107933,
+			"Sectors": [
+				30723,
+				41197,
+				36013
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "danugo",
+			"DriverGuid": "76561198081264364",
+			"CarId": 8,
+			"CarModel": "tcs_chevrolet",
+			"Timestamp": 2158423,
+			"LapTime": 108685,
+			"Sectors": [
+				30358,
+				41449,
+				36878
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "jcardona08",
+			"DriverGuid": "76561198320640011",
+			"CarId": 2,
+			"CarModel": "tcs_citroen",
+			"Timestamp": 2159773,
+			"LapTime": 107947,
+			"Sectors": [
+				30714,
+				40738,
+				36495
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Cokaso_Indenor4 //Arg//",
+			"DriverGuid": "76561198023043342",
+			"CarId": 1,
+			"CarModel": "tcs_citroen",
+			"Timestamp": 2162863,
+			"LapTime": 106384,
+			"Sectors": [
+				30258,
+				40450,
+				35676
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "ComicalAgate",
+			"DriverGuid": "76561198046035980",
+			"CarId": 6,
+			"CarModel": "tcs_honda",
+			"Timestamp": 2174603,
+			"LapTime": 136144,
+			"Sectors": [
+				59154,
+				41021,
+				35969
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "eze_cba17",
+			"DriverGuid": "76561198042368236",
+			"CarId": 7,
+			"CarModel": "tcs_honda",
+			"Timestamp": 2190445,
+			"LapTime": 107509,
+			"Sectors": [
+				30222,
+				41269,
+				36018
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Ursula ROJAS//ARG//",
+			"DriverGuid": "76561198017703005",
+			"CarId": 14,
+			"CarModel": "tcs_volvo",
+			"Timestamp": 2194247,
+			"LapTime": 107933,
+			"Sectors": [
+				30632,
+				41680,
+				35621
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "David Gomez",
+			"DriverGuid": "76561198097246663",
+			"CarId": 10,
+			"CarModel": "tcs_chevrolet",
+			"Timestamp": 2204158,
+			"LapTime": 105066,
+			"Sectors": [
+				30109,
+				39883,
+				35074
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Jaxmirrax",
+			"DriverGuid": "76561198243211318",
+			"CarId": 4,
+			"CarModel": "tcs_honda",
+			"Timestamp": 2265142,
+			"LapTime": 195665,
+			"Sectors": [
+				118508,
+				41063,
+				36094
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "ComicalAgate",
+			"DriverGuid": "76561198046035980",
+			"CarId": 6,
+			"CarModel": "tcs_honda",
+			"Timestamp": 2281213,
+			"LapTime": 106629,
+			"Sectors": [
+				30092,
+				40914,
+				35623
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Gustavo Rousseau",
+			"DriverGuid": "76561198137749332",
+			"CarId": 0,
+			"CarModel": "tcs_citroen",
+			"Timestamp": 2293173,
+			"LapTime": 147133,
+			"Sectors": [
+				70503,
+				41310,
+				35320
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "jcardona08",
+			"DriverGuid": "76561198320640011",
+			"CarId": 2,
+			"CarModel": "tcs_citroen",
+			"Timestamp": 2295206,
+			"LapTime": 135433,
+			"Sectors": [
+				58051,
+				41053,
+				36329
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "eze_cba17",
+			"DriverGuid": "76561198042368236",
+			"CarId": 7,
+			"CarModel": "tcs_honda",
+			"Timestamp": 2297678,
+			"LapTime": 107232,
+			"Sectors": [
+				30326,
+				41067,
+				35839
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "David Gomez",
+			"DriverGuid": "76561198097246663",
+			"CarId": 10,
+			"CarModel": "tcs_chevrolet",
+			"Timestamp": 2311230,
+			"LapTime": 107072,
+			"Sectors": [
+				29691,
+				41129,
+				36252
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "danugo",
+			"DriverGuid": "76561198081264364",
+			"CarId": 8,
+			"CarModel": "tcs_chevrolet",
+			"Timestamp": 2314651,
+			"LapTime": 156228,
+			"Sectors": [
+				75858,
+				43870,
+				36500
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Juan Ignacio San Martin",
+			"DriverGuid": "76561198027691137",
+			"CarId": 9,
+			"CarModel": "tcs_chevrolet",
+			"Timestamp": 2350682,
+			"LapTime": 287863,
+			"Sectors": [
+				212132,
+				40442,
+				35289
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Cokaso_Indenor4 //Arg//",
+			"DriverGuid": "76561198023043342",
+			"CarId": 1,
+			"CarModel": "tcs_citroen",
+			"Timestamp": 2358669,
+			"LapTime": 195810,
+			"Sectors": [
+				118716,
+				40760,
+				36334
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Jaxmirrax",
+			"DriverGuid": "76561198243211318",
+			"CarId": 4,
+			"CarModel": "tcs_honda",
+			"Timestamp": 2371370,
+			"LapTime": 106234,
+			"Sectors": [
+				30377,
+				40762,
+				35095
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "ComicalAgate",
+			"DriverGuid": "76561198046035980",
+			"CarId": 6,
+			"CarModel": "tcs_honda",
+			"Timestamp": 2387321,
+			"LapTime": 106101,
+			"Sectors": [
+				30032,
+				40667,
+				35402
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "julian Lopez",
+			"DriverGuid": "76561198069727235",
+			"CarId": 20,
+			"CarModel": "tcs_honda",
+			"Timestamp": 2395940,
+			"LapTime": 686481,
+			"Sectors": [
+				610066,
+				40873,
+				35542
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Gustavo Rousseau",
+			"DriverGuid": "76561198137749332",
+			"CarId": 0,
+			"CarModel": "tcs_citroen",
+			"Timestamp": 2398488,
+			"LapTime": 105324,
+			"Sectors": [
+				29831,
+				40113,
+				35380
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "jcardona08",
+			"DriverGuid": "76561198320640011",
+			"CarId": 2,
+			"CarModel": "tcs_citroen",
+			"Timestamp": 2402337,
+			"LapTime": 107137,
+			"Sectors": [
+				30120,
+				40805,
+				36212
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "eze_cba17",
+			"DriverGuid": "76561198042368236",
+			"CarId": 7,
+			"CarModel": "tcs_honda",
+			"Timestamp": 2404853,
+			"LapTime": 107181,
+			"Sectors": [
+				30222,
+				41048,
+				35911
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "David Gomez",
+			"DriverGuid": "76561198097246663",
+			"CarId": 10,
+			"CarModel": "tcs_chevrolet",
+			"Timestamp": 2416070,
+			"LapTime": 104843,
+			"Sectors": [
+				29838,
+				40049,
+				34956
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "danugo",
+			"DriverGuid": "76561198081264364",
+			"CarId": 8,
+			"CarModel": "tcs_chevrolet",
+			"Timestamp": 2422884,
+			"LapTime": 108243,
+			"Sectors": [
+				30127,
+				41207,
+				36909
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Juan Ignacio San Martin",
+			"DriverGuid": "76561198027691137",
+			"CarId": 9,
+			"CarModel": "tcs_chevrolet",
+			"Timestamp": 2454796,
+			"LapTime": 104126,
+			"Sectors": [
+				29678,
+				39682,
+				34766
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Cokaso_Indenor4 //Arg//",
+			"DriverGuid": "76561198023043342",
+			"CarId": 1,
+			"CarModel": "tcs_citroen",
+			"Timestamp": 2464454,
+			"LapTime": 105794,
+			"Sectors": [
+				29974,
+				40118,
+				35702
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Jaxmirrax",
+			"DriverGuid": "76561198243211318",
+			"CarId": 4,
+			"CarModel": "tcs_honda",
+			"Timestamp": 2477645,
+			"LapTime": 106277,
+			"Sectors": [
+				30219,
+				40909,
+				35149
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Ursula ROJAS//ARG//",
+			"DriverGuid": "76561198017703005",
+			"CarId": 14,
+			"CarModel": "tcs_volvo",
+			"Timestamp": 2498482,
+			"LapTime": 304239,
+			"Sectors": [
+				226757,
+				41553,
+				35929
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "julian Lopez",
+			"DriverGuid": "76561198069727235",
+			"CarId": 20,
+			"CarModel": "tcs_honda",
+			"Timestamp": 2501740,
+			"LapTime": 105835,
+			"Sectors": [
+				29938,
+				40401,
+				35496
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "ComicalAgate",
+			"DriverGuid": "76561198046035980",
+			"CarId": 6,
+			"CarModel": "tcs_honda",
+			"Timestamp": 2505660,
+			"LapTime": 118359,
+			"Sectors": [
+				30167,
+				41266,
+				46926
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "jcardona08",
+			"DriverGuid": "76561198320640011",
+			"CarId": 2,
+			"CarModel": "tcs_citroen",
+			"Timestamp": 2509209,
+			"LapTime": 106880,
+			"Sectors": [
+				30466,
+				40477,
+				35937
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "David Gomez",
+			"DriverGuid": "76561198097246663",
+			"CarId": 10,
+			"CarModel": "tcs_chevrolet",
+			"Timestamp": 2521235,
+			"LapTime": 105181,
+			"Sectors": [
+				29716,
+				40302,
+				35163
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "danugo",
+			"DriverGuid": "76561198081264364",
+			"CarId": 8,
+			"CarModel": "tcs_chevrolet",
+			"Timestamp": 2530283,
+			"LapTime": 107419,
+			"Sectors": [
+				30446,
+				40762,
+				36211
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Juan Ignacio San Martin",
+			"DriverGuid": "76561198027691137",
+			"CarId": 9,
+			"CarModel": "tcs_chevrolet",
+			"Timestamp": 2559257,
+			"LapTime": 104475,
+			"Sectors": [
+				29702,
+				39879,
+				34894
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Jaxmirrax",
+			"DriverGuid": "76561198243211318",
+			"CarId": 4,
+			"CarModel": "tcs_honda",
+			"Timestamp": 2583411,
+			"LapTime": 105780,
+			"Sectors": [
+				30233,
+				40235,
+				35312
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "julian Lopez",
+			"DriverGuid": "76561198069727235",
+			"CarId": 20,
+			"CarModel": "tcs_honda",
+			"Timestamp": 2607507,
+			"LapTime": 105769,
+			"Sectors": [
+				30052,
+				40495,
+				35222
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "jcardona08",
+			"DriverGuid": "76561198320640011",
+			"CarId": 2,
+			"CarModel": "tcs_citroen",
+			"Timestamp": 2616518,
+			"LapTime": 107309,
+			"Sectors": [
+				30571,
+				40513,
+				36225
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "danugo",
+			"DriverGuid": "76561198081264364",
+			"CarId": 8,
+			"CarModel": "tcs_chevrolet",
+			"Timestamp": 2637432,
+			"LapTime": 107151,
+			"Sectors": [
+				30264,
+				40796,
+				36091
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "julian Lopez",
+			"DriverGuid": "76561198069727235",
+			"CarId": 20,
+			"CarModel": "tcs_honda",
+			"Timestamp": 2713380,
+			"LapTime": 105873,
+			"Sectors": [
+				30016,
+				40342,
+				35515
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		}
+	],
+	"Events": [
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 14,
+			"Driver": {
+				"Name": "Ursula ROJAS//ARG//",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198017703005",
+				"GuidsList": [
+					"76561198017703005"
+				]
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": null
+			},
+			"ImpactSpeed": 34.96568,
+			"WorldPosition": {
+				"X": 310.13873,
+				"Y": -5.9922853,
+				"Z": -526.1758
+			},
+			"RelPosition": {
+				"X": -0.05000758,
+				"Y": -0.2891627,
+				"Z": 2.219893
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 6,
+			"Driver": {
+				"Name": "ComicalAgate",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198046035980",
+				"GuidsList": [
+					"76561198046035980"
+				]
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": null
+			},
+			"ImpactSpeed": 4.6769114,
+			"WorldPosition": {
+				"X": 45.769882,
+				"Y": -22.608809,
+				"Z": 280.3324
+			},
+			"RelPosition": {
+				"X": -0.9997064,
+				"Y": 0.29734948,
+				"Z": -1.0342978
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 8,
+			"Driver": {
+				"Name": "danugo",
+				"Team": "",
+				"Nation": "URY",
+				"Guid": "76561198081264364",
+				"GuidsList": [
+					"76561198081264364"
+				]
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": null
+			},
+			"ImpactSpeed": 7.735367,
+			"WorldPosition": {
+				"X": 263.5144,
+				"Y": -18.007217,
+				"Z": -54.21264
+			},
+			"RelPosition": {
+				"X": 1.0027411,
+				"Y": 0.717581,
+				"Z": -2.2189574
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 7,
+			"Driver": {
+				"Name": "eze_cba17",
+				"Team": "",
+				"Nation": "",
+				"Guid": "76561198042368236",
+				"GuidsList": [
+					"76561198042368236"
+				]
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": null
+			},
+			"ImpactSpeed": 7.8482685,
+			"WorldPosition": {
+				"X": -440.79474,
+				"Y": -10.382654,
+				"Z": 343.30692
+			},
+			"RelPosition": {
+				"X": -0.9527237,
+				"Y": 0.7375795,
+				"Z": -1.86897
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 1,
+			"Driver": {
+				"Name": "Cokaso_Indenor4 //Arg//",
+				"Team": "",
+				"Nation": "",
+				"Guid": "76561198023043342",
+				"GuidsList": [
+					"76561198023043342"
+				]
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": null
+			},
+			"ImpactSpeed": 12.533024,
+			"WorldPosition": {
+				"X": -457.10065,
+				"Y": -12.690015,
+				"Z": 430.1909
+			},
+			"RelPosition": {
+				"X": -0.7214111,
+				"Y": -0.31240797,
+				"Z": 1.973629
+			}
+		}
+	]
+}

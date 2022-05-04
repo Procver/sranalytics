@@ -1,0 +1,5339 @@
+{
+	"TrackName": "asrl_knutstorp",
+	"TrackConfig": "",
+	"Type": "RACE",
+	"DurationSecs": 0,
+	"RaceLaps": 20,
+	"Cars": [
+		{
+			"CarId": 0,
+			"Driver": {
+				"Name": "Esotic Streaming",
+				"Team": "",
+				"Nation": "USA",
+				"Guid": "76561197970492500",
+				"GuidsList": [
+					"76561197970492500"
+				]
+			},
+			"Model": "vac_tv_van_2",
+			"Skin": "vactv2",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 1,
+			"Driver": {
+				"Name": "_empty_",
+				"Team": "",
+				"Nation": "",
+				"Guid": "00000000000000000",
+				"GuidsList": [
+					"00000000000000000"
+				]
+			},
+			"Model": "vac_tv_van_2",
+			"Skin": "00",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 2,
+			"Driver": {
+				"Name": "_empty_",
+				"Team": "",
+				"Nation": "",
+				"Guid": "00000000000000000",
+				"GuidsList": [
+					"00000000000000000"
+				]
+			},
+			"Model": "vac_tv_van_2",
+			"Skin": "00",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 3,
+			"Driver": {
+				"Name": "_empty_",
+				"Team": "",
+				"Nation": "",
+				"Guid": "00000000000000000",
+				"GuidsList": [
+					"00000000000000000"
+				]
+			},
+			"Model": "vac_tv_van_2",
+			"Skin": "00",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 4,
+			"Driver": {
+				"Name": "_empty_",
+				"Team": "",
+				"Nation": "",
+				"Guid": "00000000000000000",
+				"GuidsList": [
+					"00000000000000000"
+				]
+			},
+			"Model": "vac_tv_van_2",
+			"Skin": "00",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 5,
+			"Driver": {
+				"Name": "Jonah Hax",
+				"Team": "",
+				"Nation": "DNK",
+				"Guid": "76561197980423199",
+				"GuidsList": [
+					"76561197980423199"
+				]
+			},
+			"Model": "legion_steyr-puch_1000tr",
+			"Skin": "jonah_jolly_hax500",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 6,
+			"Driver": {
+				"Name": "GoodsmileRacing",
+				"Team": "",
+				"Nation": "POL",
+				"Guid": "76561198025181930",
+				"GuidsList": [
+					"76561198025181930"
+				]
+			},
+			"Model": "legion_steyr-puch_1000tr",
+			"Skin": "leopard",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 7,
+			"Driver": {
+				"Name": "Benjamin Nash",
+				"Team": "",
+				"Nation": "GBR",
+				"Guid": "76561198860527133",
+				"GuidsList": [
+					"76561198860527133"
+				]
+			},
+			"Model": "legion_steyr-puch_1000tr",
+			"Skin": "ben_nordica",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 8,
+			"Driver": {
+				"Name": "Miku",
+				"Team": "",
+				"Nation": "CAN",
+				"Guid": "76561198384157739",
+				"GuidsList": [
+					"76561198384157739"
+				]
+			},
+			"Model": "legion_steyr-puch_1000tr",
+			"Skin": "2017_Targa_Tasmania_258",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 9,
+			"Driver": {
+				"Name": "Merlijn Percas",
+				"Team": "",
+				"Nation": "NLD",
+				"Guid": "76561198872987414",
+				"GuidsList": [
+					"76561198872987414"
+				]
+			},
+			"Model": "legion_steyr-puch_1000tr",
+			"Skin": "Merlijn_puch",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 10,
+			"Driver": {
+				"Name": "Mellero",
+				"Team": "",
+				"Nation": "BRA",
+				"Guid": "76561198136977886",
+				"GuidsList": [
+					"76561198136977886"
+				]
+			},
+			"Model": "legion_steyr-puch_1000tr",
+			"Skin": "blue",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 11,
+			"Driver": {
+				"Name": "sgeti",
+				"Team": "",
+				"Nation": "",
+				"Guid": "76561198151791542",
+				"GuidsList": [
+					"76561198151791542"
+				]
+			},
+			"Model": "legion_steyr-puch_1000tr",
+			"Skin": "rosso_medio",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 12,
+			"Driver": {
+				"Name": "Wolf5698",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198058313635",
+				"GuidsList": [
+					"76561198058313635"
+				]
+			},
+			"Model": "legion_steyr-puch_1000tr",
+			"Skin": "wolf",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 13,
+			"Driver": {
+				"Name": "Tecno",
+				"Team": "",
+				"Nation": "SWE",
+				"Guid": "76561198041538629",
+				"GuidsList": [
+					"76561198041538629"
+				]
+			},
+			"Model": "legion_steyr-puch_1000tr",
+			"Skin": "Tecno",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 14,
+			"Driver": {
+				"Name": "Juan San Martin",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198027691137",
+				"GuidsList": [
+					"76561198027691137"
+				]
+			},
+			"Model": "legion_steyr-puch_1000tr",
+			"Skin": "Juan_San_Martin_26",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 15,
+			"Driver": {
+				"Name": "christoph1954",
+				"Team": "",
+				"Nation": "ITA",
+				"Guid": "76561197998044711",
+				"GuidsList": [
+					"76561197998044711"
+				]
+			},
+			"Model": "legion_steyr-puch_1000tr",
+			"Skin": "Steyr-Puch-97-OETKER",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 16,
+			"Driver": {
+				"Name": "lobie",
+				"Team": "",
+				"Nation": "",
+				"Guid": "76561198123938074",
+				"GuidsList": [
+					"76561198123938074"
+				]
+			},
+			"Model": "legion_steyr-puch_1000tr",
+			"Skin": "checkered",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 17,
+			"Driver": {
+				"Name": "Bionic_Bromando",
+				"Team": "",
+				"Nation": "CAN",
+				"Guid": "76561198024344616",
+				"GuidsList": [
+					"76561198024344616"
+				]
+			},
+			"Model": "legion_steyr-puch_1000tr",
+			"Skin": "MaidenVoyage",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 18,
+			"Driver": {
+				"Name": "aqua aqua",
+				"Team": "",
+				"Nation": "USA",
+				"Guid": "76561198361563643",
+				"GuidsList": [
+					"76561198361563643"
+				]
+			},
+			"Model": "legion_steyr-puch_1000tr",
+			"Skin": "aqua88",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 19,
+			"Driver": {
+				"Name": "_empty_",
+				"Team": "",
+				"Nation": "",
+				"Guid": "00000000000000000",
+				"GuidsList": [
+					"00000000000000000"
+				]
+			},
+			"Model": "vac_tv_van_2",
+			"Skin": "00",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 20,
+			"Driver": {
+				"Name": "_empty_",
+				"Team": "",
+				"Nation": "",
+				"Guid": "00000000000000000",
+				"GuidsList": [
+					"00000000000000000"
+				]
+			},
+			"Model": "vac_tv_van_2",
+			"Skin": "00",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 21,
+			"Driver": {
+				"Name": "_empty_",
+				"Team": "",
+				"Nation": "",
+				"Guid": "00000000000000000",
+				"GuidsList": [
+					"00000000000000000"
+				]
+			},
+			"Model": "vac_tv_van_2",
+			"Skin": "00",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 22,
+			"Driver": {
+				"Name": "_empty_",
+				"Team": "",
+				"Nation": "",
+				"Guid": "00000000000000000",
+				"GuidsList": [
+					"00000000000000000"
+				]
+			},
+			"Model": "vac_tv_van_2",
+			"Skin": "00",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 23,
+			"Driver": {
+				"Name": "TV CREW",
+				"Team": "",
+				"Nation": "DNK",
+				"Guid": "76561198417841335",
+				"GuidsList": [
+					"76561198417841335"
+				]
+			},
+			"Model": "vac_tv_van_2",
+			"Skin": "vactv1",
+			"BallastKG": 0,
+			"Restrictor": 0
+		}
+	],
+	"Result": [
+		{
+			"DriverName": "GoodsmileRacing",
+			"DriverGuid": "76561198025181930",
+			"CarId": 6,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"BestLap": 72418,
+			"TotalTime": 1478184,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Mellero",
+			"DriverGuid": "76561198136977886",
+			"CarId": 10,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"BestLap": 73549,
+			"TotalTime": 1492416,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Juan San Martin",
+			"DriverGuid": "76561198027691137",
+			"CarId": 14,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"BestLap": 73325,
+			"TotalTime": 1498161,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Jonah Hax",
+			"DriverGuid": "76561197980423199",
+			"CarId": 5,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"BestLap": 73678,
+			"TotalTime": 1501861,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Tecno",
+			"DriverGuid": "76561198041538629",
+			"CarId": 13,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"BestLap": 74487,
+			"TotalTime": 1511123,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Benjamin Nash",
+			"DriverGuid": "76561198860527133",
+			"CarId": 7,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"BestLap": 74455,
+			"TotalTime": 1521391,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Wolf5698",
+			"DriverGuid": "76561198058313635",
+			"CarId": 12,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"BestLap": 73193,
+			"TotalTime": 1530203,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "aqua aqua",
+			"DriverGuid": "76561198361563643",
+			"CarId": 18,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"BestLap": 75180,
+			"TotalTime": 1542171,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Bionic_Bromando",
+			"DriverGuid": "76561198024344616",
+			"CarId": 17,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"BestLap": 75013,
+			"TotalTime": 1547147,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Miku",
+			"DriverGuid": "76561198384157739",
+			"CarId": 8,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"BestLap": 76741,
+			"TotalTime": 1497647,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "christoph1954",
+			"DriverGuid": "76561197998044711",
+			"CarId": 15,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"BestLap": 75876,
+			"TotalTime": 1498309,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Merlijn Percas",
+			"DriverGuid": "76561198872987414",
+			"CarId": 9,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"BestLap": 75388,
+			"TotalTime": 1326771,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "TV CREW",
+			"DriverGuid": "76561198417841335",
+			"CarId": 23,
+			"CarModel": "vac_tv_van_2",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Esotic Streaming",
+			"DriverGuid": "76561197970492500",
+			"CarId": 0,
+			"CarModel": "vac_tv_van_2",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "lobie",
+			"DriverGuid": "76561198123938074",
+			"CarId": 16,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "sgeti",
+			"DriverGuid": "76561198151791542",
+			"CarId": 11,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "_empty_",
+			"DriverGuid": "00000000000000000",
+			"CarId": 4,
+			"CarModel": "vac_tv_van_2",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "_empty_",
+			"DriverGuid": "00000000000000000",
+			"CarId": 3,
+			"CarModel": "vac_tv_van_2",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "_empty_",
+			"DriverGuid": "00000000000000000",
+			"CarId": 1,
+			"CarModel": "vac_tv_van_2",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "_empty_",
+			"DriverGuid": "00000000000000000",
+			"CarId": 19,
+			"CarModel": "vac_tv_van_2",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "_empty_",
+			"DriverGuid": "00000000000000000",
+			"CarId": 20,
+			"CarModel": "vac_tv_van_2",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "_empty_",
+			"DriverGuid": "00000000000000000",
+			"CarId": 21,
+			"CarModel": "vac_tv_van_2",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "_empty_",
+			"DriverGuid": "00000000000000000",
+			"CarId": 22,
+			"CarModel": "vac_tv_van_2",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "_empty_",
+			"DriverGuid": "00000000000000000",
+			"CarId": 2,
+			"CarModel": "vac_tv_van_2",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		}
+	],
+	"Laps": [
+		{
+			"DriverName": "Wolf5698",
+			"DriverGuid": "76561198058313635",
+			"CarId": 12,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5150090,
+			"LapTime": 80995,
+			"Sectors": [
+				26847,
+				29650,
+				24498
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "GoodsmileRacing",
+			"DriverGuid": "76561198025181930",
+			"CarId": 6,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5150237,
+			"LapTime": 81259,
+			"Sectors": [
+				27088,
+				29700,
+				24471
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Juan San Martin",
+			"DriverGuid": "76561198027691137",
+			"CarId": 14,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5150893,
+			"LapTime": 81826,
+			"Sectors": [
+				27776,
+				29295,
+				24755
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Mellero",
+			"DriverGuid": "76561198136977886",
+			"CarId": 10,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5151179,
+			"LapTime": 82136,
+			"Sectors": [
+				28375,
+				28993,
+				24768
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Jonah Hax",
+			"DriverGuid": "76561197980423199",
+			"CarId": 5,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5151708,
+			"LapTime": 82744,
+			"Sectors": [
+				29217,
+				28682,
+				24845
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Tecno",
+			"DriverGuid": "76561198041538629",
+			"CarId": 13,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5152682,
+			"LapTime": 83719,
+			"Sectors": [
+				29535,
+				29438,
+				24746
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Merlijn Percas",
+			"DriverGuid": "76561198872987414",
+			"CarId": 9,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5154347,
+			"LapTime": 85386,
+			"Sectors": [
+				30360,
+				30181,
+				24845
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Benjamin Nash",
+			"DriverGuid": "76561198860527133",
+			"CarId": 7,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5155265,
+			"LapTime": 86310,
+			"Sectors": [
+				30797,
+				30105,
+				25408
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "aqua aqua",
+			"DriverGuid": "76561198361563643",
+			"CarId": 18,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5158665,
+			"LapTime": 89658,
+			"Sectors": [
+				32076,
+				30852,
+				26730
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Miku",
+			"DriverGuid": "76561198384157739",
+			"CarId": 8,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5160620,
+			"LapTime": 91616,
+			"Sectors": [
+				32523,
+				30797,
+				28296
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Bionic_Bromando",
+			"DriverGuid": "76561198024344616",
+			"CarId": 17,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5170079,
+			"LapTime": 101089,
+			"Sectors": [
+				31857,
+				30087,
+				39145
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "christoph1954",
+			"DriverGuid": "76561197998044711",
+			"CarId": 15,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5170538,
+			"LapTime": 101583,
+			"Sectors": [
+				31157,
+				30308,
+				40118
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "GoodsmileRacing",
+			"DriverGuid": "76561198025181930",
+			"CarId": 6,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5224472,
+			"LapTime": 74238,
+			"Sectors": [
+				21817,
+				28580,
+				23841
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Juan San Martin",
+			"DriverGuid": "76561198027691137",
+			"CarId": 14,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5225093,
+			"LapTime": 74206,
+			"Sectors": [
+				21480,
+				28692,
+				24034
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Wolf5698",
+			"DriverGuid": "76561198058313635",
+			"CarId": 12,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5226014,
+			"LapTime": 75929,
+			"Sectors": [
+				23014,
+				28665,
+				24250
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Mellero",
+			"DriverGuid": "76561198136977886",
+			"CarId": 10,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5227064,
+			"LapTime": 75891,
+			"Sectors": [
+				22291,
+				29380,
+				24220
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Jonah Hax",
+			"DriverGuid": "76561197980423199",
+			"CarId": 5,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5227641,
+			"LapTime": 75938,
+			"Sectors": [
+				21849,
+				29465,
+				24624
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Tecno",
+			"DriverGuid": "76561198041538629",
+			"CarId": 13,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5228632,
+			"LapTime": 75952,
+			"Sectors": [
+				22064,
+				29457,
+				24431
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Benjamin Nash",
+			"DriverGuid": "76561198860527133",
+			"CarId": 7,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5231563,
+			"LapTime": 76302,
+			"Sectors": [
+				22027,
+				29493,
+				24782
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "aqua aqua",
+			"DriverGuid": "76561198361563643",
+			"CarId": 18,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5236232,
+			"LapTime": 77571,
+			"Sectors": [
+				22207,
+				30685,
+				24679
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Miku",
+			"DriverGuid": "76561198384157739",
+			"CarId": 8,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5238012,
+			"LapTime": 77393,
+			"Sectors": [
+				22593,
+				29812,
+				24988
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Bionic_Bromando",
+			"DriverGuid": "76561198024344616",
+			"CarId": 17,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5246376,
+			"LapTime": 76303,
+			"Sectors": [
+				21776,
+				30124,
+				24403
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Merlijn Percas",
+			"DriverGuid": "76561198872987414",
+			"CarId": 9,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5251924,
+			"LapTime": 97582,
+			"Sectors": [
+				42425,
+				30479,
+				24678
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "christoph1954",
+			"DriverGuid": "76561197998044711",
+			"CarId": 15,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5256834,
+			"LapTime": 86305,
+			"Sectors": [
+				22513,
+				29448,
+				34344
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "GoodsmileRacing",
+			"DriverGuid": "76561198025181930",
+			"CarId": 6,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5297744,
+			"LapTime": 73277,
+			"Sectors": [
+				21244,
+				28436,
+				23597
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Juan San Martin",
+			"DriverGuid": "76561198027691137",
+			"CarId": 14,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5299127,
+			"LapTime": 74039,
+			"Sectors": [
+				21380,
+				28733,
+				23926
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Wolf5698",
+			"DriverGuid": "76561198058313635",
+			"CarId": 12,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5299826,
+			"LapTime": 73812,
+			"Sectors": [
+				21314,
+				28625,
+				23873
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Mellero",
+			"DriverGuid": "76561198136977886",
+			"CarId": 10,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5301659,
+			"LapTime": 74605,
+			"Sectors": [
+				21856,
+				28719,
+				24030
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Jonah Hax",
+			"DriverGuid": "76561197980423199",
+			"CarId": 5,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5302363,
+			"LapTime": 74725,
+			"Sectors": [
+				21963,
+				28885,
+				23877
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Tecno",
+			"DriverGuid": "76561198041538629",
+			"CarId": 13,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5303635,
+			"LapTime": 75003,
+			"Sectors": [
+				21642,
+				29295,
+				24066
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Benjamin Nash",
+			"DriverGuid": "76561198860527133",
+			"CarId": 7,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5307842,
+			"LapTime": 76283,
+			"Sectors": [
+				21757,
+				29605,
+				24921
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "aqua aqua",
+			"DriverGuid": "76561198361563643",
+			"CarId": 18,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5312624,
+			"LapTime": 76391,
+			"Sectors": [
+				22023,
+				29866,
+				24502
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Miku",
+			"DriverGuid": "76561198384157739",
+			"CarId": 8,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5316183,
+			"LapTime": 78177,
+			"Sectors": [
+				22727,
+				30015,
+				25435
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Bionic_Bromando",
+			"DriverGuid": "76561198024344616",
+			"CarId": 17,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5323211,
+			"LapTime": 76843,
+			"Sectors": [
+				21781,
+				29777,
+				25285
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Merlijn Percas",
+			"DriverGuid": "76561198872987414",
+			"CarId": 9,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5330331,
+			"LapTime": 78413,
+			"Sectors": [
+				21795,
+				30667,
+				25951
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "christoph1954",
+			"DriverGuid": "76561197998044711",
+			"CarId": 15,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5346731,
+			"LapTime": 89902,
+			"Sectors": [
+				21664,
+				29160,
+				39078
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "GoodsmileRacing",
+			"DriverGuid": "76561198025181930",
+			"CarId": 6,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5371149,
+			"LapTime": 73407,
+			"Sectors": [
+				21332,
+				28224,
+				23851
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Juan San Martin",
+			"DriverGuid": "76561198027691137",
+			"CarId": 14,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5372776,
+			"LapTime": 73650,
+			"Sectors": [
+				21251,
+				28404,
+				23995
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Wolf5698",
+			"DriverGuid": "76561198058313635",
+			"CarId": 12,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5374168,
+			"LapTime": 74348,
+			"Sectors": [
+				21235,
+				28706,
+				24407
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Mellero",
+			"DriverGuid": "76561198136977886",
+			"CarId": 10,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5375496,
+			"LapTime": 73846,
+			"Sectors": [
+				21417,
+				28511,
+				23918
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Jonah Hax",
+			"DriverGuid": "76561197980423199",
+			"CarId": 5,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5376829,
+			"LapTime": 74471,
+			"Sectors": [
+				21691,
+				28665,
+				24115
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Tecno",
+			"DriverGuid": "76561198041538629",
+			"CarId": 13,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5378782,
+			"LapTime": 75150,
+			"Sectors": [
+				22085,
+				29034,
+				24031
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Benjamin Nash",
+			"DriverGuid": "76561198860527133",
+			"CarId": 7,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5383915,
+			"LapTime": 76079,
+			"Sectors": [
+				21643,
+				29587,
+				24849
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "aqua aqua",
+			"DriverGuid": "76561198361563643",
+			"CarId": 18,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5389712,
+			"LapTime": 77096,
+			"Sectors": [
+				22008,
+				30415,
+				24673
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Miku",
+			"DriverGuid": "76561198384157739",
+			"CarId": 8,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5394029,
+			"LapTime": 77850,
+			"Sectors": [
+				21906,
+				30604,
+				25340
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Bionic_Bromando",
+			"DriverGuid": "76561198024344616",
+			"CarId": 17,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5400317,
+			"LapTime": 77113,
+			"Sectors": [
+				22227,
+				29722,
+				25164
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Merlijn Percas",
+			"DriverGuid": "76561198872987414",
+			"CarId": 9,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5407451,
+			"LapTime": 77124,
+			"Sectors": [
+				22160,
+				30268,
+				24696
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "GoodsmileRacing",
+			"DriverGuid": "76561198025181930",
+			"CarId": 6,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5444538,
+			"LapTime": 73394,
+			"Sectors": [
+				21406,
+				28264,
+				23724
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Juan San Martin",
+			"DriverGuid": "76561198027691137",
+			"CarId": 14,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5446493,
+			"LapTime": 73723,
+			"Sectors": [
+				21203,
+				28607,
+				23913
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Wolf5698",
+			"DriverGuid": "76561198058313635",
+			"CarId": 12,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5447701,
+			"LapTime": 73537,
+			"Sectors": [
+				21310,
+				28282,
+				23945
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Mellero",
+			"DriverGuid": "76561198136977886",
+			"CarId": 10,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5449337,
+			"LapTime": 73850,
+			"Sectors": [
+				21412,
+				28418,
+				24020
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Jonah Hax",
+			"DriverGuid": "76561197980423199",
+			"CarId": 5,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5451911,
+			"LapTime": 75085,
+			"Sectors": [
+				22251,
+				28674,
+				24160
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Tecno",
+			"DriverGuid": "76561198041538629",
+			"CarId": 13,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5453617,
+			"LapTime": 74835,
+			"Sectors": [
+				21536,
+				29115,
+				24184
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Benjamin Nash",
+			"DriverGuid": "76561198860527133",
+			"CarId": 7,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5459215,
+			"LapTime": 75305,
+			"Sectors": [
+				21414,
+				29231,
+				24660
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "aqua aqua",
+			"DriverGuid": "76561198361563643",
+			"CarId": 18,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5467017,
+			"LapTime": 77308,
+			"Sectors": [
+				21854,
+				30772,
+				24682
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "christoph1954",
+			"DriverGuid": "76561197998044711",
+			"CarId": 15,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5469889,
+			"LapTime": 123166,
+			"Sectors": [
+				22798,
+				72297,
+				28071
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Miku",
+			"DriverGuid": "76561198384157739",
+			"CarId": 8,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5471570,
+			"LapTime": 77543,
+			"Sectors": [
+				22293,
+				29614,
+				25636
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Bionic_Bromando",
+			"DriverGuid": "76561198024344616",
+			"CarId": 17,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5476623,
+			"LapTime": 76312,
+			"Sectors": [
+				21691,
+				29903,
+				24718
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Merlijn Percas",
+			"DriverGuid": "76561198872987414",
+			"CarId": 9,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5484139,
+			"LapTime": 76689,
+			"Sectors": [
+				22392,
+				29484,
+				24813
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "GoodsmileRacing",
+			"DriverGuid": "76561198025181930",
+			"CarId": 6,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5518212,
+			"LapTime": 73677,
+			"Sectors": [
+				21382,
+				28373,
+				23922
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Juan San Martin",
+			"DriverGuid": "76561198027691137",
+			"CarId": 14,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5520162,
+			"LapTime": 73670,
+			"Sectors": [
+				21277,
+				28624,
+				23769
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Wolf5698",
+			"DriverGuid": "76561198058313635",
+			"CarId": 12,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5522339,
+			"LapTime": 74642,
+			"Sectors": [
+				21156,
+				28637,
+				24849
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Mellero",
+			"DriverGuid": "76561198136977886",
+			"CarId": 10,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5523039,
+			"LapTime": 73712,
+			"Sectors": [
+				21288,
+				28399,
+				24025
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Jonah Hax",
+			"DriverGuid": "76561197980423199",
+			"CarId": 5,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5526300,
+			"LapTime": 74391,
+			"Sectors": [
+				21570,
+				28678,
+				24143
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Tecno",
+			"DriverGuid": "76561198041538629",
+			"CarId": 13,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5528451,
+			"LapTime": 74835,
+			"Sectors": [
+				21856,
+				28912,
+				24067
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Benjamin Nash",
+			"DriverGuid": "76561198860527133",
+			"CarId": 7,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5534713,
+			"LapTime": 75499,
+			"Sectors": [
+				21850,
+				28832,
+				24817
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "aqua aqua",
+			"DriverGuid": "76561198361563643",
+			"CarId": 18,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5542714,
+			"LapTime": 75704,
+			"Sectors": [
+				21750,
+				29794,
+				24160
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "christoph1954",
+			"DriverGuid": "76561197998044711",
+			"CarId": 15,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5545762,
+			"LapTime": 75876,
+			"Sectors": [
+				21867,
+				29110,
+				24899
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Miku",
+			"DriverGuid": "76561198384157739",
+			"CarId": 8,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5548667,
+			"LapTime": 77105,
+			"Sectors": [
+				21882,
+				29753,
+				25470
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Bionic_Bromando",
+			"DriverGuid": "76561198024344616",
+			"CarId": 17,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5553774,
+			"LapTime": 77158,
+			"Sectors": [
+				23351,
+				29624,
+				24183
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Merlijn Percas",
+			"DriverGuid": "76561198872987414",
+			"CarId": 9,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5560709,
+			"LapTime": 76576,
+			"Sectors": [
+				22144,
+				29916,
+				24516
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "GoodsmileRacing",
+			"DriverGuid": "76561198025181930",
+			"CarId": 6,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5591935,
+			"LapTime": 73728,
+			"Sectors": [
+				21275,
+				28526,
+				23927
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Juan San Martin",
+			"DriverGuid": "76561198027691137",
+			"CarId": 14,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5594376,
+			"LapTime": 74217,
+			"Sectors": [
+				21342,
+				28763,
+				24112
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Wolf5698",
+			"DriverGuid": "76561198058313635",
+			"CarId": 12,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5595719,
+			"LapTime": 73384,
+			"Sectors": [
+				21351,
+				28215,
+				23818
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Mellero",
+			"DriverGuid": "76561198136977886",
+			"CarId": 10,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5597426,
+			"LapTime": 74396,
+			"Sectors": [
+				21351,
+				28453,
+				24592
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Jonah Hax",
+			"DriverGuid": "76561197980423199",
+			"CarId": 5,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5601001,
+			"LapTime": 74704,
+			"Sectors": [
+				21681,
+				28610,
+				24413
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Tecno",
+			"DriverGuid": "76561198041538629",
+			"CarId": 13,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5603093,
+			"LapTime": 74645,
+			"Sectors": [
+				21536,
+				28819,
+				24290
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Benjamin Nash",
+			"DriverGuid": "76561198860527133",
+			"CarId": 7,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5610522,
+			"LapTime": 75817,
+			"Sectors": [
+				21556,
+				29875,
+				24386
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "aqua aqua",
+			"DriverGuid": "76561198361563643",
+			"CarId": 18,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5618673,
+			"LapTime": 75963,
+			"Sectors": [
+				22017,
+				29587,
+				24359
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Miku",
+			"DriverGuid": "76561198384157739",
+			"CarId": 8,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5626213,
+			"LapTime": 77551,
+			"Sectors": [
+				21927,
+				30194,
+				25430
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Bionic_Bromando",
+			"DriverGuid": "76561198024344616",
+			"CarId": 17,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5629573,
+			"LapTime": 75804,
+			"Sectors": [
+				21785,
+				29556,
+				24463
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "christoph1954",
+			"DriverGuid": "76561197998044711",
+			"CarId": 15,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5635017,
+			"LapTime": 89261,
+			"Sectors": [
+				34177,
+				29673,
+				25411
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Merlijn Percas",
+			"DriverGuid": "76561198872987414",
+			"CarId": 9,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5636578,
+			"LapTime": 75875,
+			"Sectors": [
+				22056,
+				29519,
+				24300
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "GoodsmileRacing",
+			"DriverGuid": "76561198025181930",
+			"CarId": 6,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5666081,
+			"LapTime": 74150,
+			"Sectors": [
+				21798,
+				28467,
+				23885
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Juan San Martin",
+			"DriverGuid": "76561198027691137",
+			"CarId": 14,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5667904,
+			"LapTime": 73534,
+			"Sectors": [
+				21267,
+				28466,
+				23801
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Wolf5698",
+			"DriverGuid": "76561198058313635",
+			"CarId": 12,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5669373,
+			"LapTime": 73657,
+			"Sectors": [
+				21133,
+				28854,
+				23670
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Mellero",
+			"DriverGuid": "76561198136977886",
+			"CarId": 10,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5671516,
+			"LapTime": 74099,
+			"Sectors": [
+				21378,
+				28575,
+				24146
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Jonah Hax",
+			"DriverGuid": "76561197980423199",
+			"CarId": 5,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5675328,
+			"LapTime": 74332,
+			"Sectors": [
+				21633,
+				28511,
+				24188
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Tecno",
+			"DriverGuid": "76561198041538629",
+			"CarId": 13,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5677579,
+			"LapTime": 74487,
+			"Sectors": [
+				21724,
+				28688,
+				24075
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Benjamin Nash",
+			"DriverGuid": "76561198860527133",
+			"CarId": 7,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5685510,
+			"LapTime": 74993,
+			"Sectors": [
+				21506,
+				29142,
+				24345
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "aqua aqua",
+			"DriverGuid": "76561198361563643",
+			"CarId": 18,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5694569,
+			"LapTime": 75901,
+			"Sectors": [
+				21644,
+				30195,
+				24062
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Miku",
+			"DriverGuid": "76561198384157739",
+			"CarId": 8,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5703454,
+			"LapTime": 77243,
+			"Sectors": [
+				21952,
+				29727,
+				25564
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Bionic_Bromando",
+			"DriverGuid": "76561198024344616",
+			"CarId": 17,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5705064,
+			"LapTime": 75500,
+			"Sectors": [
+				21820,
+				29259,
+				24421
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Merlijn Percas",
+			"DriverGuid": "76561198872987414",
+			"CarId": 9,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5712326,
+			"LapTime": 75751,
+			"Sectors": [
+				22061,
+				29260,
+				24430
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "christoph1954",
+			"DriverGuid": "76561197998044711",
+			"CarId": 15,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5720512,
+			"LapTime": 85502,
+			"Sectors": [
+				30976,
+				29479,
+				25047
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "GoodsmileRacing",
+			"DriverGuid": "76561198025181930",
+			"CarId": 6,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5739938,
+			"LapTime": 73861,
+			"Sectors": [
+				21404,
+				28387,
+				24070
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Juan San Martin",
+			"DriverGuid": "76561198027691137",
+			"CarId": 14,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5741589,
+			"LapTime": 73688,
+			"Sectors": [
+				21246,
+				28620,
+				23822
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Wolf5698",
+			"DriverGuid": "76561198058313635",
+			"CarId": 12,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5743275,
+			"LapTime": 73905,
+			"Sectors": [
+				21511,
+				28269,
+				24125
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Mellero",
+			"DriverGuid": "76561198136977886",
+			"CarId": 10,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5745761,
+			"LapTime": 74253,
+			"Sectors": [
+				21616,
+				28660,
+				23977
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Jonah Hax",
+			"DriverGuid": "76561197980423199",
+			"CarId": 5,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5749944,
+			"LapTime": 74620,
+			"Sectors": [
+				21687,
+				28786,
+				24147
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Tecno",
+			"DriverGuid": "76561198041538629",
+			"CarId": 13,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5752379,
+			"LapTime": 74803,
+			"Sectors": [
+				21649,
+				28836,
+				24318
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Benjamin Nash",
+			"DriverGuid": "76561198860527133",
+			"CarId": 7,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5760492,
+			"LapTime": 74986,
+			"Sectors": [
+				21593,
+				28746,
+				24647
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "aqua aqua",
+			"DriverGuid": "76561198361563643",
+			"CarId": 18,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5771254,
+			"LapTime": 76686,
+			"Sectors": [
+				21961,
+				30474,
+				24251
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Miku",
+			"DriverGuid": "76561198384157739",
+			"CarId": 8,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5780673,
+			"LapTime": 77222,
+			"Sectors": [
+				21818,
+				29754,
+				25650
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Bionic_Bromando",
+			"DriverGuid": "76561198024344616",
+			"CarId": 17,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5781336,
+			"LapTime": 76278,
+			"Sectors": [
+				22116,
+				28979,
+				25183
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Merlijn Percas",
+			"DriverGuid": "76561198872987414",
+			"CarId": 9,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5788302,
+			"LapTime": 75983,
+			"Sectors": [
+				22065,
+				29195,
+				24723
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "christoph1954",
+			"DriverGuid": "76561197998044711",
+			"CarId": 15,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5797107,
+			"LapTime": 76601,
+			"Sectors": [
+				22318,
+				29416,
+				24867
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "GoodsmileRacing",
+			"DriverGuid": "76561198025181930",
+			"CarId": 6,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5813704,
+			"LapTime": 73770,
+			"Sectors": [
+				21304,
+				28391,
+				24075
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Juan San Martin",
+			"DriverGuid": "76561198027691137",
+			"CarId": 14,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5815198,
+			"LapTime": 73614,
+			"Sectors": [
+				21260,
+				28679,
+				23675
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Wolf5698",
+			"DriverGuid": "76561198058313635",
+			"CarId": 12,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5816719,
+			"LapTime": 73448,
+			"Sectors": [
+				21163,
+				28426,
+				23859
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Mellero",
+			"DriverGuid": "76561198136977886",
+			"CarId": 10,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5819593,
+			"LapTime": 73840,
+			"Sectors": [
+				21406,
+				28552,
+				23882
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Jonah Hax",
+			"DriverGuid": "76561197980423199",
+			"CarId": 5,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5824841,
+			"LapTime": 74899,
+			"Sectors": [
+				21565,
+				28728,
+				24606
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Tecno",
+			"DriverGuid": "76561198041538629",
+			"CarId": 13,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5827075,
+			"LapTime": 74697,
+			"Sectors": [
+				21659,
+				28747,
+				24291
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Benjamin Nash",
+			"DriverGuid": "76561198860527133",
+			"CarId": 7,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5835444,
+			"LapTime": 74957,
+			"Sectors": [
+				21362,
+				28949,
+				24646
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "aqua aqua",
+			"DriverGuid": "76561198361563643",
+			"CarId": 18,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5847370,
+			"LapTime": 76121,
+			"Sectors": [
+				21879,
+				29862,
+				24380
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Miku",
+			"DriverGuid": "76561198384157739",
+			"CarId": 8,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5857407,
+			"LapTime": 76741,
+			"Sectors": [
+				21670,
+				29750,
+				25321
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Bionic_Bromando",
+			"DriverGuid": "76561198024344616",
+			"CarId": 17,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5857434,
+			"LapTime": 76104,
+			"Sectors": [
+				21788,
+				29318,
+				24998
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Merlijn Percas",
+			"DriverGuid": "76561198872987414",
+			"CarId": 9,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5863962,
+			"LapTime": 75665,
+			"Sectors": [
+				21868,
+				29543,
+				24254
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "christoph1954",
+			"DriverGuid": "76561197998044711",
+			"CarId": 15,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5875169,
+			"LapTime": 78068,
+			"Sectors": [
+				22273,
+				30587,
+				25208
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "GoodsmileRacing",
+			"DriverGuid": "76561198025181930",
+			"CarId": 6,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5887784,
+			"LapTime": 74083,
+			"Sectors": [
+				21388,
+				28418,
+				24277
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Juan San Martin",
+			"DriverGuid": "76561198027691137",
+			"CarId": 14,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5888587,
+			"LapTime": 73386,
+			"Sectors": [
+				21168,
+				28601,
+				23617
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Wolf5698",
+			"DriverGuid": "76561198058313635",
+			"CarId": 12,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5890190,
+			"LapTime": 73474,
+			"Sectors": [
+				21180,
+				28440,
+				23854
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Mellero",
+			"DriverGuid": "76561198136977886",
+			"CarId": 10,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5893800,
+			"LapTime": 74215,
+			"Sectors": [
+				21255,
+				28808,
+				24152
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Jonah Hax",
+			"DriverGuid": "76561197980423199",
+			"CarId": 5,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5899229,
+			"LapTime": 74391,
+			"Sectors": [
+				21515,
+				28652,
+				24224
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Tecno",
+			"DriverGuid": "76561198041538629",
+			"CarId": 13,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5901843,
+			"LapTime": 74771,
+			"Sectors": [
+				21775,
+				28818,
+				24178
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Benjamin Nash",
+			"DriverGuid": "76561198860527133",
+			"CarId": 7,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5909921,
+			"LapTime": 74482,
+			"Sectors": [
+				21450,
+				28849,
+				24183
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "aqua aqua",
+			"DriverGuid": "76561198361563643",
+			"CarId": 18,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5925606,
+			"LapTime": 78239,
+			"Sectors": [
+				23052,
+				30195,
+				24992
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Bionic_Bromando",
+			"DriverGuid": "76561198024344616",
+			"CarId": 17,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5933530,
+			"LapTime": 76103,
+			"Sectors": [
+				22216,
+				29511,
+				24376
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Miku",
+			"DriverGuid": "76561198384157739",
+			"CarId": 8,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5935465,
+			"LapTime": 78062,
+			"Sectors": [
+				22434,
+				30338,
+				25290
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Merlijn Percas",
+			"DriverGuid": "76561198872987414",
+			"CarId": 9,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5939573,
+			"LapTime": 75616,
+			"Sectors": [
+				21908,
+				29323,
+				24385
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "christoph1954",
+			"DriverGuid": "76561197998044711",
+			"CarId": 15,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5951575,
+			"LapTime": 76412,
+			"Sectors": [
+				22016,
+				29367,
+				25029
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "GoodsmileRacing",
+			"DriverGuid": "76561198025181930",
+			"CarId": 6,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5961070,
+			"LapTime": 73292,
+			"Sectors": [
+				21124,
+				28256,
+				23912
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Juan San Martin",
+			"DriverGuid": "76561198027691137",
+			"CarId": 14,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5962473,
+			"LapTime": 73890,
+			"Sectors": [
+				21231,
+				28512,
+				24147
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Wolf5698",
+			"DriverGuid": "76561198058313635",
+			"CarId": 12,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5963378,
+			"LapTime": 73193,
+			"Sectors": [
+				21052,
+				28413,
+				23728
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Mellero",
+			"DriverGuid": "76561198136977886",
+			"CarId": 10,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5968360,
+			"LapTime": 74570,
+			"Sectors": [
+				21376,
+				28917,
+				24277
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Jonah Hax",
+			"DriverGuid": "76561197980423199",
+			"CarId": 5,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5974112,
+			"LapTime": 74888,
+			"Sectors": [
+				21582,
+				28768,
+				24538
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Tecno",
+			"DriverGuid": "76561198041538629",
+			"CarId": 13,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5976522,
+			"LapTime": 74680,
+			"Sectors": [
+				21639,
+				28989,
+				24052
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Benjamin Nash",
+			"DriverGuid": "76561198860527133",
+			"CarId": 7,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 5985312,
+			"LapTime": 75385,
+			"Sectors": [
+				21596,
+				28801,
+				24988
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "aqua aqua",
+			"DriverGuid": "76561198361563643",
+			"CarId": 18,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6002545,
+			"LapTime": 76944,
+			"Sectors": [
+				22390,
+				29893,
+				24661
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Bionic_Bromando",
+			"DriverGuid": "76561198024344616",
+			"CarId": 17,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6009355,
+			"LapTime": 75832,
+			"Sectors": [
+				21809,
+				29201,
+				24822
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Miku",
+			"DriverGuid": "76561198384157739",
+			"CarId": 8,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6012250,
+			"LapTime": 76790,
+			"Sectors": [
+				21918,
+				29438,
+				25434
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Merlijn Percas",
+			"DriverGuid": "76561198872987414",
+			"CarId": 9,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6015013,
+			"LapTime": 75443,
+			"Sectors": [
+				21934,
+				29250,
+				24259
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "christoph1954",
+			"DriverGuid": "76561197998044711",
+			"CarId": 15,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6027667,
+			"LapTime": 76097,
+			"Sectors": [
+				22003,
+				29300,
+				24794
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "GoodsmileRacing",
+			"DriverGuid": "76561198025181930",
+			"CarId": 6,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6034684,
+			"LapTime": 73618,
+			"Sectors": [
+				21441,
+				28241,
+				23936
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Juan San Martin",
+			"DriverGuid": "76561198027691137",
+			"CarId": 14,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6036298,
+			"LapTime": 73831,
+			"Sectors": [
+				21203,
+				28764,
+				23864
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Wolf5698",
+			"DriverGuid": "76561198058313635",
+			"CarId": 12,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6036635,
+			"LapTime": 73262,
+			"Sectors": [
+				21134,
+				28495,
+				23633
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Mellero",
+			"DriverGuid": "76561198136977886",
+			"CarId": 10,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6042312,
+			"LapTime": 73960,
+			"Sectors": [
+				21387,
+				28448,
+				24125
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Jonah Hax",
+			"DriverGuid": "76561197980423199",
+			"CarId": 5,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6048573,
+			"LapTime": 74464,
+			"Sectors": [
+				21692,
+				28994,
+				23778
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Tecno",
+			"DriverGuid": "76561198041538629",
+			"CarId": 13,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6052034,
+			"LapTime": 75515,
+			"Sectors": [
+				21696,
+				29024,
+				24795
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Benjamin Nash",
+			"DriverGuid": "76561198860527133",
+			"CarId": 7,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6060645,
+			"LapTime": 75344,
+			"Sectors": [
+				21659,
+				28971,
+				24714
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "aqua aqua",
+			"DriverGuid": "76561198361563643",
+			"CarId": 18,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6079410,
+			"LapTime": 76868,
+			"Sectors": [
+				22175,
+				29714,
+				24979
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Bionic_Bromando",
+			"DriverGuid": "76561198024344616",
+			"CarId": 17,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6084626,
+			"LapTime": 75277,
+			"Sectors": [
+				21817,
+				29272,
+				24188
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Miku",
+			"DriverGuid": "76561198384157739",
+			"CarId": 8,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6089117,
+			"LapTime": 76871,
+			"Sectors": [
+				22044,
+				29888,
+				24939
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Merlijn Percas",
+			"DriverGuid": "76561198872987414",
+			"CarId": 9,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6090680,
+			"LapTime": 75674,
+			"Sectors": [
+				22003,
+				29574,
+				24097
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "christoph1954",
+			"DriverGuid": "76561197998044711",
+			"CarId": 15,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6104426,
+			"LapTime": 76764,
+			"Sectors": [
+				22129,
+				29777,
+				24858
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "GoodsmileRacing",
+			"DriverGuid": "76561198025181930",
+			"CarId": 6,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6108915,
+			"LapTime": 74237,
+			"Sectors": [
+				21407,
+				28306,
+				24524
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Juan San Martin",
+			"DriverGuid": "76561198027691137",
+			"CarId": 14,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6113423,
+			"LapTime": 77127,
+			"Sectors": [
+				21948,
+				28790,
+				26389
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Mellero",
+			"DriverGuid": "76561198136977886",
+			"CarId": 10,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6117103,
+			"LapTime": 74800,
+			"Sectors": [
+				21673,
+				28930,
+				24197
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Jonah Hax",
+			"DriverGuid": "76561197980423199",
+			"CarId": 5,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6123421,
+			"LapTime": 74850,
+			"Sectors": [
+				21781,
+				28849,
+				24220
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Tecno",
+			"DriverGuid": "76561198041538629",
+			"CarId": 13,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6127217,
+			"LapTime": 75188,
+			"Sectors": [
+				21675,
+				29029,
+				24484
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Benjamin Nash",
+			"DriverGuid": "76561198860527133",
+			"CarId": 7,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6135093,
+			"LapTime": 74455,
+			"Sectors": [
+				21481,
+				28688,
+				24286
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Wolf5698",
+			"DriverGuid": "76561198058313635",
+			"CarId": 12,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6154897,
+			"LapTime": 118267,
+			"Sectors": [
+				21360,
+				71909,
+				24998
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "aqua aqua",
+			"DriverGuid": "76561198361563643",
+			"CarId": 18,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6156106,
+			"LapTime": 76395,
+			"Sectors": [
+				22152,
+				29717,
+				24526
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Bionic_Bromando",
+			"DriverGuid": "76561198024344616",
+			"CarId": 17,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6159889,
+			"LapTime": 75272,
+			"Sectors": [
+				21502,
+				29533,
+				24237
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Merlijn Percas",
+			"DriverGuid": "76561198872987414",
+			"CarId": 9,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6167038,
+			"LapTime": 76363,
+			"Sectors": [
+				21886,
+				29660,
+				24817
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Miku",
+			"DriverGuid": "76561198384157739",
+			"CarId": 8,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6167074,
+			"LapTime": 77961,
+			"Sectors": [
+				21900,
+				30213,
+				25848
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "christoph1954",
+			"DriverGuid": "76561197998044711",
+			"CarId": 15,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6181144,
+			"LapTime": 76724,
+			"Sectors": [
+				21915,
+				30024,
+				24785
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "GoodsmileRacing",
+			"DriverGuid": "76561198025181930",
+			"CarId": 6,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6182333,
+			"LapTime": 73424,
+			"Sectors": [
+				21413,
+				28315,
+				23696
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Juan San Martin",
+			"DriverGuid": "76561198027691137",
+			"CarId": 14,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6187571,
+			"LapTime": 74151,
+			"Sectors": [
+				21500,
+				28755,
+				23896
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Mellero",
+			"DriverGuid": "76561198136977886",
+			"CarId": 10,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6190645,
+			"LapTime": 73549,
+			"Sectors": [
+				21417,
+				28413,
+				23719
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Jonah Hax",
+			"DriverGuid": "76561197980423199",
+			"CarId": 5,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6197095,
+			"LapTime": 73678,
+			"Sectors": [
+				21447,
+				28394,
+				23837
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Tecno",
+			"DriverGuid": "76561198041538629",
+			"CarId": 13,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6202751,
+			"LapTime": 75535,
+			"Sectors": [
+				21818,
+				29088,
+				24629
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Benjamin Nash",
+			"DriverGuid": "76561198860527133",
+			"CarId": 7,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6210358,
+			"LapTime": 75268,
+			"Sectors": [
+				21417,
+				29177,
+				24674
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Wolf5698",
+			"DriverGuid": "76561198058313635",
+			"CarId": 12,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6228415,
+			"LapTime": 73518,
+			"Sectors": [
+				21137,
+				28314,
+				24067
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "aqua aqua",
+			"DriverGuid": "76561198361563643",
+			"CarId": 18,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6231380,
+			"LapTime": 75581,
+			"Sectors": [
+				21744,
+				29227,
+				24610
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Bionic_Bromando",
+			"DriverGuid": "76561198024344616",
+			"CarId": 17,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6234896,
+			"LapTime": 75013,
+			"Sectors": [
+				21562,
+				28926,
+				24525
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Merlijn Percas",
+			"DriverGuid": "76561198872987414",
+			"CarId": 9,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6244396,
+			"LapTime": 77356,
+			"Sectors": [
+				22222,
+				30411,
+				24723
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Miku",
+			"DriverGuid": "76561198384157739",
+			"CarId": 8,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6245566,
+			"LapTime": 78498,
+			"Sectors": [
+				22446,
+				30447,
+				25605
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "GoodsmileRacing",
+			"DriverGuid": "76561198025181930",
+			"CarId": 6,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6256011,
+			"LapTime": 73681,
+			"Sectors": [
+				21189,
+				28835,
+				23657
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "christoph1954",
+			"DriverGuid": "76561197998044711",
+			"CarId": 15,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6259201,
+			"LapTime": 78060,
+			"Sectors": [
+				21945,
+				31005,
+				25110
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Juan San Martin",
+			"DriverGuid": "76561198027691137",
+			"CarId": 14,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6261556,
+			"LapTime": 73989,
+			"Sectors": [
+				21298,
+				28921,
+				23770
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Mellero",
+			"DriverGuid": "76561198136977886",
+			"CarId": 10,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6264767,
+			"LapTime": 74130,
+			"Sectors": [
+				21322,
+				28543,
+				24265
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Jonah Hax",
+			"DriverGuid": "76561197980423199",
+			"CarId": 5,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6271138,
+			"LapTime": 74048,
+			"Sectors": [
+				21345,
+				28737,
+				23966
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Tecno",
+			"DriverGuid": "76561198041538629",
+			"CarId": 13,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6277633,
+			"LapTime": 74885,
+			"Sectors": [
+				21804,
+				28854,
+				24227
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Benjamin Nash",
+			"DriverGuid": "76561198860527133",
+			"CarId": 7,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6285183,
+			"LapTime": 74818,
+			"Sectors": [
+				21372,
+				28696,
+				24750
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Wolf5698",
+			"DriverGuid": "76561198058313635",
+			"CarId": 12,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6302142,
+			"LapTime": 73732,
+			"Sectors": [
+				21365,
+				28616,
+				23751
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "aqua aqua",
+			"DriverGuid": "76561198361563643",
+			"CarId": 18,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6306554,
+			"LapTime": 75180,
+			"Sectors": [
+				21877,
+				29129,
+				24174
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Bionic_Bromando",
+			"DriverGuid": "76561198024344616",
+			"CarId": 17,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6311076,
+			"LapTime": 76186,
+			"Sectors": [
+				21588,
+				29447,
+				25151
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Merlijn Percas",
+			"DriverGuid": "76561198872987414",
+			"CarId": 9,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6320351,
+			"LapTime": 75966,
+			"Sectors": [
+				22114,
+				29470,
+				24382
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Miku",
+			"DriverGuid": "76561198384157739",
+			"CarId": 8,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6323129,
+			"LapTime": 77566,
+			"Sectors": [
+				22261,
+				29857,
+				25448
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "GoodsmileRacing",
+			"DriverGuid": "76561198025181930",
+			"CarId": 6,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6328960,
+			"LapTime": 72951,
+			"Sectors": [
+				21169,
+				28120,
+				23662
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "christoph1954",
+			"DriverGuid": "76561197998044711",
+			"CarId": 15,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6335308,
+			"LapTime": 76112,
+			"Sectors": [
+				21987,
+				29258,
+				24867
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Mellero",
+			"DriverGuid": "76561198136977886",
+			"CarId": 10,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6339502,
+			"LapTime": 74744,
+			"Sectors": [
+				21577,
+				28557,
+				24610
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Jonah Hax",
+			"DriverGuid": "76561197980423199",
+			"CarId": 5,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6346361,
+			"LapTime": 75225,
+			"Sectors": [
+				21521,
+				28657,
+				25047
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Juan San Martin",
+			"DriverGuid": "76561198027691137",
+			"CarId": 14,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6346597,
+			"LapTime": 85041,
+			"Sectors": [
+				21141,
+				28970,
+				34930
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Tecno",
+			"DriverGuid": "76561198041538629",
+			"CarId": 13,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6352706,
+			"LapTime": 75076,
+			"Sectors": [
+				21845,
+				28985,
+				24246
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Benjamin Nash",
+			"DriverGuid": "76561198860527133",
+			"CarId": 7,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6360572,
+			"LapTime": 75407,
+			"Sectors": [
+				21749,
+				29192,
+				24466
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Wolf5698",
+			"DriverGuid": "76561198058313635",
+			"CarId": 12,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6375553,
+			"LapTime": 73414,
+			"Sectors": [
+				21021,
+				28331,
+				24062
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "aqua aqua",
+			"DriverGuid": "76561198361563643",
+			"CarId": 18,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6382199,
+			"LapTime": 75649,
+			"Sectors": [
+				21599,
+				29426,
+				24624
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Bionic_Bromando",
+			"DriverGuid": "76561198024344616",
+			"CarId": 17,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6386309,
+			"LapTime": 75241,
+			"Sectors": [
+				21912,
+				29033,
+				24296
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Merlijn Percas",
+			"DriverGuid": "76561198872987414",
+			"CarId": 9,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6395734,
+			"LapTime": 75388,
+			"Sectors": [
+				21501,
+				29353,
+				24534
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Miku",
+			"DriverGuid": "76561198384157739",
+			"CarId": 8,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6401321,
+			"LapTime": 78193,
+			"Sectors": [
+				21884,
+				30762,
+				25547
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "GoodsmileRacing",
+			"DriverGuid": "76561198025181930",
+			"CarId": 6,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6401954,
+			"LapTime": 72998,
+			"Sectors": [
+				21051,
+				28224,
+				23723
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "christoph1954",
+			"DriverGuid": "76561197998044711",
+			"CarId": 15,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6413088,
+			"LapTime": 77785,
+			"Sectors": [
+				21891,
+				29358,
+				26536
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Mellero",
+			"DriverGuid": "76561198136977886",
+			"CarId": 10,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6413105,
+			"LapTime": 73613,
+			"Sectors": [
+				21432,
+				28494,
+				23687
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Juan San Martin",
+			"DriverGuid": "76561198027691137",
+			"CarId": 14,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6420390,
+			"LapTime": 73799,
+			"Sectors": [
+				21636,
+				28457,
+				23706
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Jonah Hax",
+			"DriverGuid": "76561197980423199",
+			"CarId": 5,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6421523,
+			"LapTime": 75167,
+			"Sectors": [
+				21955,
+				28822,
+				24390
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Tecno",
+			"DriverGuid": "76561198041538629",
+			"CarId": 13,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6428515,
+			"LapTime": 75812,
+			"Sectors": [
+				21759,
+				29146,
+				24907
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Benjamin Nash",
+			"DriverGuid": "76561198860527133",
+			"CarId": 7,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6438626,
+			"LapTime": 78059,
+			"Sectors": [
+				21702,
+				31873,
+				24484
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Wolf5698",
+			"DriverGuid": "76561198058313635",
+			"CarId": 12,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6449650,
+			"LapTime": 74102,
+			"Sectors": [
+				21147,
+				28444,
+				24511
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "aqua aqua",
+			"DriverGuid": "76561198361563643",
+			"CarId": 18,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6458058,
+			"LapTime": 75858,
+			"Sectors": [
+				22177,
+				29506,
+				24175
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Bionic_Bromando",
+			"DriverGuid": "76561198024344616",
+			"CarId": 17,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6462398,
+			"LapTime": 76096,
+			"Sectors": [
+				21804,
+				29317,
+				24975
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "GoodsmileRacing",
+			"DriverGuid": "76561198025181930",
+			"CarId": 6,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6474752,
+			"LapTime": 72804,
+			"Sectors": [
+				21436,
+				28071,
+				23297
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Mellero",
+			"DriverGuid": "76561198136977886",
+			"CarId": 10,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6486790,
+			"LapTime": 73694,
+			"Sectors": [
+				21413,
+				28459,
+				23822
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Miku",
+			"DriverGuid": "76561198384157739",
+			"CarId": 8,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6489022,
+			"LapTime": 87706,
+			"Sectors": [
+				22704,
+				30095,
+				34907
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "christoph1954",
+			"DriverGuid": "76561197998044711",
+			"CarId": 15,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6490033,
+			"LapTime": 76951,
+			"Sectors": [
+				22600,
+				29637,
+				24714
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Juan San Martin",
+			"DriverGuid": "76561198027691137",
+			"CarId": 14,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6493915,
+			"LapTime": 73532,
+			"Sectors": [
+				21193,
+				28571,
+				23768
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Jonah Hax",
+			"DriverGuid": "76561197980423199",
+			"CarId": 5,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6496751,
+			"LapTime": 75233,
+			"Sectors": [
+				22201,
+				28894,
+				24138
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Tecno",
+			"DriverGuid": "76561198041538629",
+			"CarId": 13,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6504135,
+			"LapTime": 75621,
+			"Sectors": [
+				22098,
+				29357,
+				24166
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Benjamin Nash",
+			"DriverGuid": "76561198860527133",
+			"CarId": 7,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6514092,
+			"LapTime": 75468,
+			"Sectors": [
+				21467,
+				29309,
+				24692
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Wolf5698",
+			"DriverGuid": "76561198058313635",
+			"CarId": 12,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6525132,
+			"LapTime": 75485,
+			"Sectors": [
+				21323,
+				28963,
+				25199
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "aqua aqua",
+			"DriverGuid": "76561198361563643",
+			"CarId": 18,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6534047,
+			"LapTime": 75995,
+			"Sectors": [
+				21960,
+				29785,
+				24250
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Bionic_Bromando",
+			"DriverGuid": "76561198024344616",
+			"CarId": 17,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6540050,
+			"LapTime": 77658,
+			"Sectors": [
+				21947,
+				29219,
+				26492
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "GoodsmileRacing",
+			"DriverGuid": "76561198025181930",
+			"CarId": 6,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6547167,
+			"LapTime": 72418,
+			"Sectors": [
+				20965,
+				28026,
+				23427
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Mellero",
+			"DriverGuid": "76561198136977886",
+			"CarId": 10,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6561473,
+			"LapTime": 74693,
+			"Sectors": [
+				21495,
+				28836,
+				24362
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Miku",
+			"DriverGuid": "76561198384157739",
+			"CarId": 8,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6566661,
+			"LapTime": 77639,
+			"Sectors": [
+				22443,
+				29799,
+				25397
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Juan San Martin",
+			"DriverGuid": "76561198027691137",
+			"CarId": 14,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6567236,
+			"LapTime": 73325,
+			"Sectors": [
+				21135,
+				28349,
+				23841
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "christoph1954",
+			"DriverGuid": "76561197998044711",
+			"CarId": 15,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6567268,
+			"LapTime": 77239,
+			"Sectors": [
+				22303,
+				29722,
+				25214
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Jonah Hax",
+			"DriverGuid": "76561197980423199",
+			"CarId": 5,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6570830,
+			"LapTime": 74082,
+			"Sectors": [
+				21382,
+				28710,
+				23990
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Tecno",
+			"DriverGuid": "76561198041538629",
+			"CarId": 13,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6580091,
+			"LapTime": 75959,
+			"Sectors": [
+				21991,
+				29574,
+				24394
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Benjamin Nash",
+			"DriverGuid": "76561198860527133",
+			"CarId": 7,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6590363,
+			"LapTime": 76275,
+			"Sectors": [
+				21532,
+				28674,
+				26069
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Wolf5698",
+			"DriverGuid": "76561198058313635",
+			"CarId": 12,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6599306,
+			"LapTime": 74180,
+			"Sectors": [
+				21247,
+				28570,
+				24363
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "aqua aqua",
+			"DriverGuid": "76561198361563643",
+			"CarId": 18,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6611181,
+			"LapTime": 77141,
+			"Sectors": [
+				22579,
+				29988,
+				24574
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Bionic_Bromando",
+			"DriverGuid": "76561198024344616",
+			"CarId": 17,
+			"CarModel": "legion_steyr-puch_1000tr",
+			"Timestamp": 6616148,
+			"LapTime": 76104,
+			"Sectors": [
+				22270,
+				29516,
+				24318
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "ST",
+			"Restrictor": 0
+		}
+	],
+	"Events": [
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 17,
+			"Driver": {
+				"Name": "Bionic_Bromando",
+				"Team": "",
+				"Nation": "CAN",
+				"Guid": "76561198024344616",
+				"GuidsList": [
+					"76561198024344616"
+				]
+			},
+			"OtherCarId": 9,
+			"OtherDriver": {
+				"Name": "Merlijn Percas",
+				"Team": "",
+				"Nation": "NLD",
+				"Guid": "76561198872987414",
+				"GuidsList": [
+					"76561198872987414"
+				]
+			},
+			"ImpactSpeed": 3.7884507,
+			"WorldPosition": {
+				"X": -349.17703,
+				"Y": -5.709002,
+				"Z": 43.05941
+			},
+			"RelPosition": {
+				"X": 0.63766485,
+				"Y": -0.05059579,
+				"Z": 1.3334196
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 17,
+			"Driver": {
+				"Name": "Bionic_Bromando",
+				"Team": "",
+				"Nation": "CAN",
+				"Guid": "76561198024344616",
+				"GuidsList": [
+					"76561198024344616"
+				]
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": null
+			},
+			"ImpactSpeed": 28.462154,
+			"WorldPosition": {
+				"X": -437.06158,
+				"Y": -6.8828297,
+				"Z": 0.95256174
+			},
+			"RelPosition": {
+				"X": 0.654817,
+				"Y": 0.056254122,
+				"Z": 1.2923268
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 9,
+			"Driver": {
+				"Name": "Merlijn Percas",
+				"Team": "",
+				"Nation": "NLD",
+				"Guid": "76561198872987414",
+				"GuidsList": [
+					"76561198872987414"
+				]
+			},
+			"OtherCarId": 17,
+			"OtherDriver": {
+				"Name": "Bionic_Bromando",
+				"Team": "",
+				"Nation": "CAN",
+				"Guid": "76561198024344616",
+				"GuidsList": [
+					"76561198024344616"
+				]
+			},
+			"ImpactSpeed": 4.832164,
+			"WorldPosition": {
+				"X": -348.08905,
+				"Y": -5.6620326,
+				"Z": 43.7974
+			},
+			"RelPosition": {
+				"X": -0.6734219,
+				"Y": -0.014127382,
+				"Z": -0.66567403
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 17,
+			"Driver": {
+				"Name": "Bionic_Bromando",
+				"Team": "",
+				"Nation": "CAN",
+				"Guid": "76561198024344616",
+				"GuidsList": [
+					"76561198024344616"
+				]
+			},
+			"OtherCarId": 15,
+			"OtherDriver": {
+				"Name": "christoph1954",
+				"Team": "",
+				"Nation": "ITA",
+				"Guid": "76561197998044711",
+				"GuidsList": [
+					"76561197998044711"
+				]
+			},
+			"ImpactSpeed": 39.222603,
+			"WorldPosition": {
+				"X": 194.30273,
+				"Y": 2.1169717,
+				"Z": 260.30048
+			},
+			"RelPosition": {
+				"X": -0.47171733,
+				"Y": 0.12129293,
+				"Z": 1.5131675
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 15,
+			"Driver": {
+				"Name": "christoph1954",
+				"Team": "",
+				"Nation": "ITA",
+				"Guid": "76561197998044711",
+				"GuidsList": [
+					"76561197998044711"
+				]
+			},
+			"OtherCarId": 17,
+			"OtherDriver": {
+				"Name": "Bionic_Bromando",
+				"Team": "",
+				"Nation": "CAN",
+				"Guid": "76561198024344616",
+				"GuidsList": [
+					"76561198024344616"
+				]
+			},
+			"ImpactSpeed": 53.89025,
+			"WorldPosition": {
+				"X": 194.25937,
+				"Y": 2.1004586,
+				"Z": 260.0001
+			},
+			"RelPosition": {
+				"X": 0.4711085,
+				"Y": 0.09898122,
+				"Z": 1.54905
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 9,
+			"Driver": {
+				"Name": "Merlijn Percas",
+				"Team": "",
+				"Nation": "NLD",
+				"Guid": "76561198872987414",
+				"GuidsList": [
+					"76561198872987414"
+				]
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": null
+			},
+			"ImpactSpeed": 18.073187,
+			"WorldPosition": {
+				"X": -422.39374,
+				"Y": -5.066247,
+				"Z": -83.37379
+			},
+			"RelPosition": {
+				"X": -0.5055679,
+				"Y": 0.097057484,
+				"Z": 1.5681775
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 9,
+			"Driver": {
+				"Name": "Merlijn Percas",
+				"Team": "",
+				"Nation": "NLD",
+				"Guid": "76561198872987414",
+				"GuidsList": [
+					"76561198872987414"
+				]
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": null
+			},
+			"ImpactSpeed": 3.9435706,
+			"WorldPosition": {
+				"X": -406.71597,
+				"Y": -0.9430809,
+				"Z": -103.22484
+			},
+			"RelPosition": {
+				"X": -0.63183296,
+				"Y": -0.088003464,
+				"Z": 1.3477017
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 9,
+			"Driver": {
+				"Name": "Merlijn Percas",
+				"Team": "",
+				"Nation": "NLD",
+				"Guid": "76561198872987414",
+				"GuidsList": [
+					"76561198872987414"
+				]
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": null
+			},
+			"ImpactSpeed": 1.5764118,
+			"WorldPosition": {
+				"X": -404.44376,
+				"Y": -0.65811956,
+				"Z": -103.87689
+			},
+			"RelPosition": {
+				"X": -0.68636936,
+				"Y": 0.09743276,
+				"Z": 0.22346655
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 15,
+			"Driver": {
+				"Name": "christoph1954",
+				"Team": "",
+				"Nation": "ITA",
+				"Guid": "76561197998044711",
+				"GuidsList": [
+					"76561197998044711"
+				]
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": null
+			},
+			"ImpactSpeed": 11.476517,
+			"WorldPosition": {
+				"X": 94.221146,
+				"Y": 5.022149,
+				"Z": 70.67407
+			},
+			"RelPosition": {
+				"X": 0.5055647,
+				"Y": 0.09705693,
+				"Z": 1.5681946
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 15,
+			"Driver": {
+				"Name": "christoph1954",
+				"Team": "",
+				"Nation": "ITA",
+				"Guid": "76561197998044711",
+				"GuidsList": [
+					"76561197998044711"
+				]
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": null
+			},
+			"ImpactSpeed": 15.376725,
+			"WorldPosition": {
+				"X": -430.38223,
+				"Y": -0.785892,
+				"Z": -131.97112
+			},
+			"RelPosition": {
+				"X": 0.49462467,
+				"Y": -0.2741258,
+				"Z": 1.5311453
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 15,
+			"Driver": {
+				"Name": "christoph1954",
+				"Team": "",
+				"Nation": "ITA",
+				"Guid": "76561197998044711",
+				"GuidsList": [
+					"76561197998044711"
+				]
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": null
+			},
+			"ImpactSpeed": 24.088608,
+			"WorldPosition": {
+				"X": -447.81186,
+				"Y": -1.653106,
+				"Z": -121.760345
+			},
+			"RelPosition": {
+				"X": -0.50555664,
+				"Y": 0.09705706,
+				"Z": 1.5681906
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 14,
+			"Driver": {
+				"Name": "Juan San Martin",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198027691137",
+				"GuidsList": [
+					"76561198027691137"
+				]
+			},
+			"OtherCarId": 12,
+			"OtherDriver": {
+				"Name": "Wolf5698",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198058313635",
+				"GuidsList": [
+					"76561198058313635"
+				]
+			},
+			"ImpactSpeed": 10.966897,
+			"WorldPosition": {
+				"X": 66.63076,
+				"Y": -0.35015893,
+				"Z": 244.21338
+			},
+			"RelPosition": {
+				"X": -0.5025183,
+				"Y": -0.0036925524,
+				"Z": 1.5413041
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 9,
+			"Driver": {
+				"Name": "Merlijn Percas",
+				"Team": "",
+				"Nation": "NLD",
+				"Guid": "76561198872987414",
+				"GuidsList": [
+					"76561198872987414"
+				]
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": null
+			},
+			"ImpactSpeed": 41.78107,
+			"WorldPosition": {
+				"X": 170.73914,
+				"Y": 4.1481495,
+				"Z": 170.16977
+			},
+			"RelPosition": {
+				"X": 0.5055577,
+				"Y": -0.020954113,
+				"Z": -1.3194087
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 12,
+			"Driver": {
+				"Name": "Wolf5698",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198058313635",
+				"GuidsList": [
+					"76561198058313635"
+				]
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": null
+			},
+			"ImpactSpeed": 53.543533,
+			"WorldPosition": {
+				"X": -540.6158,
+				"Y": -6.105989,
+				"Z": -81.40678
+			},
+			"RelPosition": {
+				"X": 0.50554895,
+				"Y": 0.097055815,
+				"Z": 1.5681692
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 6,
+			"Driver": {
+				"Name": "GoodsmileRacing",
+				"Team": "",
+				"Nation": "POL",
+				"Guid": "76561198025181930",
+				"GuidsList": [
+					"76561198025181930"
+				]
+			},
+			"OtherCarId": 14,
+			"OtherDriver": {
+				"Name": "Juan San Martin",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198027691137",
+				"GuidsList": [
+					"76561198027691137"
+				]
+			},
+			"ImpactSpeed": 6.772399,
+			"WorldPosition": {
+				"X": 127.40292,
+				"Y": 3.8580425,
+				"Z": 186.99866
+			},
+			"RelPosition": {
+				"X": -0.000006824732,
+				"Y": -0.26605383,
+				"Z": -1.4004568
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 14,
+			"Driver": {
+				"Name": "Juan San Martin",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198027691137",
+				"GuidsList": [
+					"76561198027691137"
+				]
+			},
+			"OtherCarId": 6,
+			"OtherDriver": {
+				"Name": "GoodsmileRacing",
+				"Team": "",
+				"Nation": "POL",
+				"Guid": "76561198025181930",
+				"GuidsList": [
+					"76561198025181930"
+				]
+			},
+			"ImpactSpeed": 7.932889,
+			"WorldPosition": {
+				"X": 127.42294,
+				"Y": 3.8587055,
+				"Z": 186.90244
+			},
+			"RelPosition": {
+				"X": -0.00022280216,
+				"Y": -0.24975224,
+				"Z": 1.5830942
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 14,
+			"Driver": {
+				"Name": "Juan San Martin",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198027691137",
+				"GuidsList": [
+					"76561198027691137"
+				]
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": null
+			},
+			"ImpactSpeed": 46.68495,
+			"WorldPosition": {
+				"X": -141.65501,
+				"Y": -4.502347,
+				"Z": 140.05862
+			},
+			"RelPosition": {
+				"X": 0.50555885,
+				"Y": 0.09705721,
+				"Z": 1.5681782
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 10,
+			"Driver": {
+				"Name": "Mellero",
+				"Team": "",
+				"Nation": "BRA",
+				"Guid": "76561198136977886",
+				"GuidsList": [
+					"76561198136977886"
+				]
+			},
+			"OtherCarId": 14,
+			"OtherDriver": {
+				"Name": "Juan San Martin",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198027691137",
+				"GuidsList": [
+					"76561198027691137"
+				]
+			},
+			"ImpactSpeed": 38.93615,
+			"WorldPosition": {
+				"X": -139.76149,
+				"Y": -4.5990524,
+				"Z": 141.60512
+			},
+			"RelPosition": {
+				"X": 0.50555736,
+				"Y": 0.09705682,
+				"Z": 1.5681883
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 14,
+			"Driver": {
+				"Name": "Juan San Martin",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198027691137",
+				"GuidsList": [
+					"76561198027691137"
+				]
+			},
+			"OtherCarId": 10,
+			"OtherDriver": {
+				"Name": "Mellero",
+				"Team": "",
+				"Nation": "BRA",
+				"Guid": "76561198136977886",
+				"GuidsList": [
+					"76561198136977886"
+				]
+			},
+			"ImpactSpeed": 47.765984,
+			"WorldPosition": {
+				"X": -139.94887,
+				"Y": -4.5759554,
+				"Z": 141.51205
+			},
+			"RelPosition": {
+				"X": 0.6331029,
+				"Y": 0.059804138,
+				"Z": 0.55877197
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 14,
+			"Driver": {
+				"Name": "Juan San Martin",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198027691137",
+				"GuidsList": [
+					"76561198027691137"
+				]
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": null
+			},
+			"ImpactSpeed": 27.286503,
+			"WorldPosition": {
+				"X": -139.45992,
+				"Y": -4.582971,
+				"Z": 138.41856
+			},
+			"RelPosition": {
+				"X": 0.4946381,
+				"Y": -0.2741278,
+				"Z": 1.5311663
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 14,
+			"Driver": {
+				"Name": "Juan San Martin",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198027691137",
+				"GuidsList": [
+					"76561198027691137"
+				]
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": null
+			},
+			"ImpactSpeed": 0.66361535,
+			"WorldPosition": {
+				"X": -133.64372,
+				"Y": -4.22535,
+				"Z": 135.80946
+			},
+			"RelPosition": {
+				"X": 0.5055612,
+				"Y": 0.09705719,
+				"Z": 1.5681976
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 8,
+			"Driver": {
+				"Name": "Miku",
+				"Team": "",
+				"Nation": "CAN",
+				"Guid": "76561198384157739",
+				"GuidsList": [
+					"76561198384157739"
+				]
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": null
+			},
+			"ImpactSpeed": 41.069412,
+			"WorldPosition": {
+				"X": 63.909042,
+				"Y": 4.536847,
+				"Z": 169.61736
+			},
+			"RelPosition": {
+				"X": 0.50555867,
+				"Y": 0.097056866,
+				"Z": 1.5681924
+			}
+		}
+	]
+}

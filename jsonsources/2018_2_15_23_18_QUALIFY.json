@@ -1,0 +1,1646 @@
+{
+	"TrackName": "ks_red_bull_ring",
+	"TrackConfig": "layout_gp",
+	"Type": "QUALIFY",
+	"DurationSecs": 0,
+	"RaceLaps": 0,
+	"Cars": [
+		{
+			"CarId": 0,
+			"Driver": {
+				"Name": "Facajr",
+				"Team": "",
+				"Nation": "",
+				"Guid": "76561198166932231",
+				"GuidsList": [
+					"76561198267742978"
+				]
+			},
+			"Model": "ks_audi_r8_lms_2016",
+			"Skin": "04_racing_28",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 1,
+			"Driver": {
+				"Name": "Diego Assini",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198156516127",
+				"GuidsList": [
+					"76561198156516127"
+				]
+			},
+			"Model": "ks_nissan_gtr_gt3",
+			"Skin": "ac_67",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 2,
+			"Driver": {
+				"Name": "Gustavo Rousseau",
+				"Team": "Audi 10",
+				"Nation": "",
+				"Guid": "76561198137749332",
+				"GuidsList": [
+					"76561198137749332"
+				]
+			},
+			"Model": "ks_audi_r8_lms_2016",
+			"Skin": "24_GRousseau_10",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 3,
+			"Driver": {
+				"Name": "Juan Borselli",
+				"Team": "Porsche 300",
+				"Nation": "",
+				"Guid": "76561197994639038",
+				"GuidsList": [
+					"76561197994639038"
+				]
+			},
+			"Model": "ks_porsche_911_gt3_r_2016",
+			"Skin": "300_borselli",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 4,
+			"Driver": {
+				"Name": "ManchoM",
+				"Team": "",
+				"Nation": "",
+				"Guid": "76561198027336465",
+				"GuidsList": [
+					"76561198027336465"
+				]
+			},
+			"Model": "ks_mercedes_amg_gt3",
+			"Skin": "racing_73",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 5,
+			"Driver": {
+				"Name": "Gabriel Botempo",
+				"Team": "Audi 220",
+				"Nation": "",
+				"Guid": "76561198004742552",
+				"GuidsList": [
+					"76561198004742552"
+				]
+			},
+			"Model": "ks_audi_r8_lms_2016",
+			"Skin": "19_racing_220",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 6,
+			"Driver": {
+				"Name": "Gonzalo Chavez",
+				"Team": "Porsche 911",
+				"Nation": "",
+				"Guid": "76561198046035980",
+				"GuidsList": [
+					"76561198046035980"
+				]
+			},
+			"Model": "ks_porsche_911_gt3_r_2016",
+			"Skin": "0_racing_911b",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 7,
+			"Driver": {
+				"Name": "Hernan Filippini",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198045595861",
+				"GuidsList": [
+					"76561198045595861"
+				]
+			},
+			"Model": "ks_porsche_911_gt3_r_2016",
+			"Skin": "10_Kodak_Images",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 8,
+			"Driver": {
+				"Name": "Diego Nomade",
+				"Team": "Porsche 32",
+				"Nation": "",
+				"Guid": "76561198048738291",
+				"GuidsList": [
+					"76561198048738291"
+				]
+			},
+			"Model": "ks_porsche_911_gt3_r_2016",
+			"Skin": "32_SeeK",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 9,
+			"Driver": {
+				"Name": "Fer Ruiz",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198080396376",
+				"GuidsList": [
+					"76561198080396376"
+				]
+			},
+			"Model": "ks_porsche_911_gt3_r_2016",
+			"Skin": "IMSA_2017_Park_Place_Branca_13",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 10,
+			"Driver": {
+				"Name": "Julian Lopez",
+				"Team": "AMG 42",
+				"Nation": "",
+				"Guid": "76561198069727235",
+				"GuidsList": [
+					"76561198069727235"
+				]
+			},
+			"Model": "ks_mercedes_amg_gt3",
+			"Skin": "JLopez_42",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 11,
+			"Driver": {
+				"Name": "Agustin Bianchi",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198062931035",
+				"GuidsList": [
+					"76561198062931035"
+				]
+			},
+			"Model": "ks_porsche_911_gt3_r_2016",
+			"Skin": "00_gt3",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 12,
+			"Driver": {
+				"Name": "Mario Aseff",
+				"Team": "McLaren 62",
+				"Nation": "",
+				"Guid": "76561198019649613",
+				"GuidsList": [
+					"76561198019649613"
+				]
+			},
+			"Model": "ks_mclaren_650_gt3",
+			"Skin": "racing_62",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 13,
+			"Driver": {
+				"Name": "Pete Pegenaut",
+				"Team": "McLaren 65",
+				"Nation": "",
+				"Guid": "76561198160263505",
+				"GuidsList": [
+					"76561198160263505"
+				]
+			},
+			"Model": "ks_mclaren_650_gt3",
+			"Skin": "racing_65",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 14,
+			"Driver": {
+				"Name": "Javier Toribio",
+				"Team": "Ferrari 497",
+				"Nation": "",
+				"Guid": "76561198243211318",
+				"GuidsList": [
+					"76561198243211318"
+				]
+			},
+			"Model": "ks_ferrari_488_gt3",
+			"Skin": "15_racing_497",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 15,
+			"Driver": {
+				"Name": "danugo",
+				"Team": "",
+				"Nation": "URY",
+				"Guid": "76561198081264364",
+				"GuidsList": [
+					"76561198081264364"
+				]
+			},
+			"Model": "ks_audi_r8_lms_2016",
+			"Skin": "12_racing_37",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 16,
+			"Driver": {
+				"Name": "Matias Iriart",
+				"Team": "BMW 32",
+				"Nation": "",
+				"Guid": "76561198023043342",
+				"GuidsList": [
+					"76561198023043342"
+				]
+			},
+			"Model": "bmw_z4_gt3",
+			"Skin": "MIriart_32",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 17,
+			"Driver": {
+				"Name": "Julian Cardona",
+				"Team": "",
+				"Nation": "COL",
+				"Guid": "76561198320640011",
+				"GuidsList": [
+					"76561198320640011"
+				]
+			},
+			"Model": "ks_audi_r8_lms_2016",
+			"Skin": "06_racing_01",
+			"BallastKG": 0,
+			"Restrictor": 0
+		}
+	],
+	"Result": [
+		{
+			"DriverName": "Fer Ruiz",
+			"DriverGuid": "76561198080396376",
+			"CarId": 9,
+			"CarModel": "ks_porsche_911_gt3_r_2016",
+			"BestLap": 89684,
+			"TotalTime": 826764,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Agustin Bianchi",
+			"DriverGuid": "76561198062931035",
+			"CarId": 11,
+			"CarModel": "ks_porsche_911_gt3_r_2016",
+			"BestLap": 90077,
+			"TotalTime": 955816,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Hernan Filippini",
+			"DriverGuid": "76561198045595861",
+			"CarId": 7,
+			"CarModel": "ks_porsche_911_gt3_r_2016",
+			"BestLap": 90633,
+			"TotalTime": 425253,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "ManchoM",
+			"DriverGuid": "76561198027336465",
+			"CarId": 4,
+			"CarModel": "ks_mercedes_amg_gt3",
+			"BestLap": 90925,
+			"TotalTime": 835238,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Facajr",
+			"DriverGuid": "76561198166932231",
+			"CarId": 0,
+			"CarModel": "ks_audi_r8_lms_2016",
+			"BestLap": 91385,
+			"TotalTime": 806445,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Julian Cardona",
+			"DriverGuid": "76561198320640011",
+			"CarId": 17,
+			"CarModel": "ks_audi_r8_lms_2016",
+			"BestLap": 91488,
+			"TotalTime": 804354,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diego Assini",
+			"DriverGuid": "76561198156516127",
+			"CarId": 1,
+			"CarModel": "ks_nissan_gtr_gt3",
+			"BestLap": 92021,
+			"TotalTime": 930775,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "danugo",
+			"DriverGuid": "76561198081264364",
+			"CarId": 15,
+			"CarModel": "ks_audi_r8_lms_2016",
+			"BestLap": 92198,
+			"TotalTime": 877358,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diego Nomade",
+			"DriverGuid": "76561198048738291",
+			"CarId": 8,
+			"CarModel": "ks_porsche_911_gt3_r_2016",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Juan Borselli",
+			"DriverGuid": "76561197994639038",
+			"CarId": 3,
+			"CarModel": "ks_porsche_911_gt3_r_2016",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Julian Lopez",
+			"DriverGuid": "76561198069727235",
+			"CarId": 10,
+			"CarModel": "ks_mercedes_amg_gt3",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Gustavo Rousseau",
+			"DriverGuid": "76561198137749332",
+			"CarId": 2,
+			"CarModel": "ks_audi_r8_lms_2016",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Mario Aseff",
+			"DriverGuid": "76561198019649613",
+			"CarId": 12,
+			"CarModel": "ks_mclaren_650_gt3",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Pete Pegenaut",
+			"DriverGuid": "76561198160263505",
+			"CarId": 13,
+			"CarModel": "ks_mclaren_650_gt3",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Javier Toribio",
+			"DriverGuid": "76561198243211318",
+			"CarId": 14,
+			"CarModel": "ks_ferrari_488_gt3",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Gabriel Botempo",
+			"DriverGuid": "76561198004742552",
+			"CarId": 5,
+			"CarModel": "ks_audi_r8_lms_2016",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Matias Iriart",
+			"DriverGuid": "76561198023043342",
+			"CarId": 16,
+			"CarModel": "bmw_z4_gt3",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Gonzalo Chavez",
+			"DriverGuid": "76561198046035980",
+			"CarId": 6,
+			"CarModel": "ks_porsche_911_gt3_r_2016",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		}
+	],
+	"Laps": [
+		{
+			"DriverName": "Diego Assini",
+			"DriverGuid": "76561198156516127",
+			"CarId": 1,
+			"CarModel": "ks_nissan_gtr_gt3",
+			"Timestamp": 3831878,
+			"LapTime": 131052,
+			"Sectors": [
+				59331,
+				38735,
+				32986
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "S",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Agustin Bianchi",
+			"DriverGuid": "76561198062931035",
+			"CarId": 11,
+			"CarModel": "ks_porsche_911_gt3_r_2016",
+			"Timestamp": 3836134,
+			"LapTime": 135241,
+			"Sectors": [
+				64514,
+				38147,
+				32580
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Facajr",
+			"DriverGuid": "76561198166932231",
+			"CarId": 0,
+			"CarModel": "ks_audi_r8_lms_2016",
+			"Timestamp": 3858736,
+			"LapTime": 155658,
+			"Sectors": [
+				84310,
+				38597,
+				32751
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "S",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "ManchoM",
+			"DriverGuid": "76561198027336465",
+			"CarId": 4,
+			"CarModel": "ks_mercedes_amg_gt3",
+			"Timestamp": 3860768,
+			"LapTime": 159760,
+			"Sectors": [
+				87868,
+				38592,
+				33300
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "S",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Julian Cardona",
+			"DriverGuid": "76561198320640011",
+			"CarId": 17,
+			"CarModel": "ks_audi_r8_lms_2016",
+			"Timestamp": 3867700,
+			"LapTime": 166610,
+			"Sectors": [
+				95672,
+				38111,
+				32827
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "S",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "danugo",
+			"DriverGuid": "76561198081264364",
+			"CarId": 15,
+			"CarModel": "ks_audi_r8_lms_2016",
+			"Timestamp": 3872932,
+			"LapTime": 171963,
+			"Sectors": [
+				98194,
+				39847,
+				33922
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "S",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diego Assini",
+			"DriverGuid": "76561198156516127",
+			"CarId": 1,
+			"CarModel": "ks_nissan_gtr_gt3",
+			"Timestamp": 3925022,
+			"LapTime": 93136,
+			"Sectors": [
+				21059,
+				38655,
+				33422
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "S",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Agustin Bianchi",
+			"DriverGuid": "76561198062931035",
+			"CarId": 11,
+			"CarModel": "ks_porsche_911_gt3_r_2016",
+			"Timestamp": 3927187,
+			"LapTime": 91050,
+			"Sectors": [
+				20589,
+				37777,
+				32684
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Fer Ruiz",
+			"DriverGuid": "76561198080396376",
+			"CarId": 9,
+			"CarModel": "ks_porsche_911_gt3_r_2016",
+			"Timestamp": 3942826,
+			"LapTime": 241842,
+			"Sectors": [
+				170282,
+				38746,
+				32814
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "S",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Facajr",
+			"DriverGuid": "76561198166932231",
+			"CarId": 0,
+			"CarModel": "ks_audi_r8_lms_2016",
+			"Timestamp": 3950726,
+			"LapTime": 91993,
+			"Sectors": [
+				20821,
+				38498,
+				32674
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "S",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "ManchoM",
+			"DriverGuid": "76561198027336465",
+			"CarId": 4,
+			"CarModel": "ks_mercedes_amg_gt3",
+			"Timestamp": 3952684,
+			"LapTime": 91922,
+			"Sectors": [
+				20993,
+				38188,
+				32741
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "S",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Julian Cardona",
+			"DriverGuid": "76561198320640011",
+			"CarId": 17,
+			"CarModel": "ks_audi_r8_lms_2016",
+			"Timestamp": 3959172,
+			"LapTime": 91488,
+			"Sectors": [
+				20874,
+				37953,
+				32661
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "S",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "danugo",
+			"DriverGuid": "76561198081264364",
+			"CarId": 15,
+			"CarModel": "ks_audi_r8_lms_2016",
+			"Timestamp": 3967255,
+			"LapTime": 94311,
+			"Sectors": [
+				21312,
+				39429,
+				33570
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "S",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diego Assini",
+			"DriverGuid": "76561198156516127",
+			"CarId": 1,
+			"CarModel": "ks_nissan_gtr_gt3",
+			"Timestamp": 4017036,
+			"LapTime": 92021,
+			"Sectors": [
+				20787,
+				38002,
+				33232
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "S",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Agustin Bianchi",
+			"DriverGuid": "76561198062931035",
+			"CarId": 11,
+			"CarModel": "ks_porsche_911_gt3_r_2016",
+			"Timestamp": 4017964,
+			"LapTime": 90787,
+			"Sectors": [
+				20429,
+				37760,
+				32598
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Fer Ruiz",
+			"DriverGuid": "76561198080396376",
+			"CarId": 9,
+			"CarModel": "ks_porsche_911_gt3_r_2016",
+			"Timestamp": 4033665,
+			"LapTime": 90873,
+			"Sectors": [
+				21213,
+				37444,
+				32216
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "S",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Hernan Filippini",
+			"DriverGuid": "76561198045595861",
+			"CarId": 7,
+			"CarModel": "ks_porsche_911_gt3_r_2016",
+			"Timestamp": 4035422,
+			"LapTime": 333299,
+			"Sectors": [
+				263095,
+				37678,
+				32526
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "S",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Julian Cardona",
+			"DriverGuid": "76561198320640011",
+			"CarId": 17,
+			"CarModel": "ks_audi_r8_lms_2016",
+			"Timestamp": 4050745,
+			"LapTime": 91556,
+			"Sectors": [
+				21033,
+				37655,
+				32868
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "S",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "danugo",
+			"DriverGuid": "76561198081264364",
+			"CarId": 15,
+			"CarModel": "ks_audi_r8_lms_2016",
+			"Timestamp": 4060587,
+			"LapTime": 93356,
+			"Sectors": [
+				21388,
+				38588,
+				33380
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "S",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "ManchoM",
+			"DriverGuid": "76561198027336465",
+			"CarId": 4,
+			"CarModel": "ks_mercedes_amg_gt3",
+			"Timestamp": 4080566,
+			"LapTime": 127582,
+			"Sectors": [
+				51806,
+				38237,
+				37539
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "S",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Agustin Bianchi",
+			"DriverGuid": "76561198062931035",
+			"CarId": 11,
+			"CarModel": "ks_porsche_911_gt3_r_2016",
+			"Timestamp": 4108026,
+			"LapTime": 90077,
+			"Sectors": [
+				20521,
+				37300,
+				32256
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diego Assini",
+			"DriverGuid": "76561198156516127",
+			"CarId": 1,
+			"CarModel": "ks_nissan_gtr_gt3",
+			"Timestamp": 4110767,
+			"LapTime": 93737,
+			"Sectors": [
+				21760,
+				38839,
+				33138
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "S",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Fer Ruiz",
+			"DriverGuid": "76561198080396376",
+			"CarId": 9,
+			"CarModel": "ks_porsche_911_gt3_r_2016",
+			"Timestamp": 4124021,
+			"LapTime": 90333,
+			"Sectors": [
+				20614,
+				37638,
+				32081
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "S",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Hernan Filippini",
+			"DriverGuid": "76561198045595861",
+			"CarId": 7,
+			"CarModel": "ks_porsche_911_gt3_r_2016",
+			"Timestamp": 4126041,
+			"LapTime": 90633,
+			"Sectors": [
+				20685,
+				37529,
+				32419
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "S",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Facajr",
+			"DriverGuid": "76561198166932231",
+			"CarId": 0,
+			"CarModel": "ks_audi_r8_lms_2016",
+			"Timestamp": 4140206,
+			"LapTime": 189482,
+			"Sectors": [
+				118202,
+				38728,
+				32552
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "S",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "danugo",
+			"DriverGuid": "76561198081264364",
+			"CarId": 15,
+			"CarModel": "ks_audi_r8_lms_2016",
+			"Timestamp": 4153466,
+			"LapTime": 92883,
+			"Sectors": [
+				20959,
+				38210,
+				33714
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "S",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "ManchoM",
+			"DriverGuid": "76561198027336465",
+			"CarId": 4,
+			"CarModel": "ks_mercedes_amg_gt3",
+			"Timestamp": 4171571,
+			"LapTime": 91310,
+			"Sectors": [
+				20656,
+				38232,
+				32422
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "S",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diego Assini",
+			"DriverGuid": "76561198156516127",
+			"CarId": 1,
+			"CarModel": "ks_nissan_gtr_gt3",
+			"Timestamp": 4203120,
+			"LapTime": 92351,
+			"Sectors": [
+				20739,
+				38133,
+				33479
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "S",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Fer Ruiz",
+			"DriverGuid": "76561198080396376",
+			"CarId": 9,
+			"CarModel": "ks_porsche_911_gt3_r_2016",
+			"Timestamp": 4214044,
+			"LapTime": 90044,
+			"Sectors": [
+				20650,
+				37184,
+				32210
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "S",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Hernan Filippini",
+			"DriverGuid": "76561198045595861",
+			"CarId": 7,
+			"CarModel": "ks_porsche_911_gt3_r_2016",
+			"Timestamp": 4217091,
+			"LapTime": 91035,
+			"Sectors": [
+				20736,
+				38069,
+				32230
+			],
+			"Cuts": 2,
+			"BallastKG": 0,
+			"Tyre": "S",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Julian Cardona",
+			"DriverGuid": "76561198320640011",
+			"CarId": 17,
+			"CarModel": "ks_audi_r8_lms_2016",
+			"Timestamp": 4230338,
+			"LapTime": 179607,
+			"Sectors": [
+				108893,
+				38367,
+				32347
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "S",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Facajr",
+			"DriverGuid": "76561198166932231",
+			"CarId": 0,
+			"CarModel": "ks_audi_r8_lms_2016",
+			"Timestamp": 4232242,
+			"LapTime": 92037,
+			"Sectors": [
+				20639,
+				39142,
+				32256
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "S",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Agustin Bianchi",
+			"DriverGuid": "76561198062931035",
+			"CarId": 11,
+			"CarModel": "ks_porsche_911_gt3_r_2016",
+			"Timestamp": 4241007,
+			"LapTime": 132977,
+			"Sectors": [
+				60190,
+				37710,
+				35077
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "S",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "ManchoM",
+			"DriverGuid": "76561198027336465",
+			"CarId": 4,
+			"CarModel": "ks_mercedes_amg_gt3",
+			"Timestamp": 4262852,
+			"LapTime": 91281,
+			"Sectors": [
+				20702,
+				37972,
+				32607
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "S",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diego Assini",
+			"DriverGuid": "76561198156516127",
+			"CarId": 1,
+			"CarModel": "ks_nissan_gtr_gt3",
+			"Timestamp": 4296173,
+			"LapTime": 93062,
+			"Sectors": [
+				20775,
+				38569,
+				33718
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "S",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "danugo",
+			"DriverGuid": "76561198081264364",
+			"CarId": 15,
+			"CarModel": "ks_audi_r8_lms_2016",
+			"Timestamp": 4300688,
+			"LapTime": 147230,
+			"Sectors": [
+				75708,
+				38313,
+				33209
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "S",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Fer Ruiz",
+			"DriverGuid": "76561198080396376",
+			"CarId": 9,
+			"CarModel": "ks_porsche_911_gt3_r_2016",
+			"Timestamp": 4303941,
+			"LapTime": 89890,
+			"Sectors": [
+				20522,
+				37062,
+				32306
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "S",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Hernan Filippini",
+			"DriverGuid": "76561198045595861",
+			"CarId": 7,
+			"CarModel": "ks_porsche_911_gt3_r_2016",
+			"Timestamp": 4320518,
+			"LapTime": 103437,
+			"Sectors": [
+				31707,
+				39312,
+				32418
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "S",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Julian Cardona",
+			"DriverGuid": "76561198320640011",
+			"CarId": 17,
+			"CarModel": "ks_audi_r8_lms_2016",
+			"Timestamp": 4321869,
+			"LapTime": 91530,
+			"Sectors": [
+				20763,
+				38281,
+				32486
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "S",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Facajr",
+			"DriverGuid": "76561198166932231",
+			"CarId": 0,
+			"CarModel": "ks_audi_r8_lms_2016",
+			"Timestamp": 4323624,
+			"LapTime": 91385,
+			"Sectors": [
+				20668,
+				38556,
+				32161
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "S",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "ManchoM",
+			"DriverGuid": "76561198027336465",
+			"CarId": 4,
+			"CarModel": "ks_mercedes_amg_gt3",
+			"Timestamp": 4354226,
+			"LapTime": 91277,
+			"Sectors": [
+				20852,
+				37891,
+				32534
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "S",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Agustin Bianchi",
+			"DriverGuid": "76561198062931035",
+			"CarId": 11,
+			"CarModel": "ks_porsche_911_gt3_r_2016",
+			"Timestamp": 4384765,
+			"LapTime": 143764,
+			"Sectors": [
+				73704,
+				37723,
+				32337
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "danugo",
+			"DriverGuid": "76561198081264364",
+			"CarId": 15,
+			"CarModel": "ks_audi_r8_lms_2016",
+			"Timestamp": 4393125,
+			"LapTime": 92432,
+			"Sectors": [
+				20788,
+				38299,
+				33345
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "S",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Julian Cardona",
+			"DriverGuid": "76561198320640011",
+			"CarId": 17,
+			"CarModel": "ks_audi_r8_lms_2016",
+			"Timestamp": 4413586,
+			"LapTime": 91714,
+			"Sectors": [
+				20915,
+				38484,
+				32315
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "S",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Facajr",
+			"DriverGuid": "76561198166932231",
+			"CarId": 0,
+			"CarModel": "ks_audi_r8_lms_2016",
+			"Timestamp": 4415138,
+			"LapTime": 91519,
+			"Sectors": [
+				20747,
+				38197,
+				32575
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "S",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Fer Ruiz",
+			"DriverGuid": "76561198080396376",
+			"CarId": 9,
+			"CarModel": "ks_porsche_911_gt3_r_2016",
+			"Timestamp": 4437889,
+			"LapTime": 133953,
+			"Sectors": [
+				64095,
+				37701,
+				32157
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "S",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "ManchoM",
+			"DriverGuid": "76561198027336465",
+			"CarId": 4,
+			"CarModel": "ks_mercedes_amg_gt3",
+			"Timestamp": 4445041,
+			"LapTime": 90925,
+			"Sectors": [
+				20747,
+				37693,
+				32485
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "S",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Agustin Bianchi",
+			"DriverGuid": "76561198062931035",
+			"CarId": 11,
+			"CarModel": "ks_porsche_911_gt3_r_2016",
+			"Timestamp": 4476041,
+			"LapTime": 91275,
+			"Sectors": [
+				20418,
+				37520,
+				33337
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "danugo",
+			"DriverGuid": "76561198081264364",
+			"CarId": 15,
+			"CarModel": "ks_audi_r8_lms_2016",
+			"Timestamp": 4485943,
+			"LapTime": 92837,
+			"Sectors": [
+				21009,
+				38555,
+				33273
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "S",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Julian Cardona",
+			"DriverGuid": "76561198320640011",
+			"CarId": 17,
+			"CarModel": "ks_audi_r8_lms_2016",
+			"Timestamp": 4505189,
+			"LapTime": 91598,
+			"Sectors": [
+				20543,
+				38349,
+				32706
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "S",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Facajr",
+			"DriverGuid": "76561198166932231",
+			"CarId": 0,
+			"CarModel": "ks_audi_r8_lms_2016",
+			"Timestamp": 4507210,
+			"LapTime": 92071,
+			"Sectors": [
+				20782,
+				38390,
+				32899
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "S",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Fer Ruiz",
+			"DriverGuid": "76561198080396376",
+			"CarId": 9,
+			"CarModel": "ks_porsche_911_gt3_r_2016",
+			"Timestamp": 4527553,
+			"LapTime": 89684,
+			"Sectors": [
+				20439,
+				37129,
+				32116
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "S",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Hernan Filippini",
+			"DriverGuid": "76561198045595861",
+			"CarId": 7,
+			"CarModel": "ks_porsche_911_gt3_r_2016",
+			"Timestamp": 4530644,
+			"LapTime": 210123,
+			"Sectors": [
+				139869,
+				37449,
+				32805
+			],
+			"Cuts": 3,
+			"BallastKG": 0,
+			"Tyre": "S",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "ManchoM",
+			"DriverGuid": "76561198027336465",
+			"CarId": 4,
+			"CarModel": "ks_mercedes_amg_gt3",
+			"Timestamp": 4536078,
+			"LapTime": 91041,
+			"Sectors": [
+				20733,
+				37786,
+				32522
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "S",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diego Assini",
+			"DriverGuid": "76561198156516127",
+			"CarId": 1,
+			"CarModel": "ks_nissan_gtr_gt3",
+			"Timestamp": 4539240,
+			"LapTime": 243074,
+			"Sectors": [
+				171025,
+				38862,
+				33187
+			],
+			"Cuts": 1,
+			"BallastKG": 0,
+			"Tyre": "S",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Agustin Bianchi",
+			"DriverGuid": "76561198062931035",
+			"CarId": 11,
+			"CarModel": "ks_porsche_911_gt3_r_2016",
+			"Timestamp": 4566368,
+			"LapTime": 90332,
+			"Sectors": [
+				20591,
+				37481,
+				32260
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "danugo",
+			"DriverGuid": "76561198081264364",
+			"CarId": 15,
+			"CarModel": "ks_audi_r8_lms_2016",
+			"Timestamp": 4578141,
+			"LapTime": 92198,
+			"Sectors": [
+				20851,
+				37926,
+				33421
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "S",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Diego Assini",
+			"DriverGuid": "76561198156516127",
+			"CarId": 1,
+			"CarModel": "ks_nissan_gtr_gt3",
+			"Timestamp": 4631529,
+			"LapTime": 92288,
+			"Sectors": [
+				20766,
+				38186,
+				33336
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "S",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Agustin Bianchi",
+			"DriverGuid": "76561198062931035",
+			"CarId": 11,
+			"CarModel": "ks_porsche_911_gt3_r_2016",
+			"Timestamp": 4656577,
+			"LapTime": 90210,
+			"Sectors": [
+				20523,
+				37422,
+				32265
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		}
+	],
+	"Events": [
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 9,
+			"Driver": {
+				"Name": "Fer Ruiz",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198080396376",
+				"GuidsList": [
+					"76561198080396376"
+				]
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": null
+			},
+			"ImpactSpeed": 35.68818,
+			"WorldPosition": {
+				"X": 584.1579,
+				"Y": -9.20399,
+				"Z": 199.59947
+			},
+			"RelPosition": {
+				"X": -0.000025987625,
+				"Y": -0.2613653,
+				"Z": 2.5827599
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 7,
+			"Driver": {
+				"Name": "Hernan Filippini",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198045595861",
+				"GuidsList": [
+					"76561198045595861"
+				]
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": null
+			},
+			"ImpactSpeed": 54.86419,
+			"WorldPosition": {
+				"X": 525.7147,
+				"Y": -10.062504,
+				"Z": 222.33647
+			},
+			"RelPosition": {
+				"X": 0.84455764,
+				"Y": -0.26219553,
+				"Z": 2.3442385
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 7,
+			"Driver": {
+				"Name": "Hernan Filippini",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198045595861",
+				"GuidsList": [
+					"76561198045595861"
+				]
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": null
+			},
+			"ImpactSpeed": 64.75592,
+			"WorldPosition": {
+				"X": 521.2554,
+				"Y": -9.209999,
+				"Z": 224.86961
+			},
+			"RelPosition": {
+				"X": 0.9989884,
+				"Y": 0.63989055,
+				"Z": -2.1218035
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 0,
+			"Driver": {
+				"Name": "Facajr",
+				"Team": "",
+				"Nation": "",
+				"Guid": "76561198166932231",
+				"GuidsList": [
+					"76561198267742978"
+				]
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": null
+			},
+			"ImpactSpeed": 22.448296,
+			"WorldPosition": {
+				"X": 684.3786,
+				"Y": -1.8088393,
+				"Z": 153.49239
+			},
+			"RelPosition": {
+				"X": 1.0009555,
+				"Y": 0.73439604,
+				"Z": -2.1044405
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 17,
+			"Driver": {
+				"Name": "Julian Cardona",
+				"Team": "",
+				"Nation": "COL",
+				"Guid": "76561198320640011",
+				"GuidsList": [
+					"76561198320640011"
+				]
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": null
+			},
+			"ImpactSpeed": 57.10421,
+			"WorldPosition": {
+				"X": -131.97736,
+				"Y": 8.283887,
+				"Z": 343.4319
+			},
+			"RelPosition": {
+				"X": -0.999356,
+				"Y": 0.738813,
+				"Z": -2.0603657
+			}
+		}
+	]
+}

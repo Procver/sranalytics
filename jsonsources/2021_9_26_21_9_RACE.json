@@ -1,0 +1,5346 @@
+{
+	"TrackName": "autodrome_de_linas-montlhery",
+	"TrackConfig": "bruyeres",
+	"Type": "RACE",
+	"DurationSecs": 0,
+	"RaceLaps": 14,
+	"Cars": [
+		{
+			"CarId": 0,
+			"Driver": {
+				"Name": "TV CREW",
+				"Team": "",
+				"Nation": "DNK",
+				"Guid": "76561198417841335",
+				"GuidsList": [
+					"76561198417841335"
+				]
+			},
+			"Model": "vac_tv_van_2",
+			"Skin": "vactv2",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 1,
+			"Driver": {
+				"Name": "LarsT",
+				"Team": "",
+				"Nation": "NOR",
+				"Guid": "76561198818062492",
+				"GuidsList": [
+					"76561198818062492"
+				]
+			},
+			"Model": "rolland_pilain_a22",
+			"Skin": "SIMON-74-BLUE",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 2,
+			"Driver": {
+				"Name": "Costo",
+				"Team": "",
+				"Nation": "CAN",
+				"Guid": "76561198034178233",
+				"GuidsList": [
+					"76561198034178233"
+				]
+			},
+			"Model": "fiat_805",
+			"Skin": "costo_fiat",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 3,
+			"Driver": {
+				"Name": "Juan San Martin",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198027691137",
+				"GuidsList": [
+					"76561198027691137"
+				]
+			},
+			"Model": "rolland_pilain_a22",
+			"Skin": "mm_Juan_26",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 4,
+			"Driver": {
+				"Name": "smartjulger",
+				"Team": "",
+				"Nation": "NLD",
+				"Guid": "76561198809591028",
+				"GuidsList": [
+					"76561198809591028"
+				]
+			},
+			"Model": "bugatti_type_32",
+			"Skin": "british_racing_green",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 5,
+			"Driver": {
+				"Name": "Merlijn Percas",
+				"Team": "",
+				"Nation": "NLD",
+				"Guid": "76561198872987414",
+				"GuidsList": [
+					"76561198872987414"
+				]
+			},
+			"Model": "delage_2lcv",
+			"Skin": "mm_merlijn_88",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 6,
+			"Driver": {
+				"Name": "Lokanas",
+				"Team": "",
+				"Nation": "LTU",
+				"Guid": "76561199093722575",
+				"GuidsList": [
+					"76561199093722575"
+				]
+			},
+			"Model": "rolland_pilain_a22",
+			"Skin": "lokanas",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 7,
+			"Driver": {
+				"Name": "Tobi",
+				"Team": "",
+				"Nation": "DEU",
+				"Guid": "76561198101979452",
+				"GuidsList": [
+					"76561198101979452"
+				]
+			},
+			"Model": "bugatti_type_32",
+			"Skin": "rosso_corsa",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 8,
+			"Driver": {
+				"Name": "Felix789",
+				"Team": "",
+				"Nation": "",
+				"Guid": "76561198159251100",
+				"GuidsList": [
+					"76561198159251100"
+				]
+			},
+			"Model": "delage_2lcv",
+			"Skin": "9_felix_delage",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 9,
+			"Driver": {
+				"Name": "Silberwolf",
+				"Team": "",
+				"Nation": "LAO",
+				"Guid": "76561198201942964",
+				"GuidsList": [
+					"76561198201942964"
+				]
+			},
+			"Model": "fiat_805",
+			"Skin": "swbees-32",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 10,
+			"Driver": {
+				"Name": "Nick Hill",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198014437074",
+				"GuidsList": [
+					"76561198014437074"
+				]
+			},
+			"Model": "delage_2lcv",
+			"Skin": "usa_white_blue",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 11,
+			"Driver": {
+				"Name": "TimoZ",
+				"Team": "",
+				"Nation": "FIN",
+				"Guid": "76561198081180282",
+				"GuidsList": [
+					"76561198081180282"
+				]
+			},
+			"Model": "rolland_pilain_a22",
+			"Skin": "SIMON-25-GREEN",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 12,
+			"Driver": {
+				"Name": "Rob Vandenberg",
+				"Team": "",
+				"Nation": "NLD",
+				"Guid": "76561199051919959",
+				"GuidsList": [
+					"76561199051919959"
+				]
+			},
+			"Model": "voisin_c6_laboratoire",
+			"Skin": "robv",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 13,
+			"Driver": {
+				"Name": "Faces of Evil",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198044215364",
+				"GuidsList": [
+					"76561198044215364"
+				]
+			},
+			"Model": "bugatti_type_32",
+			"Skin": "8",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 14,
+			"Driver": {
+				"Name": "Just911",
+				"Team": "",
+				"Nation": "LTU",
+				"Guid": "76561198246572520",
+				"GuidsList": [
+					"76561198246572520"
+				]
+			},
+			"Model": "sunbeam_2l",
+			"Skin": "two",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 15,
+			"Driver": {
+				"Name": "Jonah Hax",
+				"Team": "",
+				"Nation": "DNK",
+				"Guid": "76561197980423199",
+				"GuidsList": [
+					"76561197980423199"
+				]
+			},
+			"Model": "sunbeam_2l",
+			"Skin": "42_jonahhax",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 16,
+			"Driver": {
+				"Name": "A Casual Sim Racer",
+				"Team": "",
+				"Nation": "USA",
+				"Guid": "76561198160504028",
+				"GuidsList": [
+					"76561198160504028"
+				]
+			},
+			"Model": "fiat_805",
+			"Skin": "deutschland",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 17,
+			"Driver": {
+				"Name": "GoodsmileRacing",
+				"Team": "",
+				"Nation": "POL",
+				"Guid": "76561198025181930",
+				"GuidsList": [
+					"76561198025181930"
+				]
+			},
+			"Model": "rolland_pilain_a22",
+			"Skin": "GSR_rolland",
+			"BallastKG": 0,
+			"Restrictor": 0
+		}
+	],
+	"Result": [
+		{
+			"DriverName": "Silberwolf",
+			"DriverGuid": "76561198201942964",
+			"CarId": 9,
+			"CarModel": "fiat_805",
+			"BestLap": 253227,
+			"TotalTime": 3592521,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Costo",
+			"DriverGuid": "76561198034178233",
+			"CarId": 2,
+			"CarModel": "fiat_805",
+			"BestLap": 255527,
+			"TotalTime": 3609166,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Felix789",
+			"DriverGuid": "76561198159251100",
+			"CarId": 8,
+			"CarModel": "delage_2lcv",
+			"BestLap": 254894,
+			"TotalTime": 3610965,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Merlijn Percas",
+			"DriverGuid": "76561198872987414",
+			"CarId": 5,
+			"CarModel": "delage_2lcv",
+			"BestLap": 255607,
+			"TotalTime": 3613509,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Nick Hill",
+			"DriverGuid": "76561198014437074",
+			"CarId": 10,
+			"CarModel": "delage_2lcv",
+			"BestLap": 255715,
+			"TotalTime": 3622771,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Just911",
+			"DriverGuid": "76561198246572520",
+			"CarId": 14,
+			"CarModel": "sunbeam_2l",
+			"BestLap": 256626,
+			"TotalTime": 3626182,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Jonah Hax",
+			"DriverGuid": "76561197980423199",
+			"CarId": 15,
+			"CarModel": "sunbeam_2l",
+			"BestLap": 259871,
+			"TotalTime": 3694418,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Tobi",
+			"DriverGuid": "76561198101979452",
+			"CarId": 7,
+			"CarModel": "bugatti_type_32",
+			"BestLap": 263403,
+			"TotalTime": 3747383,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Faces of Evil",
+			"DriverGuid": "76561198044215364",
+			"CarId": 13,
+			"CarModel": "bugatti_type_32",
+			"BestLap": 263796,
+			"TotalTime": 3776810,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "A Casual Sim Racer",
+			"DriverGuid": "76561198160504028",
+			"CarId": 16,
+			"CarModel": "fiat_805",
+			"BestLap": 267355,
+			"TotalTime": 3823880,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "GoodsmileRacing",
+			"DriverGuid": "76561198025181930",
+			"CarId": 17,
+			"CarModel": "rolland_pilain_a22",
+			"BestLap": 270323,
+			"TotalTime": 3828399,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Juan San Martin",
+			"DriverGuid": "76561198027691137",
+			"CarId": 3,
+			"CarModel": "rolland_pilain_a22",
+			"BestLap": 272584,
+			"TotalTime": 3852044,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "TimoZ",
+			"DriverGuid": "76561198081180282",
+			"CarId": 11,
+			"CarModel": "rolland_pilain_a22",
+			"BestLap": 272642,
+			"TotalTime": 3595536,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "LarsT",
+			"DriverGuid": "76561198818062492",
+			"CarId": 1,
+			"CarModel": "rolland_pilain_a22",
+			"BestLap": 273308,
+			"TotalTime": 3604728,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Lokanas",
+			"DriverGuid": "76561199093722575",
+			"CarId": 6,
+			"CarModel": "rolland_pilain_a22",
+			"BestLap": 273645,
+			"TotalTime": 3607239,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "smartjulger",
+			"DriverGuid": "76561198809591028",
+			"CarId": 4,
+			"CarModel": "bugatti_type_32",
+			"BestLap": 263362,
+			"TotalTime": 3222755,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Rob Vandenberg",
+			"DriverGuid": "76561199051919959",
+			"CarId": 12,
+			"CarModel": "voisin_c6_laboratoire",
+			"BestLap": 276830,
+			"TotalTime": 2842084,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "TV CREW",
+			"DriverGuid": "76561198417841335",
+			"CarId": 0,
+			"CarModel": "vac_tv_van_2",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		}
+	],
+	"Laps": [
+		{
+			"DriverName": "Silberwolf",
+			"DriverGuid": "76561198201942964",
+			"CarId": 9,
+			"CarModel": "fiat_805",
+			"Timestamp": 3394593,
+			"LapTime": 270479,
+			"Sectors": [
+				94799,
+				106516,
+				69164
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Merlijn Percas",
+			"DriverGuid": "76561198872987414",
+			"CarId": 5,
+			"CarModel": "delage_2lcv",
+			"Timestamp": 3395951,
+			"LapTime": 271834,
+			"Sectors": [
+				94930,
+				107753,
+				69151
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Costo",
+			"DriverGuid": "76561198034178233",
+			"CarId": 2,
+			"CarModel": "fiat_805",
+			"Timestamp": 3398461,
+			"LapTime": 274272,
+			"Sectors": [
+				96053,
+				108748,
+				69471
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Felix789",
+			"DriverGuid": "76561198159251100",
+			"CarId": 8,
+			"CarModel": "delage_2lcv",
+			"Timestamp": 3400415,
+			"LapTime": 276289,
+			"Sectors": [
+				99070,
+				108149,
+				69070
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Just911",
+			"DriverGuid": "76561198246572520",
+			"CarId": 14,
+			"CarModel": "sunbeam_2l",
+			"Timestamp": 3401900,
+			"LapTime": 277778,
+			"Sectors": [
+				99601,
+				108585,
+				69592
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Nick Hill",
+			"DriverGuid": "76561198014437074",
+			"CarId": 10,
+			"CarModel": "delage_2lcv",
+			"Timestamp": 3402769,
+			"LapTime": 278591,
+			"Sectors": [
+				99721,
+				109332,
+				69538
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Tobi",
+			"DriverGuid": "76561198101979452",
+			"CarId": 7,
+			"CarModel": "bugatti_type_32",
+			"Timestamp": 3408741,
+			"LapTime": 284378,
+			"Sectors": [
+				100936,
+				112455,
+				70987
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "smartjulger",
+			"DriverGuid": "76561198809591028",
+			"CarId": 4,
+			"CarModel": "bugatti_type_32",
+			"Timestamp": 3410986,
+			"LapTime": 286867,
+			"Sectors": [
+				100085,
+				114786,
+				71996
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Faces of Evil",
+			"DriverGuid": "76561198044215364",
+			"CarId": 13,
+			"CarModel": "bugatti_type_32",
+			"Timestamp": 3411053,
+			"LapTime": 286883,
+			"Sectors": [
+				100223,
+				114084,
+				72576
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "A Casual Sim Racer",
+			"DriverGuid": "76561198160504028",
+			"CarId": 16,
+			"CarModel": "fiat_805",
+			"Timestamp": 3411878,
+			"LapTime": 287680,
+			"Sectors": [
+				103198,
+				112302,
+				72180
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Jonah Hax",
+			"DriverGuid": "76561197980423199",
+			"CarId": 15,
+			"CarModel": "sunbeam_2l",
+			"Timestamp": 3415315,
+			"LapTime": 291191,
+			"Sectors": [
+				98286,
+				121779,
+				71126
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "GoodsmileRacing",
+			"DriverGuid": "76561198025181930",
+			"CarId": 17,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 3417327,
+			"LapTime": 293193,
+			"Sectors": [
+				103522,
+				115304,
+				74367
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Juan San Martin",
+			"DriverGuid": "76561198027691137",
+			"CarId": 3,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 3418706,
+			"LapTime": 294471,
+			"Sectors": [
+				104116,
+				115290,
+				75065
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "TimoZ",
+			"DriverGuid": "76561198081180282",
+			"CarId": 11,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 3419754,
+			"LapTime": 295627,
+			"Sectors": [
+				105570,
+				115798,
+				74259
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "LarsT",
+			"DriverGuid": "76561198818062492",
+			"CarId": 1,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 3424331,
+			"LapTime": 300215,
+			"Sectors": [
+				107543,
+				117063,
+				75609
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Lokanas",
+			"DriverGuid": "76561199093722575",
+			"CarId": 6,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 3425036,
+			"LapTime": 300911,
+			"Sectors": [
+				105332,
+				119439,
+				76140
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Rob Vandenberg",
+			"DriverGuid": "76561199051919959",
+			"CarId": 12,
+			"CarModel": "voisin_c6_laboratoire",
+			"Timestamp": 3430483,
+			"LapTime": 306369,
+			"Sectors": [
+				106226,
+				116974,
+				83169
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Silberwolf",
+			"DriverGuid": "76561198201942964",
+			"CarId": 9,
+			"CarModel": "fiat_805",
+			"Timestamp": 3648979,
+			"LapTime": 254397,
+			"Sectors": [
+				78631,
+				106875,
+				68891
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Merlijn Percas",
+			"DriverGuid": "76561198872987414",
+			"CarId": 5,
+			"CarModel": "delage_2lcv",
+			"Timestamp": 3653167,
+			"LapTime": 257230,
+			"Sectors": [
+				80105,
+				107429,
+				69696
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Costo",
+			"DriverGuid": "76561198034178233",
+			"CarId": 2,
+			"CarModel": "fiat_805",
+			"Timestamp": 3655017,
+			"LapTime": 256563,
+			"Sectors": [
+				79803,
+				107810,
+				68950
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Felix789",
+			"DriverGuid": "76561198159251100",
+			"CarId": 8,
+			"CarModel": "delage_2lcv",
+			"Timestamp": 3656737,
+			"LapTime": 256326,
+			"Sectors": [
+				80115,
+				106811,
+				69400
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Just911",
+			"DriverGuid": "76561198246572520",
+			"CarId": 14,
+			"CarModel": "sunbeam_2l",
+			"Timestamp": 3659592,
+			"LapTime": 257699,
+			"Sectors": [
+				81263,
+				106907,
+				69529
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Nick Hill",
+			"DriverGuid": "76561198014437074",
+			"CarId": 10,
+			"CarModel": "delage_2lcv",
+			"Timestamp": 3660635,
+			"LapTime": 257875,
+			"Sectors": [
+				81484,
+				106866,
+				69525
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Tobi",
+			"DriverGuid": "76561198101979452",
+			"CarId": 7,
+			"CarModel": "bugatti_type_32",
+			"Timestamp": 3675412,
+			"LapTime": 266673,
+			"Sectors": [
+				83896,
+				112136,
+				70641
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "smartjulger",
+			"DriverGuid": "76561198809591028",
+			"CarId": 4,
+			"CarModel": "bugatti_type_32",
+			"Timestamp": 3676832,
+			"LapTime": 265856,
+			"Sectors": [
+				83957,
+				111083,
+				70816
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Jonah Hax",
+			"DriverGuid": "76561197980423199",
+			"CarId": 15,
+			"CarModel": "sunbeam_2l",
+			"Timestamp": 3677378,
+			"LapTime": 262073,
+			"Sectors": [
+				82510,
+				108860,
+				70703
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "A Casual Sim Racer",
+			"DriverGuid": "76561198160504028",
+			"CarId": 16,
+			"CarModel": "fiat_805",
+			"Timestamp": 3679729,
+			"LapTime": 267854,
+			"Sectors": [
+				82112,
+				113301,
+				72441
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "GoodsmileRacing",
+			"DriverGuid": "76561198025181930",
+			"CarId": 17,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 3688908,
+			"LapTime": 271593,
+			"Sectors": [
+				84644,
+				113040,
+				73909
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Juan San Martin",
+			"DriverGuid": "76561198027691137",
+			"CarId": 3,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 3692459,
+			"LapTime": 273770,
+			"Sectors": [
+				84937,
+				114314,
+				74519
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Faces of Evil",
+			"DriverGuid": "76561198044215364",
+			"CarId": 13,
+			"CarModel": "bugatti_type_32",
+			"Timestamp": 3693650,
+			"LapTime": 282603,
+			"Sectors": [
+				99133,
+				112747,
+				70723
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "TimoZ",
+			"DriverGuid": "76561198081180282",
+			"CarId": 11,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 3694446,
+			"LapTime": 274704,
+			"Sectors": [
+				85343,
+				115025,
+				74336
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "LarsT",
+			"DriverGuid": "76561198818062492",
+			"CarId": 1,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 3700113,
+			"LapTime": 275794,
+			"Sectors": [
+				85790,
+				114940,
+				75064
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Lokanas",
+			"DriverGuid": "76561199093722575",
+			"CarId": 6,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 3701725,
+			"LapTime": 276699,
+			"Sectors": [
+				85322,
+				116182,
+				75195
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Rob Vandenberg",
+			"DriverGuid": "76561199051919959",
+			"CarId": 12,
+			"CarModel": "voisin_c6_laboratoire",
+			"Timestamp": 3727065,
+			"LapTime": 296595,
+			"Sectors": [
+				103383,
+				117999,
+				75213
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Silberwolf",
+			"DriverGuid": "76561198201942964",
+			"CarId": 9,
+			"CarModel": "fiat_805",
+			"Timestamp": 3904091,
+			"LapTime": 255131,
+			"Sectors": [
+				78866,
+				107267,
+				68998
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Merlijn Percas",
+			"DriverGuid": "76561198872987414",
+			"CarId": 5,
+			"CarModel": "delage_2lcv",
+			"Timestamp": 3910489,
+			"LapTime": 257334,
+			"Sectors": [
+				80240,
+				107411,
+				69683
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Costo",
+			"DriverGuid": "76561198034178233",
+			"CarId": 2,
+			"CarModel": "fiat_805",
+			"Timestamp": 3911776,
+			"LapTime": 256760,
+			"Sectors": [
+				79577,
+				107551,
+				69632
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Felix789",
+			"DriverGuid": "76561198159251100",
+			"CarId": 8,
+			"CarModel": "delage_2lcv",
+			"Timestamp": 3912729,
+			"LapTime": 255996,
+			"Sectors": [
+				79910,
+				106682,
+				69404
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Just911",
+			"DriverGuid": "76561198246572520",
+			"CarId": 14,
+			"CarModel": "sunbeam_2l",
+			"Timestamp": 3917229,
+			"LapTime": 257650,
+			"Sectors": [
+				81273,
+				107118,
+				69259
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Nick Hill",
+			"DriverGuid": "76561198014437074",
+			"CarId": 10,
+			"CarModel": "delage_2lcv",
+			"Timestamp": 3919484,
+			"LapTime": 258855,
+			"Sectors": [
+				80358,
+				109169,
+				69328
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Jonah Hax",
+			"DriverGuid": "76561197980423199",
+			"CarId": 15,
+			"CarModel": "sunbeam_2l",
+			"Timestamp": 3941687,
+			"LapTime": 264319,
+			"Sectors": [
+				85930,
+				108095,
+				70294
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Tobi",
+			"DriverGuid": "76561198101979452",
+			"CarId": 7,
+			"CarModel": "bugatti_type_32",
+			"Timestamp": 3942672,
+			"LapTime": 267264,
+			"Sectors": [
+				84901,
+				110408,
+				71955
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "smartjulger",
+			"DriverGuid": "76561198809591028",
+			"CarId": 4,
+			"CarModel": "bugatti_type_32",
+			"Timestamp": 3945323,
+			"LapTime": 268499,
+			"Sectors": [
+				85250,
+				111511,
+				71738
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "A Casual Sim Racer",
+			"DriverGuid": "76561198160504028",
+			"CarId": 16,
+			"CarModel": "fiat_805",
+			"Timestamp": 3960299,
+			"LapTime": 280577,
+			"Sectors": [
+				93116,
+				114337,
+				73124
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "GoodsmileRacing",
+			"DriverGuid": "76561198025181930",
+			"CarId": 17,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 3963887,
+			"LapTime": 274990,
+			"Sectors": [
+				84950,
+				113688,
+				76352
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Faces of Evil",
+			"DriverGuid": "76561198044215364",
+			"CarId": 13,
+			"CarModel": "bugatti_type_32",
+			"Timestamp": 3964451,
+			"LapTime": 270805,
+			"Sectors": [
+				87066,
+				113210,
+				70529
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Juan San Martin",
+			"DriverGuid": "76561198027691137",
+			"CarId": 3,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 3966748,
+			"LapTime": 274296,
+			"Sectors": [
+				85912,
+				114466,
+				73918
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "TimoZ",
+			"DriverGuid": "76561198081180282",
+			"CarId": 11,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 3969939,
+			"LapTime": 275507,
+			"Sectors": [
+				85113,
+				115847,
+				74547
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Lokanas",
+			"DriverGuid": "76561199093722575",
+			"CarId": 6,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 3976812,
+			"LapTime": 275098,
+			"Sectors": [
+				85063,
+				115749,
+				74286
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "LarsT",
+			"DriverGuid": "76561198818062492",
+			"CarId": 1,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 3976897,
+			"LapTime": 276796,
+			"Sectors": [
+				85920,
+				116221,
+				74655
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Rob Vandenberg",
+			"DriverGuid": "76561199051919959",
+			"CarId": 12,
+			"CarModel": "voisin_c6_laboratoire",
+			"Timestamp": 4008435,
+			"LapTime": 281384,
+			"Sectors": [
+				89315,
+				114836,
+				77233
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Silberwolf",
+			"DriverGuid": "76561198201942964",
+			"CarId": 9,
+			"CarModel": "fiat_805",
+			"Timestamp": 4160871,
+			"LapTime": 256791,
+			"Sectors": [
+				79207,
+				107969,
+				69615
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Merlijn Percas",
+			"DriverGuid": "76561198872987414",
+			"CarId": 5,
+			"CarModel": "delage_2lcv",
+			"Timestamp": 4167398,
+			"LapTime": 256922,
+			"Sectors": [
+				80342,
+				107253,
+				69327
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Costo",
+			"DriverGuid": "76561198034178233",
+			"CarId": 2,
+			"CarModel": "fiat_805",
+			"Timestamp": 4168636,
+			"LapTime": 256880,
+			"Sectors": [
+				79760,
+				107686,
+				69434
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Felix789",
+			"DriverGuid": "76561198159251100",
+			"CarId": 8,
+			"CarModel": "delage_2lcv",
+			"Timestamp": 4169063,
+			"LapTime": 256338,
+			"Sectors": [
+				79992,
+				107176,
+				69170
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Just911",
+			"DriverGuid": "76561198246572520",
+			"CarId": 14,
+			"CarModel": "sunbeam_2l",
+			"Timestamp": 4175027,
+			"LapTime": 257819,
+			"Sectors": [
+				81194,
+				106939,
+				69686
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Nick Hill",
+			"DriverGuid": "76561198014437074",
+			"CarId": 10,
+			"CarModel": "delage_2lcv",
+			"Timestamp": 4175724,
+			"LapTime": 256248,
+			"Sectors": [
+				79640,
+				107136,
+				69472
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Jonah Hax",
+			"DriverGuid": "76561197980423199",
+			"CarId": 15,
+			"CarModel": "sunbeam_2l",
+			"Timestamp": 4203675,
+			"LapTime": 261996,
+			"Sectors": [
+				81464,
+				110269,
+				70263
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Tobi",
+			"DriverGuid": "76561198101979452",
+			"CarId": 7,
+			"CarModel": "bugatti_type_32",
+			"Timestamp": 4206973,
+			"LapTime": 264303,
+			"Sectors": [
+				83474,
+				110674,
+				70155
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "smartjulger",
+			"DriverGuid": "76561198809591028",
+			"CarId": 4,
+			"CarModel": "bugatti_type_32",
+			"Timestamp": 4209875,
+			"LapTime": 264562,
+			"Sectors": [
+				83469,
+				109772,
+				71321
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "GoodsmileRacing",
+			"DriverGuid": "76561198025181930",
+			"CarId": 17,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 4235799,
+			"LapTime": 271923,
+			"Sectors": [
+				84390,
+				113337,
+				74196
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Juan San Martin",
+			"DriverGuid": "76561198027691137",
+			"CarId": 3,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 4240761,
+			"LapTime": 274023,
+			"Sectors": [
+				85432,
+				114210,
+				74381
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Faces of Evil",
+			"DriverGuid": "76561198044215364",
+			"CarId": 13,
+			"CarModel": "bugatti_type_32",
+			"Timestamp": 4244153,
+			"LapTime": 279712,
+			"Sectors": [
+				89578,
+				118291,
+				71843
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "A Casual Sim Racer",
+			"DriverGuid": "76561198160504028",
+			"CarId": 16,
+			"CarModel": "fiat_805",
+			"Timestamp": 4244425,
+			"LapTime": 284132,
+			"Sectors": [
+				82285,
+				129249,
+				72598
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "TimoZ",
+			"DriverGuid": "76561198081180282",
+			"CarId": 11,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 4248003,
+			"LapTime": 278076,
+			"Sectors": [
+				87028,
+				116132,
+				74916
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Lokanas",
+			"DriverGuid": "76561199093722575",
+			"CarId": 6,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 4252359,
+			"LapTime": 275558,
+			"Sectors": [
+				85667,
+				114463,
+				75428
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "LarsT",
+			"DriverGuid": "76561198818062492",
+			"CarId": 1,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 4253052,
+			"LapTime": 276166,
+			"Sectors": [
+				86189,
+				114899,
+				75078
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Rob Vandenberg",
+			"DriverGuid": "76561199051919959",
+			"CarId": 12,
+			"CarModel": "voisin_c6_laboratoire",
+			"Timestamp": 4289223,
+			"LapTime": 280803,
+			"Sectors": [
+				91303,
+				115038,
+				74462
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Silberwolf",
+			"DriverGuid": "76561198201942964",
+			"CarId": 9,
+			"CarModel": "fiat_805",
+			"Timestamp": 4415220,
+			"LapTime": 254371,
+			"Sectors": [
+				78560,
+				107046,
+				68765
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Merlijn Percas",
+			"DriverGuid": "76561198872987414",
+			"CarId": 5,
+			"CarModel": "delage_2lcv",
+			"Timestamp": 4424394,
+			"LapTime": 257007,
+			"Sectors": [
+				80696,
+				106790,
+				69521
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Costo",
+			"DriverGuid": "76561198034178233",
+			"CarId": 2,
+			"CarModel": "fiat_805",
+			"Timestamp": 4425425,
+			"LapTime": 256782,
+			"Sectors": [
+				79963,
+				107060,
+				69759
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Felix789",
+			"DriverGuid": "76561198159251100",
+			"CarId": 8,
+			"CarModel": "delage_2lcv",
+			"Timestamp": 4425449,
+			"LapTime": 256391,
+			"Sectors": [
+				80077,
+				107275,
+				69039
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Just911",
+			"DriverGuid": "76561198246572520",
+			"CarId": 14,
+			"CarModel": "sunbeam_2l",
+			"Timestamp": 4431833,
+			"LapTime": 256818,
+			"Sectors": [
+				80706,
+				106703,
+				69409
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Nick Hill",
+			"DriverGuid": "76561198014437074",
+			"CarId": 10,
+			"CarModel": "delage_2lcv",
+			"Timestamp": 4433564,
+			"LapTime": 257849,
+			"Sectors": [
+				79420,
+				109048,
+				69381
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Jonah Hax",
+			"DriverGuid": "76561197980423199",
+			"CarId": 15,
+			"CarModel": "sunbeam_2l",
+			"Timestamp": 4466520,
+			"LapTime": 262854,
+			"Sectors": [
+				82610,
+				109040,
+				71204
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Tobi",
+			"DriverGuid": "76561198101979452",
+			"CarId": 7,
+			"CarModel": "bugatti_type_32",
+			"Timestamp": 4471846,
+			"LapTime": 264878,
+			"Sectors": [
+				83906,
+				111007,
+				69965
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "smartjulger",
+			"DriverGuid": "76561198809591028",
+			"CarId": 4,
+			"CarModel": "bugatti_type_32",
+			"Timestamp": 4475024,
+			"LapTime": 265168,
+			"Sectors": [
+				83251,
+				110488,
+				71429
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "GoodsmileRacing",
+			"DriverGuid": "76561198025181930",
+			"CarId": 17,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 4508003,
+			"LapTime": 272218,
+			"Sectors": [
+				84838,
+				113215,
+				74165
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Faces of Evil",
+			"DriverGuid": "76561198044215364",
+			"CarId": 13,
+			"CarModel": "bugatti_type_32",
+			"Timestamp": 4509967,
+			"LapTime": 265821,
+			"Sectors": [
+				84399,
+				110893,
+				70529
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "A Casual Sim Racer",
+			"DriverGuid": "76561198160504028",
+			"CarId": 16,
+			"CarModel": "fiat_805",
+			"Timestamp": 4512404,
+			"LapTime": 267986,
+			"Sectors": [
+				85714,
+				111271,
+				71001
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Juan San Martin",
+			"DriverGuid": "76561198027691137",
+			"CarId": 3,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 4514359,
+			"LapTime": 273608,
+			"Sectors": [
+				85153,
+				114223,
+				74232
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "TimoZ",
+			"DriverGuid": "76561198081180282",
+			"CarId": 11,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 4522483,
+			"LapTime": 274491,
+			"Sectors": [
+				85751,
+				113914,
+				74826
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Lokanas",
+			"DriverGuid": "76561199093722575",
+			"CarId": 6,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 4527826,
+			"LapTime": 275475,
+			"Sectors": [
+				85894,
+				114521,
+				75060
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "LarsT",
+			"DriverGuid": "76561198818062492",
+			"CarId": 1,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 4528160,
+			"LapTime": 275118,
+			"Sectors": [
+				85974,
+				114718,
+				74426
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Rob Vandenberg",
+			"DriverGuid": "76561199051919959",
+			"CarId": 12,
+			"CarModel": "voisin_c6_laboratoire",
+			"Timestamp": 4570970,
+			"LapTime": 281762,
+			"Sectors": [
+				89811,
+				116414,
+				75537
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Silberwolf",
+			"DriverGuid": "76561198201942964",
+			"CarId": 9,
+			"CarModel": "fiat_805",
+			"Timestamp": 4670721,
+			"LapTime": 255511,
+			"Sectors": [
+				78891,
+				107189,
+				69431
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Felix789",
+			"DriverGuid": "76561198159251100",
+			"CarId": 8,
+			"CarModel": "delage_2lcv",
+			"Timestamp": 4681275,
+			"LapTime": 255832,
+			"Sectors": [
+				80008,
+				106789,
+				69035
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Costo",
+			"DriverGuid": "76561198034178233",
+			"CarId": 2,
+			"CarModel": "fiat_805",
+			"Timestamp": 4683183,
+			"LapTime": 257778,
+			"Sectors": [
+				80514,
+				108215,
+				69049
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Merlijn Percas",
+			"DriverGuid": "76561198872987414",
+			"CarId": 5,
+			"CarModel": "delage_2lcv",
+			"Timestamp": 4684082,
+			"LapTime": 259703,
+			"Sectors": [
+				81391,
+				109021,
+				69291
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Just911",
+			"DriverGuid": "76561198246572520",
+			"CarId": 14,
+			"CarModel": "sunbeam_2l",
+			"Timestamp": 4688904,
+			"LapTime": 257076,
+			"Sectors": [
+				81116,
+				106767,
+				69193
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Nick Hill",
+			"DriverGuid": "76561198014437074",
+			"CarId": 10,
+			"CarModel": "delage_2lcv",
+			"Timestamp": 4689847,
+			"LapTime": 256291,
+			"Sectors": [
+				80228,
+				106957,
+				69106
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Jonah Hax",
+			"DriverGuid": "76561197980423199",
+			"CarId": 15,
+			"CarModel": "sunbeam_2l",
+			"Timestamp": 4728001,
+			"LapTime": 261490,
+			"Sectors": [
+				81684,
+				108261,
+				71545
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Tobi",
+			"DriverGuid": "76561198101979452",
+			"CarId": 7,
+			"CarModel": "bugatti_type_32",
+			"Timestamp": 4749231,
+			"LapTime": 277391,
+			"Sectors": [
+				85192,
+				121414,
+				70785
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "smartjulger",
+			"DriverGuid": "76561198809591028",
+			"CarId": 4,
+			"CarModel": "bugatti_type_32",
+			"Timestamp": 4753206,
+			"LapTime": 278195,
+			"Sectors": [
+				96350,
+				111299,
+				70546
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Faces of Evil",
+			"DriverGuid": "76561198044215364",
+			"CarId": 13,
+			"CarModel": "bugatti_type_32",
+			"Timestamp": 4774411,
+			"LapTime": 264451,
+			"Sectors": [
+				83231,
+				110737,
+				70483
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "GoodsmileRacing",
+			"DriverGuid": "76561198025181930",
+			"CarId": 17,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 4781349,
+			"LapTime": 273358,
+			"Sectors": [
+				86518,
+				112959,
+				73881
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "A Casual Sim Racer",
+			"DriverGuid": "76561198160504028",
+			"CarId": 16,
+			"CarModel": "fiat_805",
+			"Timestamp": 4783325,
+			"LapTime": 270925,
+			"Sectors": [
+				81979,
+				116690,
+				72256
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Juan San Martin",
+			"DriverGuid": "76561198027691137",
+			"CarId": 3,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 4787558,
+			"LapTime": 273211,
+			"Sectors": [
+				84926,
+				114026,
+				74259
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "TimoZ",
+			"DriverGuid": "76561198081180282",
+			"CarId": 11,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 4796585,
+			"LapTime": 274113,
+			"Sectors": [
+				85153,
+				113985,
+				74975
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Lokanas",
+			"DriverGuid": "76561199093722575",
+			"CarId": 6,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 4802196,
+			"LapTime": 274382,
+			"Sectors": [
+				85626,
+				114241,
+				74515
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "LarsT",
+			"DriverGuid": "76561198818062492",
+			"CarId": 1,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 4803762,
+			"LapTime": 275615,
+			"Sectors": [
+				86098,
+				114660,
+				74857
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Rob Vandenberg",
+			"DriverGuid": "76561199051919959",
+			"CarId": 12,
+			"CarModel": "voisin_c6_laboratoire",
+			"Timestamp": 4851319,
+			"LapTime": 280362,
+			"Sectors": [
+				90394,
+				115704,
+				74264
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Silberwolf",
+			"DriverGuid": "76561198201942964",
+			"CarId": 9,
+			"CarModel": "fiat_805",
+			"Timestamp": 4925506,
+			"LapTime": 254804,
+			"Sectors": [
+				78598,
+				106848,
+				69358
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Costo",
+			"DriverGuid": "76561198034178233",
+			"CarId": 2,
+			"CarModel": "fiat_805",
+			"Timestamp": 4939404,
+			"LapTime": 256229,
+			"Sectors": [
+				79722,
+				107549,
+				68958
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Merlijn Percas",
+			"DriverGuid": "76561198872987414",
+			"CarId": 5,
+			"CarModel": "delage_2lcv",
+			"Timestamp": 4940616,
+			"LapTime": 256543,
+			"Sectors": [
+				80075,
+				107105,
+				69363
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Felix789",
+			"DriverGuid": "76561198159251100",
+			"CarId": 8,
+			"CarModel": "delage_2lcv",
+			"Timestamp": 4941341,
+			"LapTime": 260070,
+			"Sectors": [
+				84097,
+				107073,
+				68900
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Just911",
+			"DriverGuid": "76561198246572520",
+			"CarId": 14,
+			"CarModel": "sunbeam_2l",
+			"Timestamp": 4945515,
+			"LapTime": 256626,
+			"Sectors": [
+				80703,
+				106578,
+				69345
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Nick Hill",
+			"DriverGuid": "76561198014437074",
+			"CarId": 10,
+			"CarModel": "delage_2lcv",
+			"Timestamp": 4947887,
+			"LapTime": 258049,
+			"Sectors": [
+				81122,
+				107573,
+				69354
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Jonah Hax",
+			"DriverGuid": "76561197980423199",
+			"CarId": 15,
+			"CarModel": "sunbeam_2l",
+			"Timestamp": 4991423,
+			"LapTime": 263431,
+			"Sectors": [
+				81739,
+				110579,
+				71113
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Tobi",
+			"DriverGuid": "76561198101979452",
+			"CarId": 7,
+			"CarModel": "bugatti_type_32",
+			"Timestamp": 5013921,
+			"LapTime": 264693,
+			"Sectors": [
+				83712,
+				109903,
+				71078
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "smartjulger",
+			"DriverGuid": "76561198809591028",
+			"CarId": 4,
+			"CarModel": "bugatti_type_32",
+			"Timestamp": 5017607,
+			"LapTime": 264413,
+			"Sectors": [
+				83523,
+				109817,
+				71073
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Faces of Evil",
+			"DriverGuid": "76561198044215364",
+			"CarId": 13,
+			"CarModel": "bugatti_type_32",
+			"Timestamp": 5039542,
+			"LapTime": 265137,
+			"Sectors": [
+				83638,
+				110965,
+				70534
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "A Casual Sim Racer",
+			"DriverGuid": "76561198160504028",
+			"CarId": 16,
+			"CarModel": "fiat_805",
+			"Timestamp": 5050673,
+			"LapTime": 267355,
+			"Sectors": [
+				82752,
+				111478,
+				73125
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "GoodsmileRacing",
+			"DriverGuid": "76561198025181930",
+			"CarId": 17,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 5054047,
+			"LapTime": 272710,
+			"Sectors": [
+				85789,
+				112842,
+				74079
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Juan San Martin",
+			"DriverGuid": "76561198027691137",
+			"CarId": 3,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 5061921,
+			"LapTime": 274371,
+			"Sectors": [
+				84848,
+				114859,
+				74664
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "TimoZ",
+			"DriverGuid": "76561198081180282",
+			"CarId": 11,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 5070069,
+			"LapTime": 273496,
+			"Sectors": [
+				85333,
+				113697,
+				74466
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Lokanas",
+			"DriverGuid": "76561199093722575",
+			"CarId": 6,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 5076908,
+			"LapTime": 274723,
+			"Sectors": [
+				85034,
+				114904,
+				74785
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "LarsT",
+			"DriverGuid": "76561198818062492",
+			"CarId": 1,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 5078299,
+			"LapTime": 274548,
+			"Sectors": [
+				84854,
+				114795,
+				74899
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Rob Vandenberg",
+			"DriverGuid": "76561199051919959",
+			"CarId": 12,
+			"CarModel": "voisin_c6_laboratoire",
+			"Timestamp": 5130250,
+			"LapTime": 278946,
+			"Sectors": [
+				89176,
+				115785,
+				73985
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Silberwolf",
+			"DriverGuid": "76561198201942964",
+			"CarId": 9,
+			"CarModel": "fiat_805",
+			"Timestamp": 5180726,
+			"LapTime": 255233,
+			"Sectors": [
+				78671,
+				107182,
+				69380
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Costo",
+			"DriverGuid": "76561198034178233",
+			"CarId": 2,
+			"CarModel": "fiat_805",
+			"Timestamp": 5196003,
+			"LapTime": 256602,
+			"Sectors": [
+				79715,
+				107739,
+				69148
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Felix789",
+			"DriverGuid": "76561198159251100",
+			"CarId": 8,
+			"CarModel": "delage_2lcv",
+			"Timestamp": 5196871,
+			"LapTime": 255536,
+			"Sectors": [
+				80000,
+				106686,
+				68850
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Merlijn Percas",
+			"DriverGuid": "76561198872987414",
+			"CarId": 5,
+			"CarModel": "delage_2lcv",
+			"Timestamp": 5196897,
+			"LapTime": 256294,
+			"Sectors": [
+				79741,
+				107024,
+				69529
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Just911",
+			"DriverGuid": "76561198246572520",
+			"CarId": 14,
+			"CarModel": "sunbeam_2l",
+			"Timestamp": 5204146,
+			"LapTime": 258642,
+			"Sectors": [
+				80567,
+				108352,
+				69723
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Nick Hill",
+			"DriverGuid": "76561198014437074",
+			"CarId": 10,
+			"CarModel": "delage_2lcv",
+			"Timestamp": 5205148,
+			"LapTime": 257270,
+			"Sectors": [
+				79768,
+				107586,
+				69916
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Jonah Hax",
+			"DriverGuid": "76561197980423199",
+			"CarId": 15,
+			"CarModel": "sunbeam_2l",
+			"Timestamp": 5253860,
+			"LapTime": 262446,
+			"Sectors": [
+				82103,
+				109585,
+				70758
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Tobi",
+			"DriverGuid": "76561198101979452",
+			"CarId": 7,
+			"CarModel": "bugatti_type_32",
+			"Timestamp": 5280527,
+			"LapTime": 266607,
+			"Sectors": [
+				85419,
+				111006,
+				70182
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "smartjulger",
+			"DriverGuid": "76561198809591028",
+			"CarId": 4,
+			"CarModel": "bugatti_type_32",
+			"Timestamp": 5282522,
+			"LapTime": 264927,
+			"Sectors": [
+				84355,
+				109607,
+				70965
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Faces of Evil",
+			"DriverGuid": "76561198044215364",
+			"CarId": 13,
+			"CarModel": "bugatti_type_32",
+			"Timestamp": 5306050,
+			"LapTime": 266516,
+			"Sectors": [
+				84577,
+				111654,
+				70285
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "A Casual Sim Racer",
+			"DriverGuid": "76561198160504028",
+			"CarId": 16,
+			"CarModel": "fiat_805",
+			"Timestamp": 5320031,
+			"LapTime": 269362,
+			"Sectors": [
+				82306,
+				115164,
+				71892
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "GoodsmileRacing",
+			"DriverGuid": "76561198025181930",
+			"CarId": 17,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 5325402,
+			"LapTime": 271369,
+			"Sectors": [
+				84268,
+				113161,
+				73940
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Juan San Martin",
+			"DriverGuid": "76561198027691137",
+			"CarId": 3,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 5335613,
+			"LapTime": 273703,
+			"Sectors": [
+				85013,
+				114165,
+				74525
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "TimoZ",
+			"DriverGuid": "76561198081180282",
+			"CarId": 11,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 5343860,
+			"LapTime": 273804,
+			"Sectors": [
+				85371,
+				113975,
+				74458
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Lokanas",
+			"DriverGuid": "76561199093722575",
+			"CarId": 6,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 5351485,
+			"LapTime": 274587,
+			"Sectors": [
+				85276,
+				114296,
+				75015
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "LarsT",
+			"DriverGuid": "76561198818062492",
+			"CarId": 1,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 5355384,
+			"LapTime": 277096,
+			"Sectors": [
+				85751,
+				116686,
+				74659
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Rob Vandenberg",
+			"DriverGuid": "76561199051919959",
+			"CarId": 12,
+			"CarModel": "voisin_c6_laboratoire",
+			"Timestamp": 5407065,
+			"LapTime": 276830,
+			"Sectors": [
+				88591,
+				114124,
+				74115
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Silberwolf",
+			"DriverGuid": "76561198201942964",
+			"CarId": 9,
+			"CarModel": "fiat_805",
+			"Timestamp": 5436744,
+			"LapTime": 256034,
+			"Sectors": [
+				79400,
+				107699,
+				68935
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Costo",
+			"DriverGuid": "76561198034178233",
+			"CarId": 2,
+			"CarModel": "fiat_805",
+			"Timestamp": 5451796,
+			"LapTime": 255806,
+			"Sectors": [
+				79060,
+				107338,
+				69408
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Felix789",
+			"DriverGuid": "76561198159251100",
+			"CarId": 8,
+			"CarModel": "delage_2lcv",
+			"Timestamp": 5454443,
+			"LapTime": 257574,
+			"Sectors": [
+				81214,
+				107203,
+				69157
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Merlijn Percas",
+			"DriverGuid": "76561198872987414",
+			"CarId": 5,
+			"CarModel": "delage_2lcv",
+			"Timestamp": 5455356,
+			"LapTime": 258468,
+			"Sectors": [
+				81375,
+				107361,
+				69732
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Just911",
+			"DriverGuid": "76561198246572520",
+			"CarId": 14,
+			"CarModel": "sunbeam_2l",
+			"Timestamp": 5461238,
+			"LapTime": 257107,
+			"Sectors": [
+				81116,
+				106668,
+				69323
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Nick Hill",
+			"DriverGuid": "76561198014437074",
+			"CarId": 10,
+			"CarModel": "delage_2lcv",
+			"Timestamp": 5462571,
+			"LapTime": 257430,
+			"Sectors": [
+				80287,
+				107676,
+				69467
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Jonah Hax",
+			"DriverGuid": "76561197980423199",
+			"CarId": 15,
+			"CarModel": "sunbeam_2l",
+			"Timestamp": 5514338,
+			"LapTime": 260487,
+			"Sectors": [
+				81683,
+				108856,
+				69948
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Tobi",
+			"DriverGuid": "76561198101979452",
+			"CarId": 7,
+			"CarModel": "bugatti_type_32",
+			"Timestamp": 5543925,
+			"LapTime": 263403,
+			"Sectors": [
+				83294,
+				109981,
+				70128
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "smartjulger",
+			"DriverGuid": "76561198809591028",
+			"CarId": 4,
+			"CarModel": "bugatti_type_32",
+			"Timestamp": 5546249,
+			"LapTime": 263736,
+			"Sectors": [
+				82921,
+				110232,
+				70583
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Faces of Evil",
+			"DriverGuid": "76561198044215364",
+			"CarId": 13,
+			"CarModel": "bugatti_type_32",
+			"Timestamp": 5571959,
+			"LapTime": 265912,
+			"Sectors": [
+				84058,
+				110475,
+				71379
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "A Casual Sim Racer",
+			"DriverGuid": "76561198160504028",
+			"CarId": 16,
+			"CarModel": "fiat_805",
+			"Timestamp": 5592860,
+			"LapTime": 272832,
+			"Sectors": [
+				83696,
+				116573,
+				72563
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "GoodsmileRacing",
+			"DriverGuid": "76561198025181930",
+			"CarId": 17,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 5597372,
+			"LapTime": 271981,
+			"Sectors": [
+				84236,
+				113580,
+				74165
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Juan San Martin",
+			"DriverGuid": "76561198027691137",
+			"CarId": 3,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 5608187,
+			"LapTime": 272584,
+			"Sectors": [
+				84709,
+				113868,
+				74007
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "TimoZ",
+			"DriverGuid": "76561198081180282",
+			"CarId": 11,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 5617668,
+			"LapTime": 273820,
+			"Sectors": [
+				85666,
+				113638,
+				74516
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Lokanas",
+			"DriverGuid": "76561199093722575",
+			"CarId": 6,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 5625794,
+			"LapTime": 274315,
+			"Sectors": [
+				85328,
+				114084,
+				74903
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "LarsT",
+			"DriverGuid": "76561198818062492",
+			"CarId": 1,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 5630591,
+			"LapTime": 275217,
+			"Sectors": [
+				84817,
+				116131,
+				74269
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Rob Vandenberg",
+			"DriverGuid": "76561199051919959",
+			"CarId": 12,
+			"CarModel": "voisin_c6_laboratoire",
+			"Timestamp": 5685420,
+			"LapTime": 278364,
+			"Sectors": [
+				88630,
+				115672,
+				74062
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Silberwolf",
+			"DriverGuid": "76561198201942964",
+			"CarId": 9,
+			"CarModel": "fiat_805",
+			"Timestamp": 5689956,
+			"LapTime": 253227,
+			"Sectors": [
+				78514,
+				106281,
+				68432
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Costo",
+			"DriverGuid": "76561198034178233",
+			"CarId": 2,
+			"CarModel": "fiat_805",
+			"Timestamp": 5708716,
+			"LapTime": 256917,
+			"Sectors": [
+				79666,
+				108625,
+				68626
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Felix789",
+			"DriverGuid": "76561198159251100",
+			"CarId": 8,
+			"CarModel": "delage_2lcv",
+			"Timestamp": 5710832,
+			"LapTime": 256396,
+			"Sectors": [
+				80010,
+				107194,
+				69192
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Merlijn Percas",
+			"DriverGuid": "76561198872987414",
+			"CarId": 5,
+			"CarModel": "delage_2lcv",
+			"Timestamp": 5713191,
+			"LapTime": 257849,
+			"Sectors": [
+				80019,
+				109043,
+				68787
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Just911",
+			"DriverGuid": "76561198246572520",
+			"CarId": 14,
+			"CarModel": "sunbeam_2l",
+			"Timestamp": 5718286,
+			"LapTime": 257059,
+			"Sectors": [
+				80934,
+				106735,
+				69390
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Nick Hill",
+			"DriverGuid": "76561198014437074",
+			"CarId": 10,
+			"CarModel": "delage_2lcv",
+			"Timestamp": 5720159,
+			"LapTime": 257597,
+			"Sectors": [
+				80478,
+				107712,
+				69407
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Jonah Hax",
+			"DriverGuid": "76561197980423199",
+			"CarId": 15,
+			"CarModel": "sunbeam_2l",
+			"Timestamp": 5775065,
+			"LapTime": 260738,
+			"Sectors": [
+				81872,
+				108864,
+				70002
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "smartjulger",
+			"DriverGuid": "76561198809591028",
+			"CarId": 4,
+			"CarModel": "bugatti_type_32",
+			"Timestamp": 5809598,
+			"LapTime": 263362,
+			"Sectors": [
+				83411,
+				109234,
+				70717
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Tobi",
+			"DriverGuid": "76561198101979452",
+			"CarId": 7,
+			"CarModel": "bugatti_type_32",
+			"Timestamp": 5812062,
+			"LapTime": 268141,
+			"Sectors": [
+				83510,
+				109458,
+				75173
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Faces of Evil",
+			"DriverGuid": "76561198044215364",
+			"CarId": 13,
+			"CarModel": "bugatti_type_32",
+			"Timestamp": 5839657,
+			"LapTime": 267706,
+			"Sectors": [
+				84785,
+				112294,
+				70627
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "A Casual Sim Racer",
+			"DriverGuid": "76561198160504028",
+			"CarId": 16,
+			"CarModel": "fiat_805",
+			"Timestamp": 5863396,
+			"LapTime": 270544,
+			"Sectors": [
+				83461,
+				114822,
+				72261
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "GoodsmileRacing",
+			"DriverGuid": "76561198025181930",
+			"CarId": 17,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 5868855,
+			"LapTime": 271495,
+			"Sectors": [
+				84525,
+				112995,
+				73975
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Juan San Martin",
+			"DriverGuid": "76561198027691137",
+			"CarId": 3,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 5882960,
+			"LapTime": 274784,
+			"Sectors": [
+				84903,
+				115524,
+				74357
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "TimoZ",
+			"DriverGuid": "76561198081180282",
+			"CarId": 11,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 5890297,
+			"LapTime": 272642,
+			"Sectors": [
+				85020,
+				113260,
+				74362
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Lokanas",
+			"DriverGuid": "76561199093722575",
+			"CarId": 6,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 5900179,
+			"LapTime": 274402,
+			"Sectors": [
+				85218,
+				114525,
+				74659
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "LarsT",
+			"DriverGuid": "76561198818062492",
+			"CarId": 1,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 5904948,
+			"LapTime": 274369,
+			"Sectors": [
+				85243,
+				114210,
+				74916
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Silberwolf",
+			"DriverGuid": "76561198201942964",
+			"CarId": 9,
+			"CarModel": "fiat_805",
+			"Timestamp": 5943482,
+			"LapTime": 253538,
+			"Sectors": [
+				79145,
+				105670,
+				68723
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Costo",
+			"DriverGuid": "76561198034178233",
+			"CarId": 2,
+			"CarModel": "fiat_805",
+			"Timestamp": 5964224,
+			"LapTime": 255527,
+			"Sectors": [
+				79056,
+				107293,
+				69178
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Felix789",
+			"DriverGuid": "76561198159251100",
+			"CarId": 8,
+			"CarModel": "delage_2lcv",
+			"Timestamp": 5965720,
+			"LapTime": 254894,
+			"Sectors": [
+				79665,
+				106361,
+				68868
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Rob Vandenberg",
+			"DriverGuid": "76561199051919959",
+			"CarId": 12,
+			"CarModel": "voisin_c6_laboratoire",
+			"Timestamp": 5966213,
+			"LapTime": 280813,
+			"Sectors": [
+				89586,
+				117000,
+				74227
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Merlijn Percas",
+			"DriverGuid": "76561198872987414",
+			"CarId": 5,
+			"CarModel": "delage_2lcv",
+			"Timestamp": 5969380,
+			"LapTime": 256201,
+			"Sectors": [
+				79900,
+				107104,
+				69197
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Just911",
+			"DriverGuid": "76561198246572520",
+			"CarId": 14,
+			"CarModel": "sunbeam_2l",
+			"Timestamp": 5975891,
+			"LapTime": 257621,
+			"Sectors": [
+				80713,
+				107015,
+				69893
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Nick Hill",
+			"DriverGuid": "76561198014437074",
+			"CarId": 10,
+			"CarModel": "delage_2lcv",
+			"Timestamp": 5976718,
+			"LapTime": 256566,
+			"Sectors": [
+				80030,
+				106777,
+				69759
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Jonah Hax",
+			"DriverGuid": "76561197980423199",
+			"CarId": 15,
+			"CarModel": "sunbeam_2l",
+			"Timestamp": 6034956,
+			"LapTime": 259900,
+			"Sectors": [
+				81606,
+				108265,
+				70029
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "smartjulger",
+			"DriverGuid": "76561198809591028",
+			"CarId": 4,
+			"CarModel": "bugatti_type_32",
+			"Timestamp": 6077002,
+			"LapTime": 267414,
+			"Sectors": [
+				86113,
+				110129,
+				71172
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Tobi",
+			"DriverGuid": "76561198101979452",
+			"CarId": 7,
+			"CarModel": "bugatti_type_32",
+			"Timestamp": 6077595,
+			"LapTime": 265537,
+			"Sectors": [
+				84732,
+				109529,
+				71276
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Faces of Evil",
+			"DriverGuid": "76561198044215364",
+			"CarId": 13,
+			"CarModel": "bugatti_type_32",
+			"Timestamp": 6103443,
+			"LapTime": 263796,
+			"Sectors": [
+				83813,
+				109999,
+				69984
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "A Casual Sim Racer",
+			"DriverGuid": "76561198160504028",
+			"CarId": 16,
+			"CarModel": "fiat_805",
+			"Timestamp": 6132381,
+			"LapTime": 268989,
+			"Sectors": [
+				82202,
+				114013,
+				72774
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "GoodsmileRacing",
+			"DriverGuid": "76561198025181930",
+			"CarId": 17,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 6140212,
+			"LapTime": 271369,
+			"Sectors": [
+				84921,
+				112482,
+				73966
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Juan San Martin",
+			"DriverGuid": "76561198027691137",
+			"CarId": 3,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 6156552,
+			"LapTime": 273603,
+			"Sectors": [
+				84769,
+				114449,
+				74385
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "TimoZ",
+			"DriverGuid": "76561198081180282",
+			"CarId": 11,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 6164606,
+			"LapTime": 274322,
+			"Sectors": [
+				85003,
+				114610,
+				74709
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Lokanas",
+			"DriverGuid": "76561199093722575",
+			"CarId": 6,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 6175476,
+			"LapTime": 275307,
+			"Sectors": [
+				85334,
+				115308,
+				74665
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "LarsT",
+			"DriverGuid": "76561198818062492",
+			"CarId": 1,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 6178243,
+			"LapTime": 273308,
+			"Sectors": [
+				85109,
+				114143,
+				74056
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Silberwolf",
+			"DriverGuid": "76561198201942964",
+			"CarId": 9,
+			"CarModel": "fiat_805",
+			"Timestamp": 6198062,
+			"LapTime": 254599,
+			"Sectors": [
+				78127,
+				108067,
+				68405
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Costo",
+			"DriverGuid": "76561198034178233",
+			"CarId": 2,
+			"CarModel": "fiat_805",
+			"Timestamp": 6221263,
+			"LapTime": 257047,
+			"Sectors": [
+				79279,
+				108104,
+				69664
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Felix789",
+			"DriverGuid": "76561198159251100",
+			"CarId": 8,
+			"CarModel": "delage_2lcv",
+			"Timestamp": 6224820,
+			"LapTime": 259104,
+			"Sectors": [
+				79895,
+				110124,
+				69085
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Merlijn Percas",
+			"DriverGuid": "76561198872987414",
+			"CarId": 5,
+			"CarModel": "delage_2lcv",
+			"Timestamp": 6226295,
+			"LapTime": 256928,
+			"Sectors": [
+				80034,
+				107423,
+				69471
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Nick Hill",
+			"DriverGuid": "76561198014437074",
+			"CarId": 10,
+			"CarModel": "delage_2lcv",
+			"Timestamp": 6234117,
+			"LapTime": 257408,
+			"Sectors": [
+				80712,
+				106951,
+				69745
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Just911",
+			"DriverGuid": "76561198246572520",
+			"CarId": 14,
+			"CarModel": "sunbeam_2l",
+			"Timestamp": 6235238,
+			"LapTime": 259365,
+			"Sectors": [
+				80994,
+				106811,
+				71560
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Jonah Hax",
+			"DriverGuid": "76561197980423199",
+			"CarId": 15,
+			"CarModel": "sunbeam_2l",
+			"Timestamp": 6297226,
+			"LapTime": 262279,
+			"Sectors": [
+				81474,
+				109611,
+				71194
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Tobi",
+			"DriverGuid": "76561198101979452",
+			"CarId": 7,
+			"CarModel": "bugatti_type_32",
+			"Timestamp": 6341495,
+			"LapTime": 263904,
+			"Sectors": [
+				83993,
+				109540,
+				70371
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "smartjulger",
+			"DriverGuid": "76561198809591028",
+			"CarId": 4,
+			"CarModel": "bugatti_type_32",
+			"Timestamp": 6346888,
+			"LapTime": 269896,
+			"Sectors": [
+				84600,
+				113067,
+				72229
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Faces of Evil",
+			"DriverGuid": "76561198044215364",
+			"CarId": 13,
+			"CarModel": "bugatti_type_32",
+			"Timestamp": 6368400,
+			"LapTime": 264964,
+			"Sectors": [
+				84078,
+				110510,
+				70376
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "A Casual Sim Racer",
+			"DriverGuid": "76561198160504028",
+			"CarId": 16,
+			"CarModel": "fiat_805",
+			"Timestamp": 6400317,
+			"LapTime": 267939,
+			"Sectors": [
+				82930,
+				112086,
+				72923
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "GoodsmileRacing",
+			"DriverGuid": "76561198025181930",
+			"CarId": 17,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 6411769,
+			"LapTime": 271571,
+			"Sectors": [
+				84668,
+				112703,
+				74200
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Juan San Martin",
+			"DriverGuid": "76561198027691137",
+			"CarId": 3,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 6430102,
+			"LapTime": 273555,
+			"Sectors": [
+				84689,
+				114647,
+				74219
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "TimoZ",
+			"DriverGuid": "76561198081180282",
+			"CarId": 11,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 6438374,
+			"LapTime": 273782,
+			"Sectors": [
+				85854,
+				113768,
+				74160
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "LarsT",
+			"DriverGuid": "76561198818062492",
+			"CarId": 1,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 6454047,
+			"LapTime": 275816,
+			"Sectors": [
+				86493,
+				114408,
+				74915
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Lokanas",
+			"DriverGuid": "76561199093722575",
+			"CarId": 6,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 6457744,
+			"LapTime": 282276,
+			"Sectors": [
+				89603,
+				117756,
+				74917
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Silberwolf",
+			"DriverGuid": "76561198201942964",
+			"CarId": 9,
+			"CarModel": "fiat_805",
+			"Timestamp": 6459084,
+			"LapTime": 261037,
+			"Sectors": [
+				78211,
+				114651,
+				68175
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Costo",
+			"DriverGuid": "76561198034178233",
+			"CarId": 2,
+			"CarModel": "fiat_805",
+			"Timestamp": 6477446,
+			"LapTime": 256190,
+			"Sectors": [
+				79296,
+				107873,
+				69021
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Felix789",
+			"DriverGuid": "76561198159251100",
+			"CarId": 8,
+			"CarModel": "delage_2lcv",
+			"Timestamp": 6480003,
+			"LapTime": 255186,
+			"Sectors": [
+				79793,
+				106353,
+				69040
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Merlijn Percas",
+			"DriverGuid": "76561198872987414",
+			"CarId": 5,
+			"CarModel": "delage_2lcv",
+			"Timestamp": 6481895,
+			"LapTime": 255607,
+			"Sectors": [
+				79738,
+				106780,
+				69089
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Nick Hill",
+			"DriverGuid": "76561198014437074",
+			"CarId": 10,
+			"CarModel": "delage_2lcv",
+			"Timestamp": 6489824,
+			"LapTime": 255715,
+			"Sectors": [
+				80183,
+				106335,
+				69197
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Just911",
+			"DriverGuid": "76561198246572520",
+			"CarId": 14,
+			"CarModel": "sunbeam_2l",
+			"Timestamp": 6492844,
+			"LapTime": 257616,
+			"Sectors": [
+				80644,
+				106992,
+				69980
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Jonah Hax",
+			"DriverGuid": "76561197980423199",
+			"CarId": 15,
+			"CarModel": "sunbeam_2l",
+			"Timestamp": 6557114,
+			"LapTime": 259871,
+			"Sectors": [
+				81145,
+				108684,
+				70042
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Tobi",
+			"DriverGuid": "76561198101979452",
+			"CarId": 7,
+			"CarModel": "bugatti_type_32",
+			"Timestamp": 6606314,
+			"LapTime": 264824,
+			"Sectors": [
+				83340,
+				109862,
+				71622
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Faces of Evil",
+			"DriverGuid": "76561198044215364",
+			"CarId": 13,
+			"CarModel": "bugatti_type_32",
+			"Timestamp": 6635871,
+			"LapTime": 267477,
+			"Sectors": [
+				83337,
+				113962,
+				70178
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "A Casual Sim Racer",
+			"DriverGuid": "76561198160504028",
+			"CarId": 16,
+			"CarModel": "fiat_805",
+			"Timestamp": 6677254,
+			"LapTime": 276943,
+			"Sectors": [
+				86102,
+				118314,
+				72527
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "GoodsmileRacing",
+			"DriverGuid": "76561198025181930",
+			"CarId": 17,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 6682238,
+			"LapTime": 270480,
+			"Sectors": [
+				84512,
+				112383,
+				73585
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Juan San Martin",
+			"DriverGuid": "76561198027691137",
+			"CarId": 3,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 6702751,
+			"LapTime": 272659,
+			"Sectors": [
+				84671,
+				114089,
+				73899
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Silberwolf",
+			"DriverGuid": "76561198201942964",
+			"CarId": 9,
+			"CarModel": "fiat_805",
+			"Timestamp": 6716649,
+			"LapTime": 257577,
+			"Sectors": [
+				78481,
+				108949,
+				70147
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "TimoZ",
+			"DriverGuid": "76561198081180282",
+			"CarId": 11,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 6719676,
+			"LapTime": 281315,
+			"Sectors": [
+				85530,
+				113728,
+				82057
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "LarsT",
+			"DriverGuid": "76561198818062492",
+			"CarId": 1,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 6728860,
+			"LapTime": 274826,
+			"Sectors": [
+				85800,
+				114218,
+				74808
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Lokanas",
+			"DriverGuid": "76561199093722575",
+			"CarId": 6,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 6731378,
+			"LapTime": 273645,
+			"Sectors": [
+				85328,
+				114021,
+				74296
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Costo",
+			"DriverGuid": "76561198034178233",
+			"CarId": 2,
+			"CarModel": "fiat_805",
+			"Timestamp": 6733364,
+			"LapTime": 255927,
+			"Sectors": [
+				79329,
+				107531,
+				69067
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Felix789",
+			"DriverGuid": "76561198159251100",
+			"CarId": 8,
+			"CarModel": "delage_2lcv",
+			"Timestamp": 6735097,
+			"LapTime": 255096,
+			"Sectors": [
+				79645,
+				106474,
+				68977
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Merlijn Percas",
+			"DriverGuid": "76561198872987414",
+			"CarId": 5,
+			"CarModel": "delage_2lcv",
+			"Timestamp": 6737640,
+			"LapTime": 255759,
+			"Sectors": [
+				79313,
+				106642,
+				69804
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Nick Hill",
+			"DriverGuid": "76561198014437074",
+			"CarId": 10,
+			"CarModel": "delage_2lcv",
+			"Timestamp": 6746961,
+			"LapTime": 257145,
+			"Sectors": [
+				80137,
+				107635,
+				69373
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Just911",
+			"DriverGuid": "76561198246572520",
+			"CarId": 14,
+			"CarModel": "sunbeam_2l",
+			"Timestamp": 6750326,
+			"LapTime": 257498,
+			"Sectors": [
+				80819,
+				107137,
+				69542
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Jonah Hax",
+			"DriverGuid": "76561197980423199",
+			"CarId": 15,
+			"CarModel": "sunbeam_2l",
+			"Timestamp": 6818554,
+			"LapTime": 261479,
+			"Sectors": [
+				81353,
+				107983,
+				72143
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Tobi",
+			"DriverGuid": "76561198101979452",
+			"CarId": 7,
+			"CarModel": "bugatti_type_32",
+			"Timestamp": 6871507,
+			"LapTime": 265197,
+			"Sectors": [
+				83973,
+				110637,
+				70587
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Faces of Evil",
+			"DriverGuid": "76561198044215364",
+			"CarId": 13,
+			"CarModel": "bugatti_type_32",
+			"Timestamp": 6900990,
+			"LapTime": 265126,
+			"Sectors": [
+				84645,
+				109701,
+				70780
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "A Casual Sim Racer",
+			"DriverGuid": "76561198160504028",
+			"CarId": 16,
+			"CarModel": "fiat_805",
+			"Timestamp": 6948085,
+			"LapTime": 270834,
+			"Sectors": [
+				83778,
+				114830,
+				72226
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "GoodsmileRacing",
+			"DriverGuid": "76561198025181930",
+			"CarId": 17,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 6952548,
+			"LapTime": 270323,
+			"Sectors": [
+				84312,
+				112450,
+				73561
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Juan San Martin",
+			"DriverGuid": "76561198027691137",
+			"CarId": 3,
+			"CarModel": "rolland_pilain_a22",
+			"Timestamp": 6976288,
+			"LapTime": 273551,
+			"Sectors": [
+				84884,
+				114589,
+				74078
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "VV",
+			"Restrictor": 0
+		}
+	],
+	"Events": [
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 10,
+			"Driver": {
+				"Name": "Nick Hill",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198014437074",
+				"GuidsList": [
+					"76561198014437074"
+				]
+			},
+			"OtherCarId": 14,
+			"OtherDriver": {
+				"Name": "Just911",
+				"Team": "",
+				"Nation": "LTU",
+				"Guid": "76561198246572520",
+				"GuidsList": [
+					"76561198246572520"
+				]
+			},
+			"ImpactSpeed": 5.885159,
+			"WorldPosition": {
+				"X": -2967.2388,
+				"Y": 163.57933,
+				"Z": 601.539
+			},
+			"RelPosition": {
+				"X": 0.019433558,
+				"Y": 0.16826375,
+				"Z": 1.6412551
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 14,
+			"Driver": {
+				"Name": "Just911",
+				"Team": "",
+				"Nation": "LTU",
+				"Guid": "76561198246572520",
+				"GuidsList": [
+					"76561198246572520"
+				]
+			},
+			"OtherCarId": 10,
+			"OtherDriver": {
+				"Name": "Nick Hill",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198014437074",
+				"GuidsList": [
+					"76561198014437074"
+				]
+			},
+			"ImpactSpeed": 9.130328,
+			"WorldPosition": {
+				"X": -2967.257,
+				"Y": 163.57585,
+				"Z": 601.4863
+			},
+			"RelPosition": {
+				"X": -0.00011587143,
+				"Y": 0.15924278,
+				"Z": -2.3952975
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 10,
+			"Driver": {
+				"Name": "Nick Hill",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198014437074",
+				"GuidsList": [
+					"76561198014437074"
+				]
+			},
+			"OtherCarId": 14,
+			"OtherDriver": {
+				"Name": "Just911",
+				"Team": "",
+				"Nation": "LTU",
+				"Guid": "76561198246572520",
+				"GuidsList": [
+					"76561198246572520"
+				]
+			},
+			"ImpactSpeed": 4.7750487,
+			"WorldPosition": {
+				"X": -2967.1882,
+				"Y": 163.57928,
+				"Z": 601.71497
+			},
+			"RelPosition": {
+				"X": 0.025925219,
+				"Y": 0.16812839,
+				"Z": 1.6294174
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 17,
+			"Driver": {
+				"Name": "GoodsmileRacing",
+				"Team": "",
+				"Nation": "POL",
+				"Guid": "76561198025181930",
+				"GuidsList": [
+					"76561198025181930"
+				]
+			},
+			"OtherCarId": 3,
+			"OtherDriver": {
+				"Name": "Juan San Martin",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198027691137",
+				"GuidsList": [
+					"76561198027691137"
+				]
+			},
+			"ImpactSpeed": 18.959688,
+			"WorldPosition": {
+				"X": -2938.3462,
+				"Y": 163.65697,
+				"Z": 689.17676
+			},
+			"RelPosition": {
+				"X": -0.6839485,
+				"Y": 0.2639636,
+				"Z": 1.6317637
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 3,
+			"Driver": {
+				"Name": "Juan San Martin",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198027691137",
+				"GuidsList": [
+					"76561198027691137"
+				]
+			},
+			"OtherCarId": 17,
+			"OtherDriver": {
+				"Name": "GoodsmileRacing",
+				"Team": "",
+				"Nation": "POL",
+				"Guid": "76561198025181930",
+				"GuidsList": [
+					"76561198025181930"
+				]
+			},
+			"ImpactSpeed": 10.398846,
+			"WorldPosition": {
+				"X": -2938.148,
+				"Y": 163.31812,
+				"Z": 688.5782
+			},
+			"RelPosition": {
+				"X": 0.61433816,
+				"Y": -0.07038394,
+				"Z": -1.1464409
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 15,
+			"Driver": {
+				"Name": "Jonah Hax",
+				"Team": "",
+				"Nation": "DNK",
+				"Guid": "76561197980423199",
+				"GuidsList": [
+					"76561197980423199"
+				]
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": null
+			},
+			"ImpactSpeed": 5.5798683,
+			"WorldPosition": {
+				"X": -2427.698,
+				"Y": 163.60243,
+				"Z": -1.4941806
+			},
+			"RelPosition": {
+				"X": 0.66624594,
+				"Y": -0.094874695,
+				"Z": 1.5940745
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 13,
+			"Driver": {
+				"Name": "Faces of Evil",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198044215364",
+				"GuidsList": [
+					"76561198044215364"
+				]
+			},
+			"OtherCarId": 7,
+			"OtherDriver": {
+				"Name": "Tobi",
+				"Team": "",
+				"Nation": "DEU",
+				"Guid": "76561198101979452",
+				"GuidsList": [
+					"76561198101979452"
+				]
+			},
+			"ImpactSpeed": 4.1367035,
+			"WorldPosition": {
+				"X": -1164.8246,
+				"Y": 163.3397,
+				"Z": 367.29224
+			},
+			"RelPosition": {
+				"X": 0.5990765,
+				"Y": -0.11365477,
+				"Z": -2.2038774
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 7,
+			"Driver": {
+				"Name": "Tobi",
+				"Team": "",
+				"Nation": "DEU",
+				"Guid": "76561198101979452",
+				"GuidsList": [
+					"76561198101979452"
+				]
+			},
+			"OtherCarId": 13,
+			"OtherDriver": {
+				"Name": "Faces of Evil",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198044215364",
+				"GuidsList": [
+					"76561198044215364"
+				]
+			},
+			"ImpactSpeed": 0.28761506,
+			"WorldPosition": {
+				"X": -1162.9397,
+				"Y": 163.33983,
+				"Z": 366.90186
+			},
+			"RelPosition": {
+				"X": -0.59996307,
+				"Y": -0.104961105,
+				"Z": 0.4099087
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 13,
+			"Driver": {
+				"Name": "Faces of Evil",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198044215364",
+				"GuidsList": [
+					"76561198044215364"
+				]
+			},
+			"OtherCarId": 4,
+			"OtherDriver": {
+				"Name": "smartjulger",
+				"Team": "",
+				"Nation": "NLD",
+				"Guid": "76561198809591028",
+				"GuidsList": [
+					"76561198809591028"
+				]
+			},
+			"ImpactSpeed": 4.7810783,
+			"WorldPosition": {
+				"X": -739.0487,
+				"Y": 154.14746,
+				"Z": -383.40146
+			},
+			"RelPosition": {
+				"X": -0.5976562,
+				"Y": -0.19788194,
+				"Z": 1.6540045
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 4,
+			"Driver": {
+				"Name": "smartjulger",
+				"Team": "",
+				"Nation": "NLD",
+				"Guid": "76561198809591028",
+				"GuidsList": [
+					"76561198809591028"
+				]
+			},
+			"OtherCarId": 13,
+			"OtherDriver": {
+				"Name": "Faces of Evil",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198044215364",
+				"GuidsList": [
+					"76561198044215364"
+				]
+			},
+			"ImpactSpeed": 6.98724,
+			"WorldPosition": {
+				"X": -726.7231,
+				"Y": 154.57416,
+				"Z": -385.23962
+			},
+			"RelPosition": {
+				"X": 0.5999437,
+				"Y": 0.17013612,
+				"Z": -1.601407
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 13,
+			"Driver": {
+				"Name": "Faces of Evil",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198044215364",
+				"GuidsList": [
+					"76561198044215364"
+				]
+			},
+			"OtherCarId": 16,
+			"OtherDriver": {
+				"Name": "A Casual Sim Racer",
+				"Team": "",
+				"Nation": "USA",
+				"Guid": "76561198160504028",
+				"GuidsList": [
+					"76561198160504028"
+				]
+			},
+			"ImpactSpeed": 4.2537165,
+			"WorldPosition": {
+				"X": -1221.6716,
+				"Y": 163.74663,
+				"Z": 397.0006
+			},
+			"RelPosition": {
+				"X": -0.59999,
+				"Y": 0.29347208,
+				"Z": 0.91430277
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 7,
+			"Driver": {
+				"Name": "Tobi",
+				"Team": "",
+				"Nation": "DEU",
+				"Guid": "76561198101979452",
+				"GuidsList": [
+					"76561198101979452"
+				]
+			},
+			"OtherCarId": 16,
+			"OtherDriver": {
+				"Name": "A Casual Sim Racer",
+				"Team": "",
+				"Nation": "USA",
+				"Guid": "76561198160504028",
+				"GuidsList": [
+					"76561198160504028"
+				]
+			},
+			"ImpactSpeed": 7.363376,
+			"WorldPosition": {
+				"X": -2244.1074,
+				"Y": 161.0927,
+				"Z": 177.87227
+			},
+			"RelPosition": {
+				"X": -0.5999504,
+				"Y": 0.34607616,
+				"Z": -0.44667083
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 16,
+			"Driver": {
+				"Name": "A Casual Sim Racer",
+				"Team": "",
+				"Nation": "USA",
+				"Guid": "76561198160504028",
+				"GuidsList": [
+					"76561198160504028"
+				]
+			},
+			"OtherCarId": 7,
+			"OtherDriver": {
+				"Name": "Tobi",
+				"Team": "",
+				"Nation": "DEU",
+				"Guid": "76561198101979452",
+				"GuidsList": [
+					"76561198101979452"
+				]
+			},
+			"ImpactSpeed": 5.6746845,
+			"WorldPosition": {
+				"X": -2246.0508,
+				"Y": 161.07872,
+				"Z": 177.18909
+			},
+			"RelPosition": {
+				"X": 0.6940092,
+				"Y": 0.3441656,
+				"Z": 0.95788527
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 4,
+			"Driver": {
+				"Name": "smartjulger",
+				"Team": "",
+				"Nation": "NLD",
+				"Guid": "76561198809591028",
+				"GuidsList": [
+					"76561198809591028"
+				]
+			},
+			"OtherCarId": 15,
+			"OtherDriver": {
+				"Name": "Jonah Hax",
+				"Team": "",
+				"Nation": "DNK",
+				"Guid": "76561197980423199",
+				"GuidsList": [
+					"76561197980423199"
+				]
+			},
+			"ImpactSpeed": 5.3081164,
+			"WorldPosition": {
+				"X": -2403.4844,
+				"Y": 157.19353,
+				"Z": 53.53702
+			},
+			"RelPosition": {
+				"X": -0.599957,
+				"Y": 0.19107082,
+				"Z": -1.5604669
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 15,
+			"Driver": {
+				"Name": "Jonah Hax",
+				"Team": "",
+				"Nation": "DNK",
+				"Guid": "76561197980423199",
+				"GuidsList": [
+					"76561197980423199"
+				]
+			},
+			"OtherCarId": 4,
+			"OtherDriver": {
+				"Name": "smartjulger",
+				"Team": "",
+				"Nation": "NLD",
+				"Guid": "76561198809591028",
+				"GuidsList": [
+					"76561198809591028"
+				]
+			},
+			"ImpactSpeed": 4.10072,
+			"WorldPosition": {
+				"X": -2404.27,
+				"Y": 157.2125,
+				"Z": 53.123615
+			},
+			"RelPosition": {
+				"X": 0.65324414,
+				"Y": 0.2508883,
+				"Z": -1.6381583
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 15,
+			"Driver": {
+				"Name": "Jonah Hax",
+				"Team": "",
+				"Nation": "DNK",
+				"Guid": "76561197980423199",
+				"GuidsList": [
+					"76561197980423199"
+				]
+			},
+			"OtherCarId": 16,
+			"OtherDriver": {
+				"Name": "A Casual Sim Racer",
+				"Team": "",
+				"Nation": "USA",
+				"Guid": "76561198160504028",
+				"GuidsList": [
+					"76561198160504028"
+				]
+			},
+			"ImpactSpeed": 8.671657,
+			"WorldPosition": {
+				"X": -2530.3433,
+				"Y": 160.59085,
+				"Z": 92.819145
+			},
+			"RelPosition": {
+				"X": -0.07880098,
+				"Y": 0.35481724,
+				"Z": -2.2723887
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 16,
+			"Driver": {
+				"Name": "A Casual Sim Racer",
+				"Team": "",
+				"Nation": "USA",
+				"Guid": "76561198160504028",
+				"GuidsList": [
+					"76561198160504028"
+				]
+			},
+			"OtherCarId": 15,
+			"OtherDriver": {
+				"Name": "Jonah Hax",
+				"Team": "",
+				"Nation": "DNK",
+				"Guid": "76561197980423199",
+				"GuidsList": [
+					"76561197980423199"
+				]
+			},
+			"ImpactSpeed": 6.419755,
+			"WorldPosition": {
+				"X": -2530.6821,
+				"Y": 160.47878,
+				"Z": 92.8507
+			},
+			"RelPosition": {
+				"X": 0.68641186,
+				"Y": 0.24877405,
+				"Z": 1.7097504
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 17,
+			"Driver": {
+				"Name": "GoodsmileRacing",
+				"Team": "",
+				"Nation": "POL",
+				"Guid": "76561198025181930",
+				"GuidsList": [
+					"76561198025181930"
+				]
+			},
+			"OtherCarId": 16,
+			"OtherDriver": {
+				"Name": "A Casual Sim Racer",
+				"Team": "",
+				"Nation": "USA",
+				"Guid": "76561198160504028",
+				"GuidsList": [
+					"76561198160504028"
+				]
+			},
+			"ImpactSpeed": 7.759588,
+			"WorldPosition": {
+				"X": -459.15167,
+				"Y": 161.87675,
+				"Z": 111.3787
+			},
+			"RelPosition": {
+				"X": 0.06615609,
+				"Y": 0.1675137,
+				"Z": 1.642322
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 16,
+			"Driver": {
+				"Name": "A Casual Sim Racer",
+				"Team": "",
+				"Nation": "USA",
+				"Guid": "76561198160504028",
+				"GuidsList": [
+					"76561198160504028"
+				]
+			},
+			"OtherCarId": 17,
+			"OtherDriver": {
+				"Name": "GoodsmileRacing",
+				"Team": "",
+				"Nation": "POL",
+				"Guid": "76561198025181930",
+				"GuidsList": [
+					"76561198025181930"
+				]
+			},
+			"ImpactSpeed": 11.626949,
+			"WorldPosition": {
+				"X": -459.12067,
+				"Y": 161.76138,
+				"Z": 111.42252
+			},
+			"RelPosition": {
+				"X": -0.0000032186508,
+				"Y": 0.054958433,
+				"Z": -2.3218048
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 12,
+			"Driver": {
+				"Name": "Rob Vandenberg",
+				"Team": "",
+				"Nation": "NLD",
+				"Guid": "76561199051919959",
+				"GuidsList": [
+					"76561199051919959"
+				]
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": null
+			},
+			"ImpactSpeed": 18.057178,
+			"WorldPosition": {
+				"X": -442.80295,
+				"Y": 161.75046,
+				"Z": 54.465893
+			},
+			"RelPosition": {
+				"X": -0.31391132,
+				"Y": -0.08724823,
+				"Z": -2.6465654
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 16,
+			"Driver": {
+				"Name": "A Casual Sim Racer",
+				"Team": "",
+				"Nation": "USA",
+				"Guid": "76561198160504028",
+				"GuidsList": [
+					"76561198160504028"
+				]
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": null
+			},
+			"ImpactSpeed": 60.684246,
+			"WorldPosition": {
+				"X": -2461.1143,
+				"Y": 160.62192,
+				"Z": 42.327015
+			},
+			"RelPosition": {
+				"X": -0.6896876,
+				"Y": 0.20642985,
+				"Z": -0.96443135
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 16,
+			"Driver": {
+				"Name": "A Casual Sim Racer",
+				"Team": "",
+				"Nation": "USA",
+				"Guid": "76561198160504028",
+				"GuidsList": [
+					"76561198160504028"
+				]
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": null
+			},
+			"ImpactSpeed": 21.039886,
+			"WorldPosition": {
+				"X": -2404.0664,
+				"Y": 162.50941,
+				"Z": 6.7664075
+			},
+			"RelPosition": {
+				"X": 0.6863876,
+				"Y": -0.1507737,
+				"Z": 1.6964204
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 4,
+			"Driver": {
+				"Name": "smartjulger",
+				"Team": "",
+				"Nation": "NLD",
+				"Guid": "76561198809591028",
+				"GuidsList": [
+					"76561198809591028"
+				]
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": null
+			},
+			"ImpactSpeed": 20.510223,
+			"WorldPosition": {
+				"X": -475.7943,
+				"Y": 163.09247,
+				"Z": 9.366067
+			},
+			"RelPosition": {
+				"X": -0.6000504,
+				"Y": 0.5983065,
+				"Z": 0.05747813
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 4,
+			"Driver": {
+				"Name": "smartjulger",
+				"Team": "",
+				"Nation": "NLD",
+				"Guid": "76561198809591028",
+				"GuidsList": [
+					"76561198809591028"
+				]
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": null
+			},
+			"ImpactSpeed": 18.557217,
+			"WorldPosition": {
+				"X": -2342.629,
+				"Y": 158.41588,
+				"Z": 147.66487
+			},
+			"RelPosition": {
+				"X": 0.5999803,
+				"Y": -0.19786416,
+				"Z": 1.6539798
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 12,
+			"Driver": {
+				"Name": "Rob Vandenberg",
+				"Team": "",
+				"Nation": "NLD",
+				"Guid": "76561199051919959",
+				"GuidsList": [
+					"76561199051919959"
+				]
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": null
+			},
+			"ImpactSpeed": 66.38078,
+			"WorldPosition": {
+				"X": -2474.3074,
+				"Y": 161.0958,
+				"Z": 53.02267
+			},
+			"RelPosition": {
+				"X": -0.7704567,
+				"Y": -0.2036648,
+				"Z": 1.8319367
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 7,
+			"Driver": {
+				"Name": "Tobi",
+				"Team": "",
+				"Nation": "DEU",
+				"Guid": "76561198101979452",
+				"GuidsList": [
+					"76561198101979452"
+				]
+			},
+			"OtherCarId": 4,
+			"OtherDriver": {
+				"Name": "smartjulger",
+				"Team": "",
+				"Nation": "NLD",
+				"Guid": "76561198809591028",
+				"GuidsList": [
+					"76561198809591028"
+				]
+			},
+			"ImpactSpeed": 5.8936515,
+			"WorldPosition": {
+				"X": -2518.607,
+				"Y": 159.81458,
+				"Z": 92.00477
+			},
+			"RelPosition": {
+				"X": -0.5982932,
+				"Y": -0.1295716,
+				"Z": -1.9247468
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 4,
+			"Driver": {
+				"Name": "smartjulger",
+				"Team": "",
+				"Nation": "NLD",
+				"Guid": "76561198809591028",
+				"GuidsList": [
+					"76561198809591028"
+				]
+			},
+			"OtherCarId": 7,
+			"OtherDriver": {
+				"Name": "Tobi",
+				"Team": "",
+				"Nation": "DEU",
+				"Guid": "76561198101979452",
+				"GuidsList": [
+					"76561198101979452"
+				]
+			},
+			"ImpactSpeed": 6.5884295,
+			"WorldPosition": {
+				"X": -2538.0898,
+				"Y": 160.38528,
+				"Z": 97.504074
+			},
+			"RelPosition": {
+				"X": 0.5999819,
+				"Y": -0.23168993,
+				"Z": -1.5893972
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 7,
+			"Driver": {
+				"Name": "Tobi",
+				"Team": "",
+				"Nation": "DEU",
+				"Guid": "76561198101979452",
+				"GuidsList": [
+					"76561198101979452"
+				]
+			},
+			"OtherCarId": 4,
+			"OtherDriver": {
+				"Name": "smartjulger",
+				"Team": "",
+				"Nation": "NLD",
+				"Guid": "76561198809591028",
+				"GuidsList": [
+					"76561198809591028"
+				]
+			},
+			"ImpactSpeed": 5.8019834,
+			"WorldPosition": {
+				"X": -2537.2046,
+				"Y": 160.37515,
+				"Z": 97.29516
+			},
+			"RelPosition": {
+				"X": -0.59981495,
+				"Y": -0.18522346,
+				"Z": -2.2037542
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 13,
+			"Driver": {
+				"Name": "Faces of Evil",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198044215364",
+				"GuidsList": [
+					"76561198044215364"
+				]
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": null
+			},
+			"ImpactSpeed": 184.53046,
+			"WorldPosition": {
+				"X": -121.90538,
+				"Y": 156.3,
+				"Z": 37.91779
+			},
+			"RelPosition": {
+				"X": -0.37000912,
+				"Y": -0.14364718,
+				"Z": 1.6471668
+			}
+		}
+	]
+}

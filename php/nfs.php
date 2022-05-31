@@ -1,21 +1,55 @@
 <h1 id="firstHeading" class="firstHeading">Nuevo fin de semana</h1>
 <h2 id="SecondHeading" class="SecondHeading">Cargar nuevo fin de semana / carrera</h2>
 <main>
+    <legend>Tipo de fin de semana</legend>
+    <ul class="nav nav-tabs">
+        <li class="active"><a data-toggle="tab" href="#tlibre">Fecha libre</a></li>
+        <li><a data-toggle="tab" href="#texistente">Torneo Existente</a></li>
+        <li><a data-toggle="tab" href="#tnuevo">Torneo Nuevo</a></li>
+    </ul>
+
+    <div class="tab-content">
+        <div id="tlibre" class="tab-pane fade in active">
+            <h3>FECHA LIBRE</h3>
+        </div>
+        <div id="texistente" class="tab-pane fade">
+            <h3>SELECCIONE TORNEO</h3>
+            <?php
+            require_once 'nfs/torneoexistente.php';
+            ?>
+            <div class="custom-select d-flex col-4">
+                <select id=seleccionaTorneo>
+                    <option>-- Seleccionar Torneo --</option>
+                    <?php foreach ($resultados as $opciones) { ?>
+                        <option><?php echo $opciones["Name"]; ?></option>
+                    <?php } ?>
+                </select>
+            </div>
+            <hr>
+        </div>
+        <div id="tnuevo" class="tab-pane fade">
+            <h3>INGRESE NOMBRE DE NUEVO TORNEO</h3>
+            <input type="text" id="torneoNuevo" oninput="check_tournament()">
+            <br>
+            <label id="informaExistente"></label>
+            <br>
+        </div>
+    </div>
+
+
     <div class="container">
         <fieldset>
-            <legend>Tipo de carrera</legend>
+            <!-- <legend>Tipo de carrera</legend>
             <label for="tipocarrera">Carrera</label>
             <select id="tipocarrera" onchange="seleccionaTipo();" onfocus="this.selectedIndex = 'ninguna'">
                 <option name="tipo" value="ninguna">--seleccionar--</option>
                 <option name="tipo" value="libre">Libre</option>
                 <option name="tipo" value="texistente">Torneo existente</option>
                 <option name="tipo" value="tnuevo">Torneo nuevo</option>
-            </select>
+            </select> -->
 
-            <div class="texistente">
-                <!-- PONER FECHAS Y DAR SELECCIÓN DE TORNEO -->
-
-                <!-- CAMBIAR -->
+            <!-- <div class="texistente">
+                
                 <h3>SELECCIONE TORNEO</h3>
                 <div class="custom-select d-flex col-4">
                     <select>
@@ -25,15 +59,9 @@
                     </select>
                 </div>
                 <hr>
-            </div>
+            </div> -->
 
-            <div class="tnuevo">
-                <!-- PONER FECHAS Y DAR INGRESO DE NOMBRE DE TORNEO -->
 
-                <!-- CAMBIAR -->
-                <h3>INGRESE NOMBRE DE NUEVO TORNEO</h3>
-                <input type="text">
-            </div>
 
         </fieldset>
 

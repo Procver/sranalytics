@@ -1,0 +1,1387 @@
+{
+	"Version": 5,
+	"Cars": [
+		{
+			"BallastKG": 0,
+			"CarId": 0,
+			"Driver": {
+				"Guid": "76561197970492500",
+				"GuidsList": [
+					"76561197970492500"
+				],
+				"Name": "Esotic Streaming",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "vac_tv_van_2",
+			"Restrictor": 0,
+			"Skin": "vactv1",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 1,
+			"Driver": {
+				"Guid": "76561197980423199",
+				"GuidsList": [
+					"76561197980423199"
+				],
+				"Name": "Jonah Hax",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "tmm_tatra_603",
+			"Restrictor": 0,
+			"Skin": "42_vac_jhax_v1",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 2,
+			"Driver": {
+				"Guid": "76561198025181930",
+				"GuidsList": [
+					"76561198025181930"
+				],
+				"Name": "GoodsmileRacing",
+				"Nation": "POL",
+				"Team": ""
+			},
+			"Model": "tmm_tatra_603",
+			"Restrictor": 0,
+			"Skin": "10_helicopter",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 42,
+			"MaxPing": 46
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 3,
+			"Driver": {
+				"Guid": "76561198006770176",
+				"GuidsList": [
+					"76561198006770176"
+				],
+				"Name": "Kulich",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "tmm_tatra_603",
+			"Restrictor": 0,
+			"Skin": "60_vac_kulich_v1",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 4,
+			"Driver": {
+				"Guid": "76561198872987414",
+				"GuidsList": [
+					"76561198872987414"
+				],
+				"Name": "Merlijn",
+				"Nation": "NLD",
+				"Team": ""
+			},
+			"Model": "tmm_tatra_603",
+			"Restrictor": 0,
+			"Skin": "88_vac_Merlijn_V1",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 14,
+			"MaxPing": 21
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 5,
+			"Driver": {
+				"Guid": "76561197980450034",
+				"GuidsList": [
+					"76561197980450034"
+				],
+				"Name": "Patrick Goldbach",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "tmm_tatra_603",
+			"Restrictor": 0,
+			"Skin": "227_vac_patrick_goldbach_v1",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 6,
+			"Driver": {
+				"Guid": "76561198136977886",
+				"GuidsList": [
+					"76561198136977886"
+				],
+				"Name": "Mellero",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "tmm_tatra_603",
+			"Restrictor": 0,
+			"Skin": "2_yellow",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 7,
+			"Driver": {
+				"Guid": "76561198027468036",
+				"GuidsList": [
+					"76561198027468036"
+				],
+				"Name": "octavio67",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "tmm_tatra_603",
+			"Restrictor": 0,
+			"Skin": "55_white",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 8,
+			"Driver": {
+				"Guid": "76561199093722575",
+				"GuidsList": [
+					"76561199093722575"
+				],
+				"Name": "Lokanas",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "tmm_tatra_603",
+			"Restrictor": 0,
+			"Skin": "51_green",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 9,
+			"Driver": {
+				"Guid": "76561198151791542",
+				"GuidsList": [
+					"76561198151791542"
+				],
+				"Name": "sgeti",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "tmm_tatra_603",
+			"Restrictor": 0,
+			"Skin": "23_brown",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 10,
+			"Driver": {
+				"Guid": "76561199058358884",
+				"GuidsList": [
+					"76561199058358884"
+				],
+				"Name": "Crow",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "tmm_tatra_603",
+			"Restrictor": 0,
+			"Skin": "44_Crow_Tatra603_V1",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 11,
+			"Driver": {
+				"Guid": "76561198136520626",
+				"GuidsList": [
+					"76561198136520626"
+				],
+				"Name": "Stacks972",
+				"Nation": "PLA",
+				"Team": ""
+			},
+			"Model": "tmm_tatra_603",
+			"Restrictor": 0,
+			"Skin": "Irkut_22",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 22,
+			"MaxPing": 26
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 12,
+			"Driver": {
+				"Guid": "76561198001524353",
+				"GuidsList": [
+					"76561198001524353"
+				],
+				"Name": "dylansan",
+				"Nation": "USA",
+				"Team": ""
+			},
+			"Model": "tmm_tatra_603",
+			"Restrictor": 0,
+			"Skin": "12_tatra",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 86,
+			"MaxPing": 90
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 13,
+			"Driver": {
+				"Guid": "76561197971130836",
+				"GuidsList": [
+					"76561197971130836"
+				],
+				"Name": "Axeracing",
+				"Nation": "PLA",
+				"Team": ""
+			},
+			"Model": "tmm_tatra_603",
+			"Restrictor": 0,
+			"Skin": "137_vac_axeracing_v2",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 118,
+			"MaxPing": 123
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 14,
+			"Driver": {
+				"Guid": "76561198798114170",
+				"GuidsList": [
+					"76561198798114170"
+				],
+				"Name": "nzo",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "tmm_tatra_603",
+			"Restrictor": 0,
+			"Skin": "65_vac_nzo_v1",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 15,
+			"Driver": {
+				"Guid": "76561197992609849",
+				"GuidsList": [
+					"76561197992609849"
+				],
+				"Name": "Gregory Myers",
+				"Nation": "UGA",
+				"Team": ""
+			},
+			"Model": "tmm_tatra_603",
+			"Restrictor": 0,
+			"Skin": "taxi_703",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 116,
+			"MaxPing": 123
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 16,
+			"Driver": {
+				"Guid": "76561197976392615",
+				"GuidsList": [
+					"76561197976392615"
+				],
+				"Name": "Jone Klemo Overland",
+				"Nation": "NOR",
+				"Team": ""
+			},
+			"Model": "tmm_tatra_603",
+			"Restrictor": 0,
+			"Skin": "11_tatra",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 107,
+			"MaxPing": 109
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 17,
+			"Driver": {
+				"Guid": "76561198159251100",
+				"GuidsList": [
+					"76561198159251100"
+				],
+				"Name": "Felix789",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "tmm_tatra_603",
+			"Restrictor": 0,
+			"Skin": "9_vac_kofola_v1",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 18,
+			"Driver": {
+				"Guid": "76561198417841335",
+				"GuidsList": [
+					"76561198417841335"
+				],
+				"Name": "TV CREW",
+				"Nation": "DNK",
+				"Team": ""
+			},
+			"Model": "vac_tv_van_2",
+			"Restrictor": 0,
+			"Skin": "vactv2",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 33,
+			"MaxPing": 45
+		}
+	],
+	"Events": [
+		{
+			"CarId": 12,
+			"Driver": {
+				"Guid": "76561198001524353",
+				"GuidsList": [
+					"76561198001524353"
+				],
+				"Name": "dylansan",
+				"Nation": "USA",
+				"Team": ""
+			},
+			"ImpactSpeed": 7.8042717,
+			"OtherCarId": 0,
+			"OtherDriver": {
+				"Guid": "",
+				"GuidsList": null,
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"RelPosition": {
+				"X": 0.8820534,
+				"Y": 0.18252663,
+				"Z": 2.2245557
+			},
+			"Type": "COLLISION_WITH_ENV",
+			"WorldPosition": {
+				"X": -644.4577,
+				"Y": 18.344294,
+				"Z": 1007.38416
+			},
+			"Timestamp": 1650818327,
+			"AfterSessionEnd": false
+		},
+		{
+			"CarId": 12,
+			"Driver": {
+				"Guid": "76561198001524353",
+				"GuidsList": [
+					"76561198001524353"
+				],
+				"Name": "dylansan",
+				"Nation": "USA",
+				"Team": ""
+			},
+			"ImpactSpeed": 17.183712,
+			"OtherCarId": 0,
+			"OtherDriver": {
+				"Guid": "",
+				"GuidsList": null,
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"RelPosition": {
+				"X": 0.9084494,
+				"Y": -0.22291657,
+				"Z": -2.340308
+			},
+			"Type": "COLLISION_WITH_ENV",
+			"WorldPosition": {
+				"X": -320.97998,
+				"Y": 33.261097,
+				"Z": 752.255
+			},
+			"Timestamp": 1650818577,
+			"AfterSessionEnd": false
+		},
+		{
+			"CarId": 12,
+			"Driver": {
+				"Guid": "76561198001524353",
+				"GuidsList": [
+					"76561198001524353"
+				],
+				"Name": "dylansan",
+				"Nation": "USA",
+				"Team": ""
+			},
+			"ImpactSpeed": 4.426709,
+			"OtherCarId": 0,
+			"OtherDriver": {
+				"Guid": "",
+				"GuidsList": null,
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"RelPosition": {
+				"X": 0.8605888,
+				"Y": 0.18599227,
+				"Z": 2.2413278
+			},
+			"Type": "COLLISION_WITH_ENV",
+			"WorldPosition": {
+				"X": -645.0658,
+				"Y": 18.332533,
+				"Z": 1007.19653
+			},
+			"Timestamp": 1650818952,
+			"AfterSessionEnd": false
+		},
+		{
+			"CarId": 12,
+			"Driver": {
+				"Guid": "76561198001524353",
+				"GuidsList": [
+					"76561198001524353"
+				],
+				"Name": "dylansan",
+				"Nation": "USA",
+				"Team": ""
+			},
+			"ImpactSpeed": 2.0706573,
+			"OtherCarId": 0,
+			"OtherDriver": {
+				"Guid": "",
+				"GuidsList": null,
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"RelPosition": {
+				"X": 0.82597136,
+				"Y": 0.19157144,
+				"Z": 2.2683356
+			},
+			"Type": "COLLISION_WITH_ENV",
+			"WorldPosition": {
+				"X": -645.78534,
+				"Y": 18.330378,
+				"Z": 1006.9686
+			},
+			"Timestamp": 1650818957,
+			"AfterSessionEnd": false
+		},
+		{
+			"CarId": 4,
+			"Driver": {
+				"Guid": "76561198872987414",
+				"GuidsList": [
+					"76561198872987414"
+				],
+				"Name": "Merlijn",
+				"Nation": "NLD",
+				"Team": ""
+			},
+			"ImpactSpeed": 43.15779,
+			"OtherCarId": 18,
+			"OtherDriver": {
+				"Guid": "76561198417841335",
+				"GuidsList": [
+					"76561198417841335"
+				],
+				"Name": "TV CREW",
+				"Nation": "DNK",
+				"Team": ""
+			},
+			"RelPosition": {
+				"X": 0.44475728,
+				"Y": -0.23203297,
+				"Z": 2.5586421
+			},
+			"Type": "COLLISION_WITH_CAR",
+			"WorldPosition": {
+				"X": 60.373936,
+				"Y": 28.438128,
+				"Z": 12.730583
+			},
+			"Timestamp": 1650819055,
+			"AfterSessionEnd": false
+		},
+		{
+			"CarId": 18,
+			"Driver": {
+				"Guid": "76561198417841335",
+				"GuidsList": [
+					"76561198417841335"
+				],
+				"Name": "TV CREW",
+				"Nation": "DNK",
+				"Team": ""
+			},
+			"ImpactSpeed": 45.49176,
+			"OtherCarId": 4,
+			"OtherDriver": {
+				"Guid": "76561198872987414",
+				"GuidsList": [
+					"76561198872987414"
+				],
+				"Name": "Merlijn",
+				"Nation": "NLD",
+				"Team": ""
+			},
+			"RelPosition": {
+				"X": 0.8273345,
+				"Y": 0.26075605,
+				"Z": -1.6803067
+			},
+			"Type": "COLLISION_WITH_CAR",
+			"WorldPosition": {
+				"X": 60.36135,
+				"Y": 28.770817,
+				"Z": 12.725333
+			},
+			"Timestamp": 1650819055,
+			"AfterSessionEnd": false
+		},
+		{
+			"CarId": 18,
+			"Driver": {
+				"Guid": "76561198417841335",
+				"GuidsList": [
+					"76561198417841335"
+				],
+				"Name": "TV CREW",
+				"Nation": "DNK",
+				"Team": ""
+			},
+			"ImpactSpeed": 32.14614,
+			"OtherCarId": 0,
+			"OtherDriver": {
+				"Guid": "",
+				"GuidsList": null,
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"RelPosition": {
+				"X": -0.6207895,
+				"Y": 1.017579,
+				"Z": -1.507861
+			},
+			"Type": "COLLISION_WITH_ENV",
+			"WorldPosition": {
+				"X": 92.666,
+				"Y": 29.359268,
+				"Z": 1.2257587
+			},
+			"Timestamp": 1650819060,
+			"AfterSessionEnd": false
+		},
+		{
+			"CarId": 4,
+			"Driver": {
+				"Guid": "76561198872987414",
+				"GuidsList": [
+					"76561198872987414"
+				],
+				"Name": "Merlijn",
+				"Nation": "NLD",
+				"Team": ""
+			},
+			"ImpactSpeed": 8.378198,
+			"OtherCarId": 18,
+			"OtherDriver": {
+				"Guid": "76561198417841335",
+				"GuidsList": [
+					"76561198417841335"
+				],
+				"Name": "TV CREW",
+				"Nation": "DNK",
+				"Team": ""
+			},
+			"RelPosition": {
+				"X": -0.90361613,
+				"Y": -0.16807663,
+				"Z": 2.2212377
+			},
+			"Type": "COLLISION_WITH_CAR",
+			"WorldPosition": {
+				"X": 98.50964,
+				"Y": 28.30661,
+				"Z": 3.8057983
+			},
+			"Timestamp": 1650819080,
+			"AfterSessionEnd": false
+		},
+		{
+			"CarId": 4,
+			"Driver": {
+				"Guid": "76561198872987414",
+				"GuidsList": [
+					"76561198872987414"
+				],
+				"Name": "Merlijn",
+				"Nation": "NLD",
+				"Team": ""
+			},
+			"ImpactSpeed": 3.341798,
+			"OtherCarId": 0,
+			"OtherDriver": {
+				"Guid": "",
+				"GuidsList": null,
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"RelPosition": {
+				"X": 0.8817846,
+				"Y": -0.10551206,
+				"Z": 2.2217004
+			},
+			"Type": "COLLISION_WITH_ENV",
+			"WorldPosition": {
+				"X": 99.76559,
+				"Y": 28.332823,
+				"Z": 1.3265928
+			},
+			"Timestamp": 1650819080,
+			"AfterSessionEnd": false
+		},
+		{
+			"CarId": 18,
+			"Driver": {
+				"Guid": "76561198417841335",
+				"GuidsList": [
+					"76561198417841335"
+				],
+				"Name": "TV CREW",
+				"Nation": "DNK",
+				"Team": ""
+			},
+			"ImpactSpeed": 7.0365634,
+			"OtherCarId": 4,
+			"OtherDriver": {
+				"Guid": "76561198872987414",
+				"GuidsList": [
+					"76561198872987414"
+				],
+				"Name": "Merlijn",
+				"Nation": "NLD",
+				"Team": ""
+			},
+			"RelPosition": {
+				"X": -0.8629728,
+				"Y": 0.22270784,
+				"Z": -1.6903673
+			},
+			"Type": "COLLISION_WITH_CAR",
+			"WorldPosition": {
+				"X": 95.206894,
+				"Y": 28.524973,
+				"Z": 3.0741642
+			},
+			"Timestamp": 1650819080,
+			"AfterSessionEnd": false
+		},
+		{
+			"CarId": 4,
+			"Driver": {
+				"Guid": "76561198872987414",
+				"GuidsList": [
+					"76561198872987414"
+				],
+				"Name": "Merlijn",
+				"Nation": "NLD",
+				"Team": ""
+			},
+			"ImpactSpeed": 0.0067016426,
+			"OtherCarId": 0,
+			"OtherDriver": {
+				"Guid": "",
+				"GuidsList": null,
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"RelPosition": {
+				"X": 0.88120145,
+				"Y": -0.10773944,
+				"Z": 2.221968
+			},
+			"Type": "COLLISION_WITH_ENV",
+			"WorldPosition": {
+				"X": 100.04255,
+				"Y": 28.33115,
+				"Z": 1.3270361
+			},
+			"Timestamp": 1650819085,
+			"AfterSessionEnd": false
+		}
+	],
+	"Laps": [
+		{
+			"BallastKG": 0,
+			"CarId": 11,
+			"CarModel": "tmm_tatra_603",
+			"Cuts": 1,
+			"DriverGuid": "76561198136520626",
+			"DriverName": "Stacks972",
+			"LapTime": 210732,
+			"Restrictor": 0,
+			"Sectors": [
+				48061,
+				67082,
+				95589
+			],
+			"Timestamp": 1650818518,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 12,
+			"CarModel": "tmm_tatra_603",
+			"Cuts": 1,
+			"DriverGuid": "76561198001524353",
+			"DriverName": "dylansan",
+			"LapTime": 292928,
+			"Restrictor": 0,
+			"Sectors": [
+				134546,
+				62515,
+				95867
+			],
+			"Timestamp": 1650818525,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 4,
+			"CarModel": "tmm_tatra_603",
+			"Cuts": 0,
+			"DriverGuid": "76561198872987414",
+			"DriverName": "Merlijn",
+			"LapTime": 346901,
+			"Restrictor": 0,
+			"Sectors": [
+				188321,
+				61768,
+				96812
+			],
+			"Timestamp": 1650818687,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 2,
+			"CarModel": "tmm_tatra_603",
+			"Cuts": 2,
+			"DriverGuid": "76561198025181930",
+			"DriverName": "GoodsmileRacing",
+			"LapTime": 361742,
+			"Restrictor": 0,
+			"Sectors": [
+				204198,
+				62225,
+				95319
+			],
+			"Timestamp": 1650818698,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 11,
+			"CarModel": "tmm_tatra_603",
+			"Cuts": 2,
+			"DriverGuid": "76561198136520626",
+			"DriverName": "Stacks972",
+			"LapTime": 181782,
+			"Restrictor": 0,
+			"Sectors": [
+				21361,
+				65057,
+				95364
+			],
+			"Timestamp": 1650818700,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 16,
+			"CarModel": "tmm_tatra_603",
+			"Cuts": 2,
+			"DriverGuid": "76561197976392615",
+			"DriverName": "Jone Klemo Overland",
+			"LapTime": 240373,
+			"Restrictor": 0,
+			"Sectors": [
+				62654,
+				67212,
+				110507
+			],
+			"Timestamp": 1650818777,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 4,
+			"CarModel": "tmm_tatra_603",
+			"Cuts": 0,
+			"DriverGuid": "76561198872987414",
+			"DriverName": "Merlijn",
+			"LapTime": 176367,
+			"Restrictor": 0,
+			"Sectors": [
+				21657,
+				60146,
+				94564
+			],
+			"Timestamp": 1650818863,
+			"Tyre": "V",
+			"ContributedToFastestLap": true
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 2,
+			"CarModel": "tmm_tatra_603",
+			"Cuts": 0,
+			"DriverGuid": "76561198025181930",
+			"DriverName": "GoodsmileRacing",
+			"LapTime": 176421,
+			"Restrictor": 0,
+			"Sectors": [
+				21269,
+				59796,
+				95356
+			],
+			"Timestamp": 1650818875,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 11,
+			"CarModel": "tmm_tatra_603",
+			"Cuts": 0,
+			"DriverGuid": "76561198136520626",
+			"DriverName": "Stacks972",
+			"LapTime": 175914,
+			"Restrictor": 0,
+			"Sectors": [
+				21442,
+				59634,
+				94838
+			],
+			"Timestamp": 1650818876,
+			"Tyre": "V",
+			"ContributedToFastestLap": true
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 12,
+			"CarModel": "tmm_tatra_603",
+			"Cuts": 0,
+			"DriverGuid": "76561198001524353",
+			"DriverName": "dylansan",
+			"LapTime": 363980,
+			"Restrictor": 0,
+			"Sectors": [
+				166939,
+				60750,
+				136291
+			],
+			"Timestamp": 1650818889,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 16,
+			"CarModel": "tmm_tatra_603",
+			"Cuts": 1,
+			"DriverGuid": "76561197976392615",
+			"DriverName": "Jone Klemo Overland",
+			"LapTime": 189474,
+			"Restrictor": 0,
+			"Sectors": [
+				22451,
+				70075,
+				96948
+			],
+			"Timestamp": 1650818967,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 2,
+			"CarModel": "tmm_tatra_603",
+			"Cuts": 0,
+			"DriverGuid": "76561198025181930",
+			"DriverName": "GoodsmileRacing",
+			"LapTime": 176575,
+			"Restrictor": 0,
+			"Sectors": [
+				21375,
+				59791,
+				95409
+			],
+			"Timestamp": 1650819051,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 11,
+			"CarModel": "tmm_tatra_603",
+			"Cuts": 0,
+			"DriverGuid": "76561198136520626",
+			"DriverName": "Stacks972",
+			"LapTime": 176822,
+			"Restrictor": 0,
+			"Sectors": [
+				21622,
+				60327,
+				94873
+			],
+			"Timestamp": 1650819052,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 4,
+			"CarModel": "tmm_tatra_603",
+			"Cuts": 1,
+			"DriverGuid": "76561198872987414",
+			"DriverName": "Merlijn",
+			"LapTime": 231471,
+			"Restrictor": 0,
+			"Sectors": [
+				21199,
+				59891,
+				150381
+			],
+			"Timestamp": 1650819094,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 16,
+			"CarModel": "tmm_tatra_603",
+			"Cuts": 0,
+			"DriverGuid": "76561197976392615",
+			"DriverName": "Jone Klemo Overland",
+			"LapTime": 180112,
+			"Restrictor": 0,
+			"Sectors": [
+				21690,
+				62077,
+				96345
+			],
+			"Timestamp": 1650819147,
+			"Tyre": "V",
+			"ContributedToFastestLap": true
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 12,
+			"CarModel": "tmm_tatra_603",
+			"Cuts": 0,
+			"DriverGuid": "76561198001524353",
+			"DriverName": "dylansan",
+			"LapTime": 261965,
+			"Restrictor": 0,
+			"Sectors": [
+				103313,
+				60575,
+				98077
+			],
+			"Timestamp": 1650819151,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 2,
+			"CarModel": "tmm_tatra_603",
+			"Cuts": 0,
+			"DriverGuid": "76561198025181930",
+			"DriverName": "GoodsmileRacing",
+			"LapTime": 176644,
+			"Restrictor": 0,
+			"Sectors": [
+				21137,
+				60003,
+				95504
+			],
+			"Timestamp": 1650819228,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 11,
+			"CarModel": "tmm_tatra_603",
+			"Cuts": 0,
+			"DriverGuid": "76561198136520626",
+			"DriverName": "Stacks972",
+			"LapTime": 176672,
+			"Restrictor": 0,
+			"Sectors": [
+				21571,
+				60318,
+				94783
+			],
+			"Timestamp": 1650819229,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 13,
+			"CarModel": "tmm_tatra_603",
+			"Cuts": 0,
+			"DriverGuid": "76561197971130836",
+			"DriverName": "Axeracing",
+			"LapTime": 318111,
+			"Restrictor": 0,
+			"Sectors": [
+				163112,
+				60116,
+				94883
+			],
+			"Timestamp": 1650819315,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 16,
+			"CarModel": "tmm_tatra_603",
+			"Cuts": 0,
+			"DriverGuid": "76561197976392615",
+			"DriverName": "Jone Klemo Overland",
+			"LapTime": 181513,
+			"Restrictor": 0,
+			"Sectors": [
+				21975,
+				61857,
+				97681
+			],
+			"Timestamp": 1650819328,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 12,
+			"CarModel": "tmm_tatra_603",
+			"Cuts": 0,
+			"DriverGuid": "76561198001524353",
+			"DriverName": "dylansan",
+			"LapTime": 179724,
+			"Restrictor": 0,
+			"Sectors": [
+				22341,
+				61146,
+				96237
+			],
+			"Timestamp": 1650819331,
+			"Tyre": "V",
+			"ContributedToFastestLap": true
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 2,
+			"CarModel": "tmm_tatra_603",
+			"Cuts": 0,
+			"DriverGuid": "76561198025181930",
+			"DriverName": "GoodsmileRacing",
+			"LapTime": 176352,
+			"Restrictor": 0,
+			"Sectors": [
+				21219,
+				59278,
+				95855
+			],
+			"Timestamp": 1650819404,
+			"Tyre": "V",
+			"ContributedToFastestLap": true
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 11,
+			"CarModel": "tmm_tatra_603",
+			"Cuts": 0,
+			"DriverGuid": "76561198136520626",
+			"DriverName": "Stacks972",
+			"LapTime": 176267,
+			"Restrictor": 0,
+			"Sectors": [
+				21445,
+				59845,
+				94977
+			],
+			"Timestamp": 1650819405,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 13,
+			"CarModel": "tmm_tatra_603",
+			"Cuts": 0,
+			"DriverGuid": "76561197971130836",
+			"DriverName": "Axeracing",
+			"LapTime": 174208,
+			"Restrictor": 0,
+			"Sectors": [
+				21275,
+				59032,
+				93901
+			],
+			"Timestamp": 1650819489,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 12,
+			"CarModel": "tmm_tatra_603",
+			"Cuts": 0,
+			"DriverGuid": "76561198001524353",
+			"DriverName": "dylansan",
+			"LapTime": 180306,
+			"Restrictor": 0,
+			"Sectors": [
+				21770,
+				61551,
+				96985
+			],
+			"Timestamp": 1650819511,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 2,
+			"CarModel": "tmm_tatra_603",
+			"Cuts": 0,
+			"DriverGuid": "76561198025181930",
+			"DriverName": "GoodsmileRacing",
+			"LapTime": 176494,
+			"Restrictor": 0,
+			"Sectors": [
+				21941,
+				59014,
+				95539
+			],
+			"Timestamp": 1650819581,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 13,
+			"CarModel": "tmm_tatra_603",
+			"Cuts": 0,
+			"DriverGuid": "76561197971130836",
+			"DriverName": "Axeracing",
+			"LapTime": 173737,
+			"Restrictor": 0,
+			"Sectors": [
+				21268,
+				58505,
+				93964
+			],
+			"Timestamp": 1650819663,
+			"Tyre": "V",
+			"ContributedToFastestLap": true
+		}
+	],
+	"Result": [
+		{
+			"BallastKG": 0,
+			"BestLap": 173737,
+			"CarId": 13,
+			"CarModel": "tmm_tatra_603",
+			"DriverGuid": "76561197971130836",
+			"DriverName": "Axeracing",
+			"Restrictor": 0,
+			"TotalTime": 1602447,
+			"NumLaps": 3,
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"HasPenalty": false,
+			"PenaltyTime": 0,
+			"LapPenalty": 0,
+			"Disqualified": false
+		},
+		{
+			"BallastKG": 0,
+			"BestLap": 175914,
+			"CarId": 11,
+			"CarModel": "tmm_tatra_603",
+			"DriverGuid": "76561198136520626",
+			"DriverName": "Stacks972",
+			"Restrictor": 0,
+			"TotalTime": 1345142,
+			"NumLaps": 6,
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"HasPenalty": false,
+			"PenaltyTime": 0,
+			"LapPenalty": 0,
+			"Disqualified": false
+		},
+		{
+			"BallastKG": 0,
+			"BestLap": 176352,
+			"CarId": 2,
+			"CarModel": "tmm_tatra_603",
+			"DriverGuid": "76561198025181930",
+			"DriverName": "GoodsmileRacing",
+			"Restrictor": 0,
+			"TotalTime": 1520562,
+			"NumLaps": 6,
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"HasPenalty": false,
+			"PenaltyTime": 0,
+			"LapPenalty": 0,
+			"Disqualified": false
+		},
+		{
+			"BallastKG": 0,
+			"BestLap": 176367,
+			"CarId": 4,
+			"CarModel": "tmm_tatra_603",
+			"DriverGuid": "76561198872987414",
+			"DriverName": "Merlijn",
+			"Restrictor": 0,
+			"TotalTime": 1034379,
+			"NumLaps": 3,
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"HasPenalty": false,
+			"PenaltyTime": 0,
+			"LapPenalty": 0,
+			"Disqualified": false
+		},
+		{
+			"BallastKG": 0,
+			"BestLap": 179724,
+			"CarId": 12,
+			"CarModel": "tmm_tatra_603",
+			"DriverGuid": "76561198001524353",
+			"DriverName": "dylansan",
+			"Restrictor": 0,
+			"TotalTime": 1450819,
+			"NumLaps": 5,
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"HasPenalty": false,
+			"PenaltyTime": 0,
+			"LapPenalty": 0,
+			"Disqualified": false
+		},
+		{
+			"BallastKG": 0,
+			"BestLap": 180112,
+			"CarId": 16,
+			"CarModel": "tmm_tatra_603",
+			"DriverGuid": "76561197976392615",
+			"DriverName": "Jone Klemo Overland",
+			"Restrictor": 0,
+			"TotalTime": 1268188,
+			"NumLaps": 4,
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"HasPenalty": false,
+			"PenaltyTime": 0,
+			"LapPenalty": 0,
+			"Disqualified": false
+		},
+		{
+			"BallastKG": 0,
+			"BestLap": 999999999,
+			"CarId": 18,
+			"CarModel": "vac_tv_van_2",
+			"DriverGuid": "76561198417841335",
+			"DriverName": "TV CREW",
+			"Restrictor": 0,
+			"TotalTime": 0,
+			"NumLaps": 0,
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"HasPenalty": false,
+			"PenaltyTime": 0,
+			"LapPenalty": 0,
+			"Disqualified": false
+		},
+		{
+			"BallastKG": 0,
+			"BestLap": 999999999,
+			"CarId": 15,
+			"CarModel": "tmm_tatra_603",
+			"DriverGuid": "76561197992609849",
+			"DriverName": "Gregory Myers",
+			"Restrictor": 0,
+			"TotalTime": 0,
+			"NumLaps": 0,
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"HasPenalty": false,
+			"PenaltyTime": 0,
+			"LapPenalty": 0,
+			"Disqualified": false
+		}
+	],
+	"Penalties": null,
+	"TrackConfig": "brno_circuit_reworked",
+	"TrackName": "brno_circuit_reworked",
+	"Type": "PRACTICE",
+	"Date": "2022-04-24T19:03:26.611147786+02:00",
+	"SessionFile": "2022_4_24_19_3_PRACTICE.json",
+	"SessionConfig": {
+		"session_type": 1,
+		"name": "Practice",
+		"time": 25,
+		"laps": 0,
+		"is_open": 1,
+		"wait_time": 0,
+		"visibility_mode": 0,
+		"qualifying_type": 0,
+		"qualifying_number_of_laps_to_average": 0,
+		"count_out_lap": false,
+		"disable_push_to_pass": false
+	}
+}

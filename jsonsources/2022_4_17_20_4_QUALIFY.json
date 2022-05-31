@@ -1,0 +1,2671 @@
+{
+	"Version": 5,
+	"Cars": [
+		{
+			"BallastKG": 0,
+			"CarId": 0,
+			"Driver": {
+				"Guid": "76561197970492500",
+				"GuidsList": [
+					"76561197970492500"
+				],
+				"Name": "Esotic Streaming",
+				"Nation": "USA",
+				"Team": ""
+			},
+			"Model": "vac_tv_van_2",
+			"Restrictor": 0,
+			"Skin": "vactv1",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 100,
+			"MaxPing": 107
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 1,
+			"Driver": {
+				"Guid": "00000000000000000",
+				"GuidsList": [
+					"00000000000000000"
+				],
+				"Name": "_EMPTY_",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "vac_tv_van_2",
+			"Restrictor": 0,
+			"Skin": "vactv1",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 2,
+			"Driver": {
+				"Guid": "76561197980423199",
+				"GuidsList": [
+					"76561197980423199"
+				],
+				"Name": "Jonah Hax",
+				"Nation": "DNK",
+				"Team": ""
+			},
+			"Model": "fjunior_st60",
+			"Restrictor": 0,
+			"Skin": "42_vac_modena_jhax_v1",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 33,
+			"MaxPing": 35
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 3,
+			"Driver": {
+				"Guid": "76561198136977886",
+				"GuidsList": [
+					"76561198136977886"
+				],
+				"Name": "Mellero",
+				"Nation": "BRA",
+				"Team": ""
+			},
+			"Model": "fjunior_st60",
+			"Restrictor": 0,
+			"Skin": "97",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 170,
+			"MaxPing": 221
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 4,
+			"Driver": {
+				"Guid": "76561198027468036",
+				"GuidsList": [
+					"76561198027468036"
+				],
+				"Name": "octavio67",
+				"Nation": "ESP",
+				"Team": ""
+			},
+			"Model": "fjunior_st60",
+			"Restrictor": 0,
+			"Skin": "20",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 66,
+			"MaxPing": 72
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 5,
+			"Driver": {
+				"Guid": "76561198006770176",
+				"GuidsList": [
+					"76561198006770176"
+				],
+				"Name": "Kulich",
+				"Nation": "ITA",
+				"Team": ""
+			},
+			"Model": "fjunior_st60",
+			"Restrictor": 0,
+			"Skin": "60_vac_kulich_v2",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 23,
+			"MaxPing": 26
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 6,
+			"Driver": {
+				"Guid": "76561197968623551",
+				"GuidsList": [
+					"76561197968623551"
+				],
+				"Name": "Timo One",
+				"Nation": "GBR",
+				"Team": ""
+			},
+			"Model": "fjunior_st60",
+			"Restrictor": 0,
+			"Skin": "83",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 16,
+			"MaxPing": 22
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 7,
+			"Driver": {
+				"Guid": "76561198872987414",
+				"GuidsList": [
+					"76561198872987414"
+				],
+				"Name": "Merlijn Percas",
+				"Nation": "NLD",
+				"Team": ""
+			},
+			"Model": "fjunior_st60",
+			"Restrictor": 0,
+			"Skin": "88_vac_modenajst60_Merlijn_v2",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 12,
+			"MaxPing": 26
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 8,
+			"Driver": {
+				"Guid": "76561198159251100",
+				"GuidsList": [
+					"76561198159251100"
+				],
+				"Name": "Felix789",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "fjunior_st60",
+			"Restrictor": 0,
+			"Skin": "9_vac_felix789_v1",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 30,
+			"MaxPing": 34
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 9,
+			"Driver": {
+				"Guid": "76561198980791242",
+				"GuidsList": [
+					"76561198980791242"
+				],
+				"Name": "treogat",
+				"Nation": "DEU",
+				"Team": ""
+			},
+			"Model": "fjunior_st60",
+			"Restrictor": 0,
+			"Skin": "76",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 28,
+			"MaxPing": 34
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 10,
+			"Driver": {
+				"Guid": "76561198151791542",
+				"GuidsList": [
+					"76561198151791542"
+				],
+				"Name": "sgeti",
+				"Nation": "USA",
+				"Team": ""
+			},
+			"Model": "fjunior_st60",
+			"Restrictor": 0,
+			"Skin": "44",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 90,
+			"MaxPing": 92
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 11,
+			"Driver": {
+				"Guid": "76561198870993027",
+				"GuidsList": [
+					"76561198870993027"
+				],
+				"Name": "jenkweed",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "fjunior_st60",
+			"Restrictor": 0,
+			"Skin": "35",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 12,
+			"Driver": {
+				"Guid": "76561199088650499",
+				"GuidsList": [
+					"76561199088650499"
+				],
+				"Name": "Steve Hayward",
+				"Nation": "GBR",
+				"Team": ""
+			},
+			"Model": "fjunior_st60",
+			"Restrictor": 0,
+			"Skin": "66",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 26,
+			"MaxPing": 59
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 13,
+			"Driver": {
+				"Guid": "00000000000000000",
+				"GuidsList": [
+					"00000000000000000"
+				],
+				"Name": "_EMPTY_",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "vac_tv_van_2",
+			"Restrictor": 0,
+			"Skin": "vactv2",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 14,
+			"Driver": {
+				"Guid": "76561198417841335",
+				"GuidsList": [
+					"76561198417841335"
+				],
+				"Name": "TV CREW",
+				"Nation": "DNK",
+				"Team": ""
+			},
+			"Model": "vac_tv_van_2",
+			"Restrictor": 0,
+			"Skin": "vactv2",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 33,
+			"MaxPing": 55
+		}
+	],
+	"Events": [
+		{
+			"CarId": 5,
+			"Driver": {
+				"Guid": "76561198006770176",
+				"GuidsList": [
+					"76561198006770176"
+				],
+				"Name": "Kulich",
+				"Nation": "ITA",
+				"Team": ""
+			},
+			"ImpactSpeed": 48.73244,
+			"OtherCarId": 0,
+			"OtherDriver": {
+				"Guid": "",
+				"GuidsList": null,
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"RelPosition": {
+				"X": -0.7256487,
+				"Y": -0.32476094,
+				"Z": 1.281545
+			},
+			"Type": "COLLISION_WITH_ENV",
+			"WorldPosition": {
+				"X": -72.5141,
+				"Y": 11.606743,
+				"Z": 673.1689
+			},
+			"Timestamp": 1650216380,
+			"AfterSessionEnd": false
+		},
+		{
+			"CarId": 6,
+			"Driver": {
+				"Guid": "76561197968623551",
+				"GuidsList": [
+					"76561197968623551"
+				],
+				"Name": "Timo One",
+				"Nation": "GBR",
+				"Team": ""
+			},
+			"ImpactSpeed": 50.645054,
+			"OtherCarId": 0,
+			"OtherDriver": {
+				"Guid": "",
+				"GuidsList": null,
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"RelPosition": {
+				"X": 0.73104364,
+				"Y": -0.33412763,
+				"Z": -1.4424635
+			},
+			"Type": "COLLISION_WITH_ENV",
+			"WorldPosition": {
+				"X": -1.7900622,
+				"Y": 10.267216,
+				"Z": 676.94855
+			},
+			"Timestamp": 1650216993,
+			"AfterSessionEnd": false
+		},
+		{
+			"CarId": 5,
+			"Driver": {
+				"Guid": "76561198006770176",
+				"GuidsList": [
+					"76561198006770176"
+				],
+				"Name": "Kulich",
+				"Nation": "ITA",
+				"Team": ""
+			},
+			"ImpactSpeed": 15.343845,
+			"OtherCarId": 0,
+			"OtherDriver": {
+				"Guid": "",
+				"GuidsList": null,
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"RelPosition": {
+				"X": -0.7256324,
+				"Y": -0.3247618,
+				"Z": 1.2815392
+			},
+			"Type": "COLLISION_WITH_ENV",
+			"WorldPosition": {
+				"X": -43.033314,
+				"Y": 11.010027,
+				"Z": 674.7201
+			},
+			"Timestamp": 1650217175,
+			"AfterSessionEnd": false
+		},
+		{
+			"CarId": 5,
+			"Driver": {
+				"Guid": "76561198006770176",
+				"GuidsList": [
+					"76561198006770176"
+				],
+				"Name": "Kulich",
+				"Nation": "ITA",
+				"Team": ""
+			},
+			"ImpactSpeed": 46.727535,
+			"OtherCarId": 0,
+			"OtherDriver": {
+				"Guid": "",
+				"GuidsList": null,
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"RelPosition": {
+				"X": 0.2689343,
+				"Y": -0.026597314,
+				"Z": 1.8092605
+			},
+			"Type": "COLLISION_WITH_ENV",
+			"WorldPosition": {
+				"X": -611.3951,
+				"Y": 23.714275,
+				"Z": -413.77887
+			},
+			"Timestamp": 1650217440,
+			"AfterSessionEnd": false
+		},
+		{
+			"CarId": 9,
+			"Driver": {
+				"Guid": "76561198980791242",
+				"GuidsList": [
+					"76561198980791242"
+				],
+				"Name": "treogat",
+				"Nation": "DEU",
+				"Team": ""
+			},
+			"ImpactSpeed": 31.53629,
+			"OtherCarId": 10,
+			"OtherDriver": {
+				"Guid": "76561198151791542",
+				"GuidsList": [
+					"76561198151791542"
+				],
+				"Name": "sgeti",
+				"Nation": "USA",
+				"Team": ""
+			},
+			"RelPosition": {
+				"X": -0.30967823,
+				"Y": 0.1476208,
+				"Z": -1.707009
+			},
+			"Type": "COLLISION_WITH_CAR",
+			"WorldPosition": {
+				"X": -433.83456,
+				"Y": 20.623856,
+				"Z": -237.92513
+			},
+			"Timestamp": 1650218025,
+			"AfterSessionEnd": false
+		},
+		{
+			"CarId": 9,
+			"Driver": {
+				"Guid": "76561198980791242",
+				"GuidsList": [
+					"76561198980791242"
+				],
+				"Name": "treogat",
+				"Nation": "DEU",
+				"Team": ""
+			},
+			"ImpactSpeed": 20.508732,
+			"OtherCarId": 0,
+			"OtherDriver": {
+				"Guid": "",
+				"GuidsList": null,
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"RelPosition": {
+				"X": -0.16591278,
+				"Y": -0.026590765,
+				"Z": 1.80923
+			},
+			"Type": "COLLISION_WITH_ENV",
+			"WorldPosition": {
+				"X": -424.9661,
+				"Y": 20.939198,
+				"Z": -233.81387
+			},
+			"Timestamp": 1650218025,
+			"AfterSessionEnd": false
+		},
+		{
+			"CarId": 10,
+			"Driver": {
+				"Guid": "76561198151791542",
+				"GuidsList": [
+					"76561198151791542"
+				],
+				"Name": "sgeti",
+				"Nation": "USA",
+				"Team": ""
+			},
+			"ImpactSpeed": 69.951546,
+			"OtherCarId": 9,
+			"OtherDriver": {
+				"Guid": "76561198980791242",
+				"GuidsList": [
+					"76561198980791242"
+				],
+				"Name": "treogat",
+				"Nation": "DEU",
+				"Team": ""
+			},
+			"RelPosition": {
+				"X": 0.72530437,
+				"Y": -0.317481,
+				"Z": 0.5850884
+			},
+			"Type": "COLLISION_WITH_CAR",
+			"WorldPosition": {
+				"X": -436.6452,
+				"Y": 20.26125,
+				"Z": -242.43405
+			},
+			"Timestamp": 1650218026,
+			"AfterSessionEnd": false
+		},
+		{
+			"CarId": 9,
+			"Driver": {
+				"Guid": "76561198980791242",
+				"GuidsList": [
+					"76561198980791242"
+				],
+				"Name": "treogat",
+				"Nation": "DEU",
+				"Team": ""
+			},
+			"ImpactSpeed": 36.094418,
+			"OtherCarId": 10,
+			"OtherDriver": {
+				"Guid": "76561198151791542",
+				"GuidsList": [
+					"76561198151791542"
+				],
+				"Name": "sgeti",
+				"Nation": "USA",
+				"Team": ""
+			},
+			"RelPosition": {
+				"X": -0.7121054,
+				"Y": 0.22672352,
+				"Z": 1.0459332
+			},
+			"Type": "COLLISION_WITH_CAR",
+			"WorldPosition": {
+				"X": -427.28543,
+				"Y": 20.182339,
+				"Z": -229.27388
+			},
+			"Timestamp": 1650218030,
+			"AfterSessionEnd": false
+		},
+		{
+			"CarId": 10,
+			"Driver": {
+				"Guid": "76561198151791542",
+				"GuidsList": [
+					"76561198151791542"
+				],
+				"Name": "sgeti",
+				"Nation": "USA",
+				"Team": ""
+			},
+			"ImpactSpeed": 10.3529,
+			"OtherCarId": 0,
+			"OtherDriver": {
+				"Guid": "",
+				"GuidsList": null,
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"RelPosition": {
+				"X": 0.2689316,
+				"Y": -0.02659803,
+				"Z": 1.8092337
+			},
+			"Type": "COLLISION_WITH_ENV",
+			"WorldPosition": {
+				"X": -428.9273,
+				"Y": 19.976725,
+				"Z": -220.93939
+			},
+			"Timestamp": 1650218031,
+			"AfterSessionEnd": false
+		},
+		{
+			"CarId": 10,
+			"Driver": {
+				"Guid": "76561198151791542",
+				"GuidsList": [
+					"76561198151791542"
+				],
+				"Name": "sgeti",
+				"Nation": "USA",
+				"Team": ""
+			},
+			"ImpactSpeed": 84.143715,
+			"OtherCarId": 0,
+			"OtherDriver": {
+				"Guid": "",
+				"GuidsList": null,
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"RelPosition": {
+				"X": -0.7064753,
+				"Y": -0.13841316,
+				"Z": 0.7530645
+			},
+			"Type": "COLLISION_WITH_ENV",
+			"WorldPosition": {
+				"X": -613.99854,
+				"Y": 23.637224,
+				"Z": -416.68924
+			},
+			"Timestamp": 1650218321,
+			"AfterSessionEnd": false
+		}
+	],
+	"Laps": [
+		{
+			"BallastKG": 0,
+			"CarId": 7,
+			"CarModel": "fjunior_st60",
+			"Cuts": 2,
+			"DriverGuid": "76561198872987414",
+			"DriverName": "Merlijn Percas",
+			"LapTime": 290220,
+			"Restrictor": 0,
+			"Sectors": [
+				199157,
+				52173,
+				38890
+			],
+			"Timestamp": 1650215278,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 7,
+			"CarModel": "fjunior_st60",
+			"Cuts": 1,
+			"DriverGuid": "76561198872987414",
+			"DriverName": "Merlijn Percas",
+			"LapTime": 125887,
+			"Restrictor": 0,
+			"Sectors": [
+				38258,
+				50535,
+				37094
+			],
+			"Timestamp": 1650215404,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 7,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561198872987414",
+			"DriverName": "Merlijn Percas",
+			"LapTime": 124431,
+			"Restrictor": 0,
+			"Sectors": [
+				37337,
+				50216,
+				36878
+			],
+			"Timestamp": 1650215528,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 7,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561198872987414",
+			"DriverName": "Merlijn Percas",
+			"LapTime": 124011,
+			"Restrictor": 0,
+			"Sectors": [
+				36827,
+				50302,
+				36882
+			],
+			"Timestamp": 1650215652,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 9,
+			"CarModel": "fjunior_st60",
+			"Cuts": 1,
+			"DriverGuid": "76561198980791242",
+			"DriverName": "treogat",
+			"LapTime": 168738,
+			"Restrictor": 0,
+			"Sectors": [
+				75965,
+				54311,
+				38462
+			],
+			"Timestamp": 1650215674,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 7,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561198872987414",
+			"DriverName": "Merlijn Percas",
+			"LapTime": 123659,
+			"Restrictor": 0,
+			"Sectors": [
+				37125,
+				49869,
+				36665
+			],
+			"Timestamp": 1650215776,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 9,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561198980791242",
+			"DriverName": "treogat",
+			"LapTime": 125653,
+			"Restrictor": 0,
+			"Sectors": [
+				37687,
+				50818,
+				37148
+			],
+			"Timestamp": 1650215799,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 7,
+			"CarModel": "fjunior_st60",
+			"Cuts": 1,
+			"DriverGuid": "76561198872987414",
+			"DriverName": "Merlijn Percas",
+			"LapTime": 137176,
+			"Restrictor": 0,
+			"Sectors": [
+				36902,
+				50581,
+				49693
+			],
+			"Timestamp": 1650215913,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 9,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561198980791242",
+			"DriverName": "treogat",
+			"LapTime": 124669,
+			"Restrictor": 0,
+			"Sectors": [
+				37185,
+				50372,
+				37112
+			],
+			"Timestamp": 1650215924,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 7,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561198872987414",
+			"DriverName": "Merlijn Percas",
+			"LapTime": 124930,
+			"Restrictor": 0,
+			"Sectors": [
+				37859,
+				50526,
+				36545
+			],
+			"Timestamp": 1650216038,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 7,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561198872987414",
+			"DriverName": "Merlijn Percas",
+			"LapTime": 122689,
+			"Restrictor": 0,
+			"Sectors": [
+				36437,
+				49680,
+				36572
+			],
+			"Timestamp": 1650216161,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 5,
+			"CarModel": "fjunior_st60",
+			"Cuts": 3,
+			"DriverGuid": "76561198006770176",
+			"DriverName": "Kulich",
+			"LapTime": 359357,
+			"Restrictor": 0,
+			"Sectors": [
+				269619,
+				52397,
+				37341
+			],
+			"Timestamp": 1650216224,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 3,
+			"CarModel": "fjunior_st60",
+			"Cuts": 3,
+			"DriverGuid": "76561198136977886",
+			"DriverName": "Mellero",
+			"LapTime": 449497,
+			"Restrictor": 0,
+			"Sectors": [
+				351609,
+				60538,
+				37350
+			],
+			"Timestamp": 1650216237,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 5,
+			"CarModel": "fjunior_st60",
+			"Cuts": 2,
+			"DriverGuid": "76561198006770176",
+			"DriverName": "Kulich",
+			"LapTime": 129441,
+			"Restrictor": 0,
+			"Sectors": [
+				37919,
+				50212,
+				41310
+			],
+			"Timestamp": 1650216354,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 3,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561198136977886",
+			"DriverName": "Mellero",
+			"LapTime": 188934,
+			"Restrictor": 0,
+			"Sectors": [
+				102808,
+				49603,
+				36523
+			],
+			"Timestamp": 1650216426,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 3,
+			"CarModel": "fjunior_st60",
+			"Cuts": 1,
+			"DriverGuid": "76561198136977886",
+			"DriverName": "Mellero",
+			"LapTime": 141736,
+			"Restrictor": 0,
+			"Sectors": [
+				37025,
+				49842,
+				54869
+			],
+			"Timestamp": 1650216567,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 5,
+			"CarModel": "fjunior_st60",
+			"Cuts": 3,
+			"DriverGuid": "76561198006770176",
+			"DriverName": "Kulich",
+			"LapTime": 300167,
+			"Restrictor": 0,
+			"Sectors": [
+				194346,
+				67279,
+				38542
+			],
+			"Timestamp": 1650216654,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 3,
+			"CarModel": "fjunior_st60",
+			"Cuts": 1,
+			"DriverGuid": "76561198136977886",
+			"DriverName": "Mellero",
+			"LapTime": 130289,
+			"Restrictor": 0,
+			"Sectors": [
+				37886,
+				54950,
+				37453
+			],
+			"Timestamp": 1650216698,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 6,
+			"CarModel": "fjunior_st60",
+			"Cuts": 1,
+			"DriverGuid": "76561197968623551",
+			"DriverName": "Timo One",
+			"LapTime": 218669,
+			"Restrictor": 0,
+			"Sectors": [
+				130217,
+				51256,
+				37196
+			],
+			"Timestamp": 1650216716,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 5,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561198006770176",
+			"DriverName": "Kulich",
+			"LapTime": 125787,
+			"Restrictor": 0,
+			"Sectors": [
+				37586,
+				51089,
+				37112
+			],
+			"Timestamp": 1650216780,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 6,
+			"CarModel": "fjunior_st60",
+			"Cuts": 1,
+			"DriverGuid": "76561197968623551",
+			"DriverName": "Timo One",
+			"LapTime": 123825,
+			"Restrictor": 0,
+			"Sectors": [
+				37195,
+				49703,
+				36927
+			],
+			"Timestamp": 1650216840,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 5,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561198006770176",
+			"DriverName": "Kulich",
+			"LapTime": 124213,
+			"Restrictor": 0,
+			"Sectors": [
+				37512,
+				49400,
+				37301
+			],
+			"Timestamp": 1650216904,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 10,
+			"CarModel": "fjunior_st60",
+			"Cuts": 2,
+			"DriverGuid": "76561198151791542",
+			"DriverName": "sgeti",
+			"LapTime": 208959,
+			"Restrictor": 0,
+			"Sectors": [
+				119373,
+				52632,
+				36954
+			],
+			"Timestamp": 1650216945,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 2,
+			"CarModel": "fjunior_st60",
+			"Cuts": 1,
+			"DriverGuid": "76561197980423199",
+			"DriverName": "Jonah Hax",
+			"LapTime": 197465,
+			"Restrictor": 0,
+			"Sectors": [
+				108127,
+				51381,
+				37957
+			],
+			"Timestamp": 1650216954,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 6,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561197968623551",
+			"DriverName": "Timo One",
+			"LapTime": 124551,
+			"Restrictor": 0,
+			"Sectors": [
+				37341,
+				49688,
+				37522
+			],
+			"Timestamp": 1650216965,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 3,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561198136977886",
+			"DriverName": "Mellero",
+			"LapTime": 309778,
+			"Restrictor": 0,
+			"Sectors": [
+				222478,
+				49932,
+				37368
+			],
+			"Timestamp": 1650217007,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 5,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561198006770176",
+			"DriverName": "Kulich",
+			"LapTime": 123909,
+			"Restrictor": 0,
+			"Sectors": [
+				37112,
+				49712,
+				37085
+			],
+			"Timestamp": 1650217028,
+			"Tyre": "V",
+			"ContributedToFastestLap": true
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 10,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561198151791542",
+			"DriverName": "sgeti",
+			"LapTime": 123988,
+			"Restrictor": 0,
+			"Sectors": [
+				37111,
+				49955,
+				36922
+			],
+			"Timestamp": 1650217069,
+			"Tyre": "V",
+			"ContributedToFastestLap": true
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 2,
+			"CarModel": "fjunior_st60",
+			"Cuts": 1,
+			"DriverGuid": "76561197980423199",
+			"DriverName": "Jonah Hax",
+			"LapTime": 127168,
+			"Restrictor": 0,
+			"Sectors": [
+				37866,
+				50849,
+				38453
+			],
+			"Timestamp": 1650217081,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 7,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561198872987414",
+			"DriverName": "Merlijn Percas",
+			"LapTime": 935681,
+			"Restrictor": 0,
+			"Sectors": [
+				847567,
+				50414,
+				37700
+			],
+			"Timestamp": 1650217096,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 3,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561198136977886",
+			"DriverName": "Mellero",
+			"LapTime": 123900,
+			"Restrictor": 0,
+			"Sectors": [
+				37040,
+				50193,
+				36667
+			],
+			"Timestamp": 1650217131,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 5,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561198006770176",
+			"DriverName": "Kulich",
+			"LapTime": 124551,
+			"Restrictor": 0,
+			"Sectors": [
+				37259,
+				50140,
+				37152
+			],
+			"Timestamp": 1650217152,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 6,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561197968623551",
+			"DriverName": "Timo One",
+			"LapTime": 197379,
+			"Restrictor": 0,
+			"Sectors": [
+				110727,
+				49886,
+				36766
+			],
+			"Timestamp": 1650217162,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 10,
+			"CarModel": "fjunior_st60",
+			"Cuts": 1,
+			"DriverGuid": "76561198151791542",
+			"DriverName": "sgeti",
+			"LapTime": 125312,
+			"Restrictor": 0,
+			"Sectors": [
+				38526,
+				50238,
+				36548
+			],
+			"Timestamp": 1650217194,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 7,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561198872987414",
+			"DriverName": "Merlijn Percas",
+			"LapTime": 124801,
+			"Restrictor": 0,
+			"Sectors": [
+				37546,
+				50503,
+				36752
+			],
+			"Timestamp": 1650217221,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 12,
+			"CarModel": "fjunior_st60",
+			"Cuts": 1,
+			"DriverGuid": "76561199088650499",
+			"DriverName": "Steve Hayward",
+			"LapTime": 259597,
+			"Restrictor": 0,
+			"Sectors": [
+				164890,
+				54513,
+				40194
+			],
+			"Timestamp": 1650217228,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 2,
+			"CarModel": "fjunior_st60",
+			"Cuts": 1,
+			"DriverGuid": "76561197980423199",
+			"DriverName": "Jonah Hax",
+			"LapTime": 147183,
+			"Restrictor": 0,
+			"Sectors": [
+				39390,
+				67995,
+				39798
+			],
+			"Timestamp": 1650217229,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 3,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561198136977886",
+			"DriverName": "Mellero",
+			"LapTime": 123389,
+			"Restrictor": 0,
+			"Sectors": [
+				36800,
+				49410,
+				37179
+			],
+			"Timestamp": 1650217255,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 6,
+			"CarModel": "fjunior_st60",
+			"Cuts": 1,
+			"DriverGuid": "76561197968623551",
+			"DriverName": "Timo One",
+			"LapTime": 124163,
+			"Restrictor": 0,
+			"Sectors": [
+				37025,
+				49599,
+				37539
+			],
+			"Timestamp": 1650217286,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 4,
+			"CarModel": "fjunior_st60",
+			"Cuts": 1,
+			"DriverGuid": "76561198027468036",
+			"DriverName": "octavio67",
+			"LapTime": 249666,
+			"Restrictor": 0,
+			"Sectors": [
+				156326,
+				52628,
+				40712
+			],
+			"Timestamp": 1650217305,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 10,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561198151791542",
+			"DriverName": "sgeti",
+			"LapTime": 124203,
+			"Restrictor": 0,
+			"Sectors": [
+				37028,
+				50626,
+				36549
+			],
+			"Timestamp": 1650217318,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 7,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561198872987414",
+			"DriverName": "Merlijn Percas",
+			"LapTime": 124876,
+			"Restrictor": 0,
+			"Sectors": [
+				37904,
+				50567,
+				36405
+			],
+			"Timestamp": 1650217346,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 5,
+			"CarModel": "fjunior_st60",
+			"Cuts": 2,
+			"DriverGuid": "76561198006770176",
+			"DriverName": "Kulich",
+			"LapTime": 202769,
+			"Restrictor": 0,
+			"Sectors": [
+				106280,
+				58923,
+				37566
+			],
+			"Timestamp": 1650217355,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 12,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561199088650499",
+			"DriverName": "Steve Hayward",
+			"LapTime": 132423,
+			"Restrictor": 0,
+			"Sectors": [
+				40177,
+				52358,
+				39888
+			],
+			"Timestamp": 1650217361,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 2,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561197980423199",
+			"DriverName": "Jonah Hax",
+			"LapTime": 136979,
+			"Restrictor": 0,
+			"Sectors": [
+				40675,
+				51952,
+				44352
+			],
+			"Timestamp": 1650217366,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 3,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561198136977886",
+			"DriverName": "Mellero",
+			"LapTime": 122547,
+			"Restrictor": 0,
+			"Sectors": [
+				36713,
+				49199,
+				36635
+			],
+			"Timestamp": 1650217377,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 6,
+			"CarModel": "fjunior_st60",
+			"Cuts": 3,
+			"DriverGuid": "76561197968623551",
+			"DriverName": "Timo One",
+			"LapTime": 136893,
+			"Restrictor": 0,
+			"Sectors": [
+				36939,
+				49648,
+				50306
+			],
+			"Timestamp": 1650217423,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 4,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561198027468036",
+			"DriverName": "octavio67",
+			"LapTime": 125392,
+			"Restrictor": 0,
+			"Sectors": [
+				37759,
+				49887,
+				37746
+			],
+			"Timestamp": 1650217430,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 10,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561198151791542",
+			"DriverName": "sgeti",
+			"LapTime": 124353,
+			"Restrictor": 0,
+			"Sectors": [
+				36908,
+				50211,
+				37234
+			],
+			"Timestamp": 1650217443,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 7,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561198872987414",
+			"DriverName": "Merlijn Percas",
+			"LapTime": 122603,
+			"Restrictor": 0,
+			"Sectors": [
+				36541,
+				49622,
+				36440
+			],
+			"Timestamp": 1650217469,
+			"Tyre": "V",
+			"ContributedToFastestLap": true
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 12,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561199088650499",
+			"DriverName": "Steve Hayward",
+			"LapTime": 130508,
+			"Restrictor": 0,
+			"Sectors": [
+				39235,
+				51583,
+				39690
+			],
+			"Timestamp": 1650217491,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 3,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561198136977886",
+			"DriverName": "Mellero",
+			"LapTime": 122418,
+			"Restrictor": 0,
+			"Sectors": [
+				36486,
+				49176,
+				36756
+			],
+			"Timestamp": 1650217500,
+			"Tyre": "V",
+			"ContributedToFastestLap": true
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 2,
+			"CarModel": "fjunior_st60",
+			"Cuts": 3,
+			"DriverGuid": "76561197980423199",
+			"DriverName": "Jonah Hax",
+			"LapTime": 140722,
+			"Restrictor": 0,
+			"Sectors": [
+				37442,
+				50490,
+				52790
+			],
+			"Timestamp": 1650217506,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 9,
+			"CarModel": "fjunior_st60",
+			"Cuts": 1,
+			"DriverGuid": "76561198980791242",
+			"DriverName": "treogat",
+			"LapTime": 202803,
+			"Restrictor": 0,
+			"Sectors": [
+				113414,
+				51445,
+				37944
+			],
+			"Timestamp": 1650217517,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 6,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561197968623551",
+			"DriverName": "Timo One",
+			"LapTime": 123777,
+			"Restrictor": 0,
+			"Sectors": [
+				37512,
+				49328,
+				36937
+			],
+			"Timestamp": 1650217547,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 4,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561198027468036",
+			"DriverName": "octavio67",
+			"LapTime": 124719,
+			"Restrictor": 0,
+			"Sectors": [
+				37545,
+				50039,
+				37135
+			],
+			"Timestamp": 1650217555,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 5,
+			"CarModel": "fjunior_st60",
+			"Cuts": 4,
+			"DriverGuid": "76561198006770176",
+			"DriverName": "Kulich",
+			"LapTime": 233768,
+			"Restrictor": 0,
+			"Sectors": [
+				134687,
+				60854,
+				38227
+			],
+			"Timestamp": 1650217589,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 12,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561199088650499",
+			"DriverName": "Steve Hayward",
+			"LapTime": 130844,
+			"Restrictor": 0,
+			"Sectors": [
+				39558,
+				51443,
+				39843
+			],
+			"Timestamp": 1650217622,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 3,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561198136977886",
+			"DriverName": "Mellero",
+			"LapTime": 122642,
+			"Restrictor": 0,
+			"Sectors": [
+				36612,
+				49265,
+				36765
+			],
+			"Timestamp": 1650217622,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 2,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561197980423199",
+			"DriverName": "Jonah Hax",
+			"LapTime": 125407,
+			"Restrictor": 0,
+			"Sectors": [
+				37221,
+				50391,
+				37795
+			],
+			"Timestamp": 1650217632,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 9,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561198980791242",
+			"DriverName": "treogat",
+			"LapTime": 125982,
+			"Restrictor": 0,
+			"Sectors": [
+				37934,
+				50756,
+				37292
+			],
+			"Timestamp": 1650217643,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 6,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561197968623551",
+			"DriverName": "Timo One",
+			"LapTime": 123376,
+			"Restrictor": 0,
+			"Sectors": [
+				36994,
+				49918,
+				36464
+			],
+			"Timestamp": 1650217670,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 4,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561198027468036",
+			"DriverName": "octavio67",
+			"LapTime": 124245,
+			"Restrictor": 0,
+			"Sectors": [
+				37187,
+				49960,
+				37098
+			],
+			"Timestamp": 1650217679,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 5,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561198006770176",
+			"DriverName": "Kulich",
+			"LapTime": 125517,
+			"Restrictor": 0,
+			"Sectors": [
+				37334,
+				50689,
+				37494
+			],
+			"Timestamp": 1650217714,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 12,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561199088650499",
+			"DriverName": "Steve Hayward",
+			"LapTime": 128806,
+			"Restrictor": 0,
+			"Sectors": [
+				39279,
+				50805,
+				38722
+			],
+			"Timestamp": 1650217751,
+			"Tyre": "V",
+			"ContributedToFastestLap": true
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 2,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561197980423199",
+			"DriverName": "Jonah Hax",
+			"LapTime": 124772,
+			"Restrictor": 0,
+			"Sectors": [
+				37153,
+				50004,
+				37615
+			],
+			"Timestamp": 1650217756,
+			"Tyre": "V",
+			"ContributedToFastestLap": true
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 9,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561198980791242",
+			"DriverName": "treogat",
+			"LapTime": 125455,
+			"Restrictor": 0,
+			"Sectors": [
+				37287,
+				50580,
+				37588
+			],
+			"Timestamp": 1650217769,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 4,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561198027468036",
+			"DriverName": "octavio67",
+			"LapTime": 124213,
+			"Restrictor": 0,
+			"Sectors": [
+				37129,
+				50035,
+				37049
+			],
+			"Timestamp": 1650217803,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 5,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561198006770176",
+			"DriverName": "Kulich",
+			"LapTime": 126202,
+			"Restrictor": 0,
+			"Sectors": [
+				37691,
+				50698,
+				37813
+			],
+			"Timestamp": 1650217841,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 10,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561198151791542",
+			"DriverName": "sgeti",
+			"LapTime": 417307,
+			"Restrictor": 0,
+			"Sectors": [
+				328374,
+				51903,
+				37030
+			],
+			"Timestamp": 1650217860,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 7,
+			"CarModel": "fjunior_st60",
+			"Cuts": 6,
+			"DriverGuid": "76561198872987414",
+			"DriverName": "Merlijn Percas",
+			"LapTime": 402851,
+			"Restrictor": 0,
+			"Sectors": [
+				286801,
+				69012,
+				47038
+			],
+			"Timestamp": 1650217872,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 12,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561199088650499",
+			"DriverName": "Steve Hayward",
+			"LapTime": 130245,
+			"Restrictor": 0,
+			"Sectors": [
+				40762,
+				50958,
+				38525
+			],
+			"Timestamp": 1650217881,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 2,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561197980423199",
+			"DriverName": "Jonah Hax",
+			"LapTime": 127370,
+			"Restrictor": 0,
+			"Sectors": [
+				37497,
+				51822,
+				38051
+			],
+			"Timestamp": 1650217884,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 9,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561198980791242",
+			"DriverName": "treogat",
+			"LapTime": 126249,
+			"Restrictor": 0,
+			"Sectors": [
+				37747,
+				51242,
+				37260
+			],
+			"Timestamp": 1650217895,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 4,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561198027468036",
+			"DriverName": "octavio67",
+			"LapTime": 123557,
+			"Restrictor": 0,
+			"Sectors": [
+				36915,
+				49787,
+				36855
+			],
+			"Timestamp": 1650217927,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 5,
+			"CarModel": "fjunior_st60",
+			"Cuts": 2,
+			"DriverGuid": "76561198006770176",
+			"DriverName": "Kulich",
+			"LapTime": 126600,
+			"Restrictor": 0,
+			"Sectors": [
+				38201,
+				50657,
+				37742
+			],
+			"Timestamp": 1650217967,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 9,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561198980791242",
+			"DriverName": "treogat",
+			"LapTime": 124200,
+			"Restrictor": 0,
+			"Sectors": [
+				37340,
+				50130,
+				36730
+			],
+			"Timestamp": 1650218019,
+			"Tyre": "V",
+			"ContributedToFastestLap": true
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 4,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561198027468036",
+			"DriverName": "octavio67",
+			"LapTime": 123775,
+			"Restrictor": 0,
+			"Sectors": [
+				37092,
+				50102,
+				36581
+			],
+			"Timestamp": 1650218050,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 3,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561198136977886",
+			"DriverName": "Mellero",
+			"LapTime": 468327,
+			"Restrictor": 0,
+			"Sectors": [
+				380311,
+				50796,
+				37220
+			],
+			"Timestamp": 1650218091,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 5,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561198006770176",
+			"DriverName": "Kulich",
+			"LapTime": 125379,
+			"Restrictor": 0,
+			"Sectors": [
+				37768,
+				50278,
+				37333
+			],
+			"Timestamp": 1650218093,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 6,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561197968623551",
+			"DriverName": "Timo One",
+			"LapTime": 430359,
+			"Restrictor": 0,
+			"Sectors": [
+				343562,
+				50085,
+				36712
+			],
+			"Timestamp": 1650218101,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 8,
+			"CarModel": "fjunior_st60",
+			"Cuts": 2,
+			"DriverGuid": "76561198159251100",
+			"DriverName": "Felix789",
+			"LapTime": 305322,
+			"Restrictor": 0,
+			"Sectors": [
+				218202,
+				50184,
+				36936
+			],
+			"Timestamp": 1650218104,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 2,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561197980423199",
+			"DriverName": "Jonah Hax",
+			"LapTime": 271235,
+			"Restrictor": 0,
+			"Sectors": [
+				181469,
+				51665,
+				38101
+			],
+			"Timestamp": 1650218155,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 4,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561198027468036",
+			"DriverName": "octavio67",
+			"LapTime": 123229,
+			"Restrictor": 0,
+			"Sectors": [
+				36996,
+				49310,
+				36923
+			],
+			"Timestamp": 1650218174,
+			"Tyre": "V",
+			"ContributedToFastestLap": true
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 10,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561198151791542",
+			"DriverName": "sgeti",
+			"LapTime": 345119,
+			"Restrictor": 0,
+			"Sectors": [
+				257896,
+				50134,
+				37089
+			],
+			"Timestamp": 1650218205,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 5,
+			"CarModel": "fjunior_st60",
+			"Cuts": 1,
+			"DriverGuid": "76561198006770176",
+			"DriverName": "Kulich",
+			"LapTime": 129158,
+			"Restrictor": 0,
+			"Sectors": [
+				37448,
+				52957,
+				38753
+			],
+			"Timestamp": 1650218222,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 3,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561198136977886",
+			"DriverName": "Mellero",
+			"LapTime": 131193,
+			"Restrictor": 0,
+			"Sectors": [
+				39222,
+				54688,
+				37283
+			],
+			"Timestamp": 1650218222,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 6,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561197968623551",
+			"DriverName": "Timo One",
+			"LapTime": 124789,
+			"Restrictor": 0,
+			"Sectors": [
+				36864,
+				49805,
+				38120
+			],
+			"Timestamp": 1650218226,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 12,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561199088650499",
+			"DriverName": "Steve Hayward",
+			"LapTime": 344699,
+			"Restrictor": 0,
+			"Sectors": [
+				248453,
+				54959,
+				41287
+			],
+			"Timestamp": 1650218226,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 8,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561198159251100",
+			"DriverName": "Felix789",
+			"LapTime": 123754,
+			"Restrictor": 0,
+			"Sectors": [
+				37448,
+				49878,
+				36428
+			],
+			"Timestamp": 1650218228,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 2,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561197980423199",
+			"DriverName": "Jonah Hax",
+			"LapTime": 128603,
+			"Restrictor": 0,
+			"Sectors": [
+				39810,
+				50877,
+				37916
+			],
+			"Timestamp": 1650218284,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 5,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561198006770176",
+			"DriverName": "Kulich",
+			"LapTime": 124778,
+			"Restrictor": 0,
+			"Sectors": [
+				37852,
+				50036,
+				36890
+			],
+			"Timestamp": 1650218347,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 6,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561197968623551",
+			"DriverName": "Timo One",
+			"LapTime": 123116,
+			"Restrictor": 0,
+			"Sectors": [
+				36950,
+				49716,
+				36450
+			],
+			"Timestamp": 1650218349,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 8,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561198159251100",
+			"DriverName": "Felix789",
+			"LapTime": 122581,
+			"Restrictor": 0,
+			"Sectors": [
+				36906,
+				49387,
+				36288
+			],
+			"Timestamp": 1650218350,
+			"Tyre": "V",
+			"ContributedToFastestLap": true
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 3,
+			"CarModel": "fjunior_st60",
+			"Cuts": 1,
+			"DriverGuid": "76561198136977886",
+			"DriverName": "Mellero",
+			"LapTime": 131638,
+			"Restrictor": 0,
+			"Sectors": [
+				44847,
+				49616,
+				37175
+			],
+			"Timestamp": 1650218353,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 12,
+			"CarModel": "fjunior_st60",
+			"Cuts": 1,
+			"DriverGuid": "76561199088650499",
+			"DriverName": "Steve Hayward",
+			"LapTime": 132469,
+			"Restrictor": 0,
+			"Sectors": [
+				39967,
+				52799,
+				39703
+			],
+			"Timestamp": 1650218358,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 2,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561197980423199",
+			"DriverName": "Jonah Hax",
+			"LapTime": 125858,
+			"Restrictor": 0,
+			"Sectors": [
+				37460,
+				50576,
+				37822
+			],
+			"Timestamp": 1650218410,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 6,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561197968623551",
+			"DriverName": "Timo One",
+			"LapTime": 122583,
+			"Restrictor": 0,
+			"Sectors": [
+				36912,
+				49175,
+				36496
+			],
+			"Timestamp": 1650218471,
+			"Tyre": "V",
+			"ContributedToFastestLap": true
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 5,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561198006770176",
+			"DriverName": "Kulich",
+			"LapTime": 126079,
+			"Restrictor": 0,
+			"Sectors": [
+				37334,
+				51049,
+				37696
+			],
+			"Timestamp": 1650218473,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 8,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561198159251100",
+			"DriverName": "Felix789",
+			"LapTime": 124061,
+			"Restrictor": 0,
+			"Sectors": [
+				36969,
+				50327,
+				36765
+			],
+			"Timestamp": 1650218474,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 3,
+			"CarModel": "fjunior_st60",
+			"Cuts": 0,
+			"DriverGuid": "76561198136977886",
+			"DriverName": "Mellero",
+			"LapTime": 123918,
+			"Restrictor": 0,
+			"Sectors": [
+				36748,
+				50359,
+				36811
+			],
+			"Timestamp": 1650218477,
+			"Tyre": "V",
+			"ContributedToFastestLap": false
+		}
+	],
+	"Result": [
+		{
+			"BallastKG": 0,
+			"BestLap": 122418,
+			"CarId": 3,
+			"CarModel": "fjunior_st60",
+			"DriverGuid": "76561198136977886",
+			"DriverName": "Mellero",
+			"Restrictor": 0,
+			"TotalTime": 3571847,
+			"NumLaps": 14,
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"HasPenalty": false,
+			"PenaltyTime": 0,
+			"LapPenalty": 0,
+			"Disqualified": false
+		},
+		{
+			"BallastKG": 0,
+			"BestLap": 122581,
+			"CarId": 8,
+			"CarModel": "fjunior_st60",
+			"DriverGuid": "76561198159251100",
+			"DriverName": "Felix789",
+			"Restrictor": 0,
+			"TotalTime": 3568909,
+			"NumLaps": 4,
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"HasPenalty": false,
+			"PenaltyTime": 0,
+			"LapPenalty": 0,
+			"Disqualified": false
+		},
+		{
+			"BallastKG": 0,
+			"BestLap": 122583,
+			"CarId": 6,
+			"CarModel": "fjunior_st60",
+			"DriverGuid": "76561197968623551",
+			"DriverName": "Timo One",
+			"Restrictor": 0,
+			"TotalTime": 3565831,
+			"NumLaps": 12,
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"HasPenalty": false,
+			"PenaltyTime": 0,
+			"LapPenalty": 0,
+			"Disqualified": false
+		},
+		{
+			"BallastKG": 0,
+			"BestLap": 122603,
+			"CarId": 7,
+			"CarModel": "fjunior_st60",
+			"DriverGuid": "76561198872987414",
+			"DriverName": "Merlijn Percas",
+			"Restrictor": 0,
+			"TotalTime": 2966109,
+			"NumLaps": 13,
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"HasPenalty": false,
+			"PenaltyTime": 0,
+			"LapPenalty": 0,
+			"Disqualified": false
+		},
+		{
+			"BallastKG": 0,
+			"BestLap": 123229,
+			"CarId": 4,
+			"CarModel": "fjunior_st60",
+			"DriverGuid": "76561198027468036",
+			"DriverName": "octavio67",
+			"Restrictor": 0,
+			"TotalTime": 3268124,
+			"NumLaps": 8,
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"HasPenalty": false,
+			"PenaltyTime": 0,
+			"LapPenalty": 0,
+			"Disqualified": false
+		},
+		{
+			"BallastKG": 0,
+			"BestLap": 123909,
+			"CarId": 5,
+			"CarModel": "fjunior_st60",
+			"DriverGuid": "76561198006770176",
+			"DriverName": "Kulich",
+			"Restrictor": 0,
+			"TotalTime": 3567228,
+			"NumLaps": 16,
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"HasPenalty": false,
+			"PenaltyTime": 0,
+			"LapPenalty": 0,
+			"Disqualified": false
+		},
+		{
+			"BallastKG": 0,
+			"BestLap": 123988,
+			"CarId": 10,
+			"CarModel": "fjunior_st60",
+			"DriverGuid": "76561198151791542",
+			"DriverName": "sgeti",
+			"Restrictor": 0,
+			"TotalTime": 3299725,
+			"NumLaps": 7,
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"HasPenalty": false,
+			"PenaltyTime": 0,
+			"LapPenalty": 0,
+			"Disqualified": false
+		},
+		{
+			"BallastKG": 0,
+			"BestLap": 124200,
+			"CarId": 9,
+			"CarModel": "fjunior_st60",
+			"DriverGuid": "76561198980791242",
+			"DriverName": "treogat",
+			"Restrictor": 0,
+			"TotalTime": 3113944,
+			"NumLaps": 8,
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"HasPenalty": false,
+			"PenaltyTime": 0,
+			"LapPenalty": 0,
+			"Disqualified": false
+		},
+		{
+			"BallastKG": 0,
+			"BestLap": 124772,
+			"CarId": 2,
+			"CarModel": "fjunior_st60",
+			"DriverGuid": "76561197980423199",
+			"DriverName": "Jonah Hax",
+			"Restrictor": 0,
+			"TotalTime": 3504133,
+			"NumLaps": 11,
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"HasPenalty": false,
+			"PenaltyTime": 0,
+			"LapPenalty": 0,
+			"Disqualified": false
+		},
+		{
+			"BallastKG": 0,
+			"BestLap": 128806,
+			"CarId": 12,
+			"CarModel": "fjunior_st60",
+			"DriverGuid": "76561199088650499",
+			"DriverName": "Steve Hayward",
+			"Restrictor": 0,
+			"TotalTime": 3452804,
+			"NumLaps": 8,
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"HasPenalty": false,
+			"PenaltyTime": 0,
+			"LapPenalty": 0,
+			"Disqualified": false
+		},
+		{
+			"BallastKG": 0,
+			"BestLap": 999999999,
+			"CarId": 14,
+			"CarModel": "vac_tv_van_2",
+			"DriverGuid": "76561198417841335",
+			"DriverName": "TV CREW",
+			"Restrictor": 0,
+			"TotalTime": 0,
+			"NumLaps": 0,
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"HasPenalty": false,
+			"PenaltyTime": 0,
+			"LapPenalty": 0,
+			"Disqualified": false
+		},
+		{
+			"BallastKG": 0,
+			"BestLap": 999999999,
+			"CarId": 0,
+			"CarModel": "vac_tv_van_2",
+			"DriverGuid": "76561197970492500",
+			"DriverName": "Esotic Streaming",
+			"Restrictor": 0,
+			"TotalTime": 0,
+			"NumLaps": 0,
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"HasPenalty": false,
+			"PenaltyTime": 0,
+			"LapPenalty": 0,
+			"Disqualified": false
+		}
+	],
+	"Penalties": null,
+	"TrackConfig": "",
+	"TrackName": "stardust_f3ct",
+	"Type": "QUALIFY",
+	"Date": "2022-04-17T20:04:56.894967128+02:00",
+	"SessionFile": "2022_4_17_20_4_QUALIFY.json",
+	"SessionConfig": {
+		"session_type": 2,
+		"name": "Qualifying",
+		"time": 60,
+		"laps": 0,
+		"is_open": 1,
+		"wait_time": 0,
+		"visibility_mode": 0,
+		"qualifying_type": 0,
+		"qualifying_number_of_laps_to_average": 0,
+		"count_out_lap": false,
+		"disable_push_to_pass": false
+	}
+}

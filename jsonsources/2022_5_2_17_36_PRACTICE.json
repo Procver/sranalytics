@@ -1,0 +1,1210 @@
+{
+	"Version": 5,
+	"Cars": [
+		{
+			"BallastKG": 0,
+			"CarId": 0,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "vac_tv_van_2",
+			"Restrictor": 0,
+			"Skin": "vactv1",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 1,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "vac_tv_van_2",
+			"Restrictor": 0,
+			"Skin": "vactv2",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 2,
+			"Driver": {
+				"Guid": "76561197968623551",
+				"GuidsList": [
+					"76561197968623551"
+				],
+				"Name": "Timo One",
+				"Nation": "GBR",
+				"Team": ""
+			},
+			"Model": "vac_bmw_m1_procar_1980",
+			"Restrictor": 0,
+			"Skin": "1980_Procar_45_Manhalter",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 19,
+			"MaxPing": 23
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 3,
+			"Driver": {
+				"Guid": "76561198159251100",
+				"GuidsList": [
+					"76561198159251100"
+				],
+				"Name": "Felix789",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "vac_bmw_m1_procar_1980",
+			"Restrictor": 0,
+			"Skin": "1980_Procar_45_Manhalter",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 31,
+			"MaxPing": 34
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 4,
+			"Driver": {
+				"Guid": "76561198798114170",
+				"GuidsList": [
+					"76561198798114170"
+				],
+				"Name": "nzo",
+				"Nation": "USA",
+				"Team": ""
+			},
+			"Model": "vac_bmw_m1_procar_1980",
+			"Restrictor": 0,
+			"Skin": "1980_Procar_29_Patrese",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 113,
+			"MaxPing": 115
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 5,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "vac_bmw_m1_procar_1980",
+			"Restrictor": 0,
+			"Skin": "1980_Procar_4_Daly",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 6,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "vac_bmw_m1_procar_1980",
+			"Restrictor": 0,
+			"Skin": "1980_Procar_60_Brandenberger",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 7,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "vac_bmw_m1_procar_1980",
+			"Restrictor": 0,
+			"Skin": "1980_Procar_62_Gabbiani",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 8,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "vac_bmw_m1_procar_1980",
+			"Restrictor": 0,
+			"Skin": "1980_Procar_5_Piquet",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 9,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "vac_bmw_m1_procar_1980",
+			"Restrictor": 0,
+			"Skin": "1980_Procar_27_Jones",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 10,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "vac_bmw_m1_procar_1980",
+			"Restrictor": 0,
+			"Skin": "1980_Procar_91_Nussbaumer",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 11,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "vac_bmw_m1_procar_1980",
+			"Restrictor": 0,
+			"Skin": "1980_Procar_69_Sigalla",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 12,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "vac_bmw_m1_procar_1980",
+			"Restrictor": 0,
+			"Skin": "1980_Procar_27_Jones",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 13,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "vac_bmw_m1_procar_1980",
+			"Restrictor": 0,
+			"Skin": "1980_Procar_40_Stuck",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 14,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "vac_bmw_m1_procar_1980",
+			"Restrictor": 0,
+			"Skin": "1980_Procar_27_Jones",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 15,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "vac_bmw_m1_procar_1980",
+			"Restrictor": 0,
+			"Skin": "1980_Procar_28_Reutemann",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 16,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "vac_bmw_m1_procar_1980",
+			"Restrictor": 0,
+			"Skin": "1980_Procar_28_Reutemann",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 17,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "vac_bmw_m1_procar_1980",
+			"Restrictor": 0,
+			"Skin": "1980_Procar_27_Jones",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 18,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "vac_bmw_m1_procar_1980",
+			"Restrictor": 0,
+			"Skin": "1980_Procar_70_Merzario",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 19,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "vac_bmw_m1_procar_1980",
+			"Restrictor": 0,
+			"Skin": "1980_Procar_28_Reutemann",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 20,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "vac_bmw_m1_procar_1980",
+			"Restrictor": 0,
+			"Skin": "1980_Procar_29_Patrese",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 21,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "vac_bmw_m1_procar_1980",
+			"Restrictor": 0,
+			"Skin": "1980_Procar_62_Gabbiani",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 22,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "vac_bmw_m1_procar_1980",
+			"Restrictor": 0,
+			"Skin": "1980_Procar_41_Schuetz",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 23,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "vac_bmw_m1_procar_1980",
+			"Restrictor": 0,
+			"Skin": "1980_Procar_25G_Pironi",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 24,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "vac_bmw_m1_procar_1980",
+			"Restrictor": 0,
+			"Skin": "1980_Procar_63_Baldi",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 25,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "vac_bmw_m1_procar_1980",
+			"Restrictor": 0,
+			"Skin": "1980_Procar_25G_Pironi",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 26,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "vac_bmw_m1_procar_1980",
+			"Restrictor": 0,
+			"Skin": "1980_Procar_88_Gartner",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 27,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "vac_bmw_m1_procar_1980",
+			"Restrictor": 0,
+			"Skin": "1980_Procar_61_Brun",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 28,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "vac_bmw_m1_procar_1980",
+			"Restrictor": 0,
+			"Skin": "1980_Procar_45_Manhalter",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 29,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "vac_bmw_m1_procar_1980",
+			"Restrictor": 0,
+			"Skin": "1980_Procar_69_Sigalla",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 30,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "vac_bmw_m1_procar_1980",
+			"Restrictor": 0,
+			"Skin": "1980_Procar_66_Müller",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 31,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "vac_bmw_m1_procar_1980",
+			"Restrictor": 0,
+			"Skin": "1980_Procar_62_Gabbiani",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 32,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "vac_bmw_m1_procar_1980",
+			"Restrictor": 0,
+			"Skin": "1980_Procar_11_Andretti",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 33,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "vac_bmw_m1_procar_1980",
+			"Restrictor": 0,
+			"Skin": "1980_Procar_27_Jones",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 34,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "vac_bmw_m1_procar_1980",
+			"Restrictor": 0,
+			"Skin": "1980_Procar_27_Jones",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 35,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "vac_bmw_m1_procar_1980",
+			"Restrictor": 0,
+			"Skin": "1980_Procar_25G_Pironi",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		}
+	],
+	"Events": [
+		{
+			"CarId": 2,
+			"Driver": {
+				"Guid": "76561197968623551",
+				"GuidsList": [
+					"76561197968623551"
+				],
+				"Name": "Timo One",
+				"Nation": "GBR",
+				"Team": ""
+			},
+			"ImpactSpeed": 36.921295,
+			"OtherCarId": 0,
+			"OtherDriver": {
+				"Guid": "",
+				"GuidsList": null,
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"RelPosition": {
+				"X": -1.0257844,
+				"Y": -0.28489056,
+				"Z": -1.5492512
+			},
+			"Type": "COLLISION_WITH_ENV",
+			"WorldPosition": {
+				"X": -29.152231,
+				"Y": 44.778397,
+				"Z": 256.88754
+			},
+			"Timestamp": 1651503399,
+			"AfterSessionEnd": false
+		}
+	],
+	"Laps": [
+		{
+			"BallastKG": 0,
+			"CarId": 2,
+			"CarModel": "vac_bmw_m1_procar_1980",
+			"Cuts": 3,
+			"DriverGuid": "76561197968623551",
+			"DriverName": "Timo One",
+			"LapTime": 158842,
+			"Restrictor": 0,
+			"Sectors": [
+				62272,
+				48762,
+				47808
+			],
+			"Timestamp": 1651502912,
+			"Tyre": "S80",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 2,
+			"CarModel": "vac_bmw_m1_procar_1980",
+			"Cuts": 0,
+			"DriverGuid": "76561197968623551",
+			"DriverName": "Timo One",
+			"LapTime": 130226,
+			"Restrictor": 0,
+			"Sectors": [
+				40384,
+				46152,
+				43690
+			],
+			"Timestamp": 1651503043,
+			"Tyre": "S80",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 2,
+			"CarModel": "vac_bmw_m1_procar_1980",
+			"Cuts": 0,
+			"DriverGuid": "76561197968623551",
+			"DriverName": "Timo One",
+			"LapTime": 130390,
+			"Restrictor": 0,
+			"Sectors": [
+				40539,
+				45350,
+				44501
+			],
+			"Timestamp": 1651503173,
+			"Tyre": "S80",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 3,
+			"CarModel": "vac_bmw_m1_procar_1980",
+			"Cuts": 0,
+			"DriverGuid": "76561198159251100",
+			"DriverName": "Felix789",
+			"LapTime": 161110,
+			"Restrictor": 0,
+			"Sectors": [
+				71632,
+				45873,
+				43605
+			],
+			"Timestamp": 1651503175,
+			"Tyre": "S80",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 2,
+			"CarModel": "vac_bmw_m1_procar_1980",
+			"Cuts": 2,
+			"DriverGuid": "76561197968623551",
+			"DriverName": "Timo One",
+			"LapTime": 133642,
+			"Restrictor": 0,
+			"Sectors": [
+				40559,
+				46738,
+				46345
+			],
+			"Timestamp": 1651503307,
+			"Tyre": "S80",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 3,
+			"CarModel": "vac_bmw_m1_procar_1980",
+			"Cuts": 0,
+			"DriverGuid": "76561198159251100",
+			"DriverName": "Felix789",
+			"LapTime": 132216,
+			"Restrictor": 0,
+			"Sectors": [
+				39938,
+				45649,
+				46629
+			],
+			"Timestamp": 1651503307,
+			"Tyre": "S80",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 3,
+			"CarModel": "vac_bmw_m1_procar_1980",
+			"Cuts": 0,
+			"DriverGuid": "76561198159251100",
+			"DriverName": "Felix789",
+			"LapTime": 130931,
+			"Restrictor": 0,
+			"Sectors": [
+				39739,
+				45328,
+				45864
+			],
+			"Timestamp": 1651503438,
+			"Tyre": "S80",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 2,
+			"CarModel": "vac_bmw_m1_procar_1980",
+			"Cuts": 1,
+			"DriverGuid": "76561197968623551",
+			"DriverName": "Timo One",
+			"LapTime": 230468,
+			"Restrictor": 0,
+			"Sectors": [
+				139479,
+				46799,
+				44190
+			],
+			"Timestamp": 1651503537,
+			"Tyre": "S80",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 3,
+			"CarModel": "vac_bmw_m1_procar_1980",
+			"Cuts": 0,
+			"DriverGuid": "76561198159251100",
+			"DriverName": "Felix789",
+			"LapTime": 128136,
+			"Restrictor": 0,
+			"Sectors": [
+				40061,
+				44974,
+				43101
+			],
+			"Timestamp": 1651503566,
+			"Tyre": "S80",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 2,
+			"CarModel": "vac_bmw_m1_procar_1980",
+			"Cuts": 0,
+			"DriverGuid": "76561197968623551",
+			"DriverName": "Timo One",
+			"LapTime": 128585,
+			"Restrictor": 0,
+			"Sectors": [
+				40053,
+				45274,
+				43258
+			],
+			"Timestamp": 1651503666,
+			"Tyre": "S80",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 3,
+			"CarModel": "vac_bmw_m1_procar_1980",
+			"Cuts": 0,
+			"DriverGuid": "76561198159251100",
+			"DriverName": "Felix789",
+			"LapTime": 128340,
+			"Restrictor": 0,
+			"Sectors": [
+				39843,
+				44932,
+				43565
+			],
+			"Timestamp": 1651503695,
+			"Tyre": "S80",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 3,
+			"CarModel": "vac_bmw_m1_procar_1980",
+			"Cuts": 0,
+			"DriverGuid": "76561198159251100",
+			"DriverName": "Felix789",
+			"LapTime": 128313,
+			"Restrictor": 0,
+			"Sectors": [
+				39734,
+				44775,
+				43804
+			],
+			"Timestamp": 1651503823,
+			"Tyre": "S80",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 2,
+			"CarModel": "vac_bmw_m1_procar_1980",
+			"Cuts": 0,
+			"DriverGuid": "76561197968623551",
+			"DriverName": "Timo One",
+			"LapTime": 213667,
+			"Restrictor": 0,
+			"Sectors": [
+				123932,
+				46108,
+				43627
+			],
+			"Timestamp": 1651503879,
+			"Tyre": "S80",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 3,
+			"CarModel": "vac_bmw_m1_procar_1980",
+			"Cuts": 0,
+			"DriverGuid": "76561198159251100",
+			"DriverName": "Felix789",
+			"LapTime": 128042,
+			"Restrictor": 0,
+			"Sectors": [
+				39906,
+				44752,
+				43384
+			],
+			"Timestamp": 1651503951,
+			"Tyre": "S80",
+			"ContributedToFastestLap": true
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 2,
+			"CarModel": "vac_bmw_m1_procar_1980",
+			"Cuts": 0,
+			"DriverGuid": "76561197968623551",
+			"DriverName": "Timo One",
+			"LapTime": 128602,
+			"Restrictor": 0,
+			"Sectors": [
+				39862,
+				45432,
+				43308
+			],
+			"Timestamp": 1651504008,
+			"Tyre": "S80",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 2,
+			"CarModel": "vac_bmw_m1_procar_1980",
+			"Cuts": 0,
+			"DriverGuid": "76561197968623551",
+			"DriverName": "Timo One",
+			"LapTime": 128265,
+			"Restrictor": 0,
+			"Sectors": [
+				39907,
+				45203,
+				43155
+			],
+			"Timestamp": 1651504136,
+			"Tyre": "S80",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 2,
+			"CarModel": "vac_bmw_m1_procar_1980",
+			"Cuts": 0,
+			"DriverGuid": "76561197968623551",
+			"DriverName": "Timo One",
+			"LapTime": 128466,
+			"Restrictor": 0,
+			"Sectors": [
+				39973,
+				45225,
+				43268
+			],
+			"Timestamp": 1651504265,
+			"Tyre": "S80",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 2,
+			"CarModel": "vac_bmw_m1_procar_1980",
+			"Cuts": 1,
+			"DriverGuid": "76561197968623551",
+			"DriverName": "Timo One",
+			"LapTime": 293796,
+			"Restrictor": 0,
+			"Sectors": [
+				203795,
+				46292,
+				43709
+			],
+			"Timestamp": 1651504558,
+			"Tyre": "S80",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 2,
+			"CarModel": "vac_bmw_m1_procar_1980",
+			"Cuts": 0,
+			"DriverGuid": "76561197968623551",
+			"DriverName": "Timo One",
+			"LapTime": 128767,
+			"Restrictor": 0,
+			"Sectors": [
+				40203,
+				45220,
+				43344
+			],
+			"Timestamp": 1651504687,
+			"Tyre": "S80",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 2,
+			"CarModel": "vac_bmw_m1_procar_1980",
+			"Cuts": 0,
+			"DriverGuid": "76561197968623551",
+			"DriverName": "Timo One",
+			"LapTime": 128328,
+			"Restrictor": 0,
+			"Sectors": [
+				39947,
+				45185,
+				43196
+			],
+			"Timestamp": 1651504815,
+			"Tyre": "S80",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 2,
+			"CarModel": "vac_bmw_m1_procar_1980",
+			"Cuts": 0,
+			"DriverGuid": "76561197968623551",
+			"DriverName": "Timo One",
+			"LapTime": 128501,
+			"Restrictor": 0,
+			"Sectors": [
+				40068,
+				44900,
+				43533
+			],
+			"Timestamp": 1651504944,
+			"Tyre": "S80",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 2,
+			"CarModel": "vac_bmw_m1_procar_1980",
+			"Cuts": 0,
+			"DriverGuid": "76561197968623551",
+			"DriverName": "Timo One",
+			"LapTime": 128113,
+			"Restrictor": 0,
+			"Sectors": [
+				39841,
+				45139,
+				43133
+			],
+			"Timestamp": 1651505072,
+			"Tyre": "S80",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 2,
+			"CarModel": "vac_bmw_m1_procar_1980",
+			"Cuts": 0,
+			"DriverGuid": "76561197968623551",
+			"DriverName": "Timo One",
+			"LapTime": 127990,
+			"Restrictor": 0,
+			"Sectors": [
+				39952,
+				44852,
+				43186
+			],
+			"Timestamp": 1651505200,
+			"Tyre": "S80",
+			"ContributedToFastestLap": true
+		}
+	],
+	"Result": [
+		{
+			"BallastKG": 0,
+			"BestLap": 127990,
+			"CarId": 2,
+			"CarModel": "vac_bmw_m1_procar_1980",
+			"DriverGuid": "76561197968623551",
+			"DriverName": "Timo One",
+			"Restrictor": 0,
+			"TotalTime": 2745462,
+			"NumLaps": 16,
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"HasPenalty": false,
+			"PenaltyTime": 0,
+			"LapPenalty": 0,
+			"Disqualified": false
+		},
+		{
+			"BallastKG": 0,
+			"BestLap": 128042,
+			"CarId": 3,
+			"CarModel": "vac_bmw_m1_procar_1980",
+			"DriverGuid": "76561198159251100",
+			"DriverName": "Felix789",
+			"Restrictor": 0,
+			"TotalTime": 1496577,
+			"NumLaps": 7,
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"HasPenalty": false,
+			"PenaltyTime": 0,
+			"LapPenalty": 0,
+			"Disqualified": false
+		},
+		{
+			"BallastKG": 0,
+			"BestLap": 999999999,
+			"CarId": 4,
+			"CarModel": "vac_bmw_m1_procar_1980",
+			"DriverGuid": "76561198798114170",
+			"DriverName": "nzo",
+			"Restrictor": 0,
+			"TotalTime": 0,
+			"NumLaps": 0,
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"HasPenalty": false,
+			"PenaltyTime": 0,
+			"LapPenalty": 0,
+			"Disqualified": false
+		}
+	],
+	"Penalties": null,
+	"TrackConfig": "layout_gp_b_osrw",
+	"TrackName": "ks_nurburgring",
+	"Type": "PRACTICE",
+	"Date": "2022-05-02T17:36:08.073842643+02:00",
+	"SessionFile": "2022_5_2_17_36_PRACTICE.json",
+	"SessionConfig": {
+		"session_type": 1,
+		"name": "Practice",
+		"time": 1440,
+		"laps": 0,
+		"is_open": 1,
+		"wait_time": 0,
+		"visibility_mode": 0,
+		"qualifying_type": 0,
+		"qualifying_number_of_laps_to_average": 0,
+		"count_out_lap": false,
+		"disable_push_to_pass": false
+	}
+}

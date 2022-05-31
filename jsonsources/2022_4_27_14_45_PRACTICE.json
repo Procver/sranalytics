@@ -1,0 +1,4082 @@
+{
+	"Version": 5,
+	"Cars": [
+		{
+			"BallastKG": 0,
+			"CarId": 0,
+			"Driver": {
+				"Guid": "76561198798114170",
+				"GuidsList": [
+					"76561198798114170"
+				],
+				"Name": "nzo",
+				"Nation": "PLA",
+				"Team": ""
+			},
+			"Model": "ferrari_312t",
+			"Restrictor": 0,
+			"Skin": "March_10",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 114,
+			"MaxPing": 122
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 1,
+			"Driver": {
+				"Guid": "76561198872987414",
+				"GuidsList": [
+					"76561198872987414"
+				],
+				"Name": "Merlijn",
+				"Nation": "NLD",
+				"Team": ""
+			},
+			"Model": "ferrari_312t",
+			"Restrictor": 0,
+			"Skin": "Vettel",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 13,
+			"MaxPing": 22
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 2,
+			"Driver": {
+				"Guid": "76561198025181930",
+				"GuidsList": [
+					"76561198025181930"
+				],
+				"Name": "GoodSmile Racing",
+				"Nation": "POL",
+				"Team": ""
+			},
+			"Model": "ferrari_312t",
+			"Restrictor": 0,
+			"Skin": "09_Amon",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 41,
+			"MaxPing": 43
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 3,
+			"Driver": {
+				"Guid": "76561197971130836",
+				"GuidsList": [
+					"76561197971130836"
+				],
+				"Name": "Axeracing",
+				"Nation": "PLA",
+				"Team": ""
+			},
+			"Model": "ferrari_312t",
+			"Restrictor": 0,
+			"Skin": "02_ita_1",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 122,
+			"MaxPing": 127
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 4,
+			"Driver": {
+				"Guid": "76561198870993027",
+				"GuidsList": [
+					"76561198870993027"
+				],
+				"Name": "Jenkweed",
+				"Nation": "FRA",
+				"Team": ""
+			},
+			"Model": "ferrari_312t",
+			"Restrictor": 0,
+			"Skin": "Vettel",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 47,
+			"MaxPing": 53
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 5,
+			"Driver": {
+				"Guid": "76561198818062492",
+				"GuidsList": [
+					"76561198818062492"
+				],
+				"Name": "LarsT",
+				"Nation": "NOR",
+				"Team": ""
+			},
+			"Model": "ferrari_312t",
+			"Restrictor": 0,
+			"Skin": "23_Hill",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 98,
+			"MaxPing": 100
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 6,
+			"Driver": {
+				"Guid": "76561198151791542",
+				"GuidsList": [
+					"76561198151791542"
+				],
+				"Name": "Sgeti",
+				"Nation": "USA",
+				"Team": ""
+			},
+			"Model": "ferrari_312t",
+			"Restrictor": 0,
+			"Skin": "MartiniRacing_8",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 89,
+			"MaxPing": 92
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 7,
+			"Driver": {
+				"Guid": "76561198860527133",
+				"GuidsList": [
+					"76561198860527133"
+				],
+				"Name": "Benjamin Nash",
+				"Nation": "GBR",
+				"Team": ""
+			},
+			"Model": "ferrari_312t",
+			"Restrictor": 0,
+			"Skin": "Hesketh_308",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 14,
+			"MaxPing": 34
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 8,
+			"Driver": {
+				"Guid": "76561199073630504",
+				"GuidsList": [
+					"76561199073630504"
+				],
+				"Name": "Cavallino",
+				"Nation": "ITA",
+				"Team": ""
+			},
+			"Model": "ferrari_312t",
+			"Restrictor": 0,
+			"Skin": "21_Stewart",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 89,
+			"MaxPing": 825
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 9,
+			"Driver": {
+				"Guid": "76561198034178233",
+				"GuidsList": [
+					"76561198034178233"
+				],
+				"Name": "Costo",
+				"Nation": "CAN",
+				"Team": ""
+			},
+			"Model": "ferrari_312t",
+			"Restrictor": 0,
+			"Skin": "23_Hill",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 138,
+			"MaxPing": 143
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 10,
+			"Driver": {
+				"Guid": "76561198047562689",
+				"GuidsList": [
+					"76561198047562689"
+				],
+				"Name": "Ki-Gon",
+				"Nation": "PLA",
+				"Team": ""
+			},
+			"Model": "ferrari_312t",
+			"Restrictor": 0,
+			"Skin": "07_racing_3",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 158,
+			"MaxPing": 161
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 11,
+			"Driver": {
+				"Guid": "76561198054625770",
+				"GuidsList": [
+					"76561198054625770"
+				],
+				"Name": "josedrives",
+				"Nation": "AUS",
+				"Team": ""
+			},
+			"Model": "ferrari_312t",
+			"Restrictor": 0,
+			"Skin": "MartiniRacing_7",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 274,
+			"MaxPing": 283
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 12,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "ferrari_312t",
+			"Restrictor": 0,
+			"Skin": "Mansell",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 13,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "ferrari_312t",
+			"Restrictor": 0,
+			"Skin": "75_Lotus_72E",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 14,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "ferrari_312t",
+			"Restrictor": 0,
+			"Skin": "Nurburgring",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 15,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "ferrari_312t",
+			"Restrictor": 0,
+			"Skin": "24_Hunt",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 16,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "ferrari_312t",
+			"Restrictor": 0,
+			"Skin": "30_Beltoise",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 17,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "ferrari_312t",
+			"Restrictor": 0,
+			"Skin": "00_racing_12",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 18,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "ferrari_312t",
+			"Restrictor": 0,
+			"Skin": "Hesketh_308",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 19,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "ferrari_312t",
+			"Restrictor": 0,
+			"Skin": "Mansell",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 20,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "ferrari_312t",
+			"Restrictor": 0,
+			"Skin": "MartiniRacing_7",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 21,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "ferrari_312t",
+			"Restrictor": 0,
+			"Skin": "00_racing_12",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 22,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "ferrari_312t",
+			"Restrictor": 0,
+			"Skin": "Savetheplanet",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 23,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "ferrari_312t",
+			"Restrictor": 0,
+			"Skin": "Tyrrell_006_Jackie_Stewart",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 24,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "vac_tv_van_2",
+			"Restrictor": 0,
+			"Skin": "01",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 25,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "vac_tv_van_2",
+			"Restrictor": 0,
+			"Skin": "01",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		}
+	],
+	"Events": [
+		{
+			"CarId": 3,
+			"Driver": {
+				"Guid": "76561197971130836",
+				"GuidsList": [
+					"76561197971130836"
+				],
+				"Name": "Axeracing",
+				"Nation": "PLA",
+				"Team": ""
+			},
+			"ImpactSpeed": 26.48888,
+			"OtherCarId": 0,
+			"OtherDriver": {
+				"Guid": "",
+				"GuidsList": null,
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"RelPosition": {
+				"X": -0.90709937,
+				"Y": 0.2767847,
+				"Z": 1.5556167
+			},
+			"Type": "COLLISION_WITH_ENV",
+			"WorldPosition": {
+				"X": 99.212036,
+				"Y": 0.5025422,
+				"Z": -441.44827
+			},
+			"Timestamp": 1650991677,
+			"AfterSessionEnd": false
+		},
+		{
+			"CarId": 4,
+			"Driver": {
+				"Guid": "76561198870993027",
+				"GuidsList": [
+					"76561198870993027"
+				],
+				"Name": "Jenkweed",
+				"Nation": "FRA",
+				"Team": ""
+			},
+			"ImpactSpeed": 28.395866,
+			"OtherCarId": 0,
+			"OtherDriver": {
+				"Guid": "",
+				"GuidsList": null,
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"RelPosition": {
+				"X": 0.76664424,
+				"Y": -0.04765896,
+				"Z": 2.312254
+			},
+			"Type": "COLLISION_WITH_ENV",
+			"WorldPosition": {
+				"X": 178.13188,
+				"Y": 0.16794091,
+				"Z": -80.12677
+			},
+			"Timestamp": 1651004398,
+			"AfterSessionEnd": false
+		},
+		{
+			"CarId": 4,
+			"Driver": {
+				"Guid": "76561198870993027",
+				"GuidsList": [
+					"76561198870993027"
+				],
+				"Name": "Jenkweed",
+				"Nation": "FRA",
+				"Team": ""
+			},
+			"ImpactSpeed": 15.270533,
+			"OtherCarId": 0,
+			"OtherDriver": {
+				"Guid": "",
+				"GuidsList": null,
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"RelPosition": {
+				"X": 0.7666429,
+				"Y": -0.047659136,
+				"Z": 2.3122501
+			},
+			"Type": "COLLISION_WITH_ENV",
+			"WorldPosition": {
+				"X": 207.0812,
+				"Y": 0.16370475,
+				"Z": -31.51108
+			},
+			"Timestamp": 1651004633,
+			"AfterSessionEnd": false
+		},
+		{
+			"CarId": 0,
+			"Driver": {
+				"Guid": "76561198798114170",
+				"GuidsList": [
+					"76561198798114170"
+				],
+				"Name": "nzo",
+				"Nation": "PLA",
+				"Team": ""
+			},
+			"ImpactSpeed": 51.06789,
+			"OtherCarId": 0,
+			"OtherDriver": {
+				"Guid": "",
+				"GuidsList": null,
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"RelPosition": {
+				"X": 0.76639223,
+				"Y": -0.040420085,
+				"Z": 2.3059247
+			},
+			"Type": "COLLISION_WITH_ENV",
+			"WorldPosition": {
+				"X": -74.31013,
+				"Y": 8.042535,
+				"Z": 79.48383
+			},
+			"Timestamp": 1651011533,
+			"AfterSessionEnd": false
+		},
+		{
+			"CarId": 0,
+			"Driver": {
+				"Guid": "76561198798114170",
+				"GuidsList": [
+					"76561198798114170"
+				],
+				"Name": "nzo",
+				"Nation": "PLA",
+				"Team": ""
+			},
+			"ImpactSpeed": 17.512844,
+			"OtherCarId": 0,
+			"OtherDriver": {
+				"Guid": "",
+				"GuidsList": null,
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"RelPosition": {
+				"X": 1.0165815,
+				"Y": -0.13680579,
+				"Z": -0.7639296
+			},
+			"Type": "COLLISION_WITH_ENV",
+			"WorldPosition": {
+				"X": 400.15448,
+				"Y": 0.14570136,
+				"Z": 157.51843
+			},
+			"Timestamp": 1651012419,
+			"AfterSessionEnd": false
+		},
+		{
+			"CarId": 0,
+			"Driver": {
+				"Guid": "76561198798114170",
+				"GuidsList": [
+					"76561198798114170"
+				],
+				"Name": "nzo",
+				"Nation": "PLA",
+				"Team": ""
+			},
+			"ImpactSpeed": 19.953945,
+			"OtherCarId": 0,
+			"OtherDriver": {
+				"Guid": "",
+				"GuidsList": null,
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"RelPosition": {
+				"X": 0.88974476,
+				"Y": -0.1091439,
+				"Z": 1.6107242
+			},
+			"Type": "COLLISION_WITH_ENV",
+			"WorldPosition": {
+				"X": 407.55905,
+				"Y": 0.13046306,
+				"Z": 118.47558
+			},
+			"Timestamp": 1651012424,
+			"AfterSessionEnd": false
+		},
+		{
+			"CarId": 5,
+			"Driver": {
+				"Guid": "76561198818062492",
+				"GuidsList": [
+					"76561198818062492"
+				],
+				"Name": "LarsT",
+				"Nation": "NOR",
+				"Team": ""
+			},
+			"ImpactSpeed": 14.460174,
+			"OtherCarId": 0,
+			"OtherDriver": {
+				"Guid": "",
+				"GuidsList": null,
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"RelPosition": {
+				"X": 0.7666358,
+				"Y": -0.047659006,
+				"Z": 2.3122551
+			},
+			"Type": "COLLISION_WITH_ENV",
+			"WorldPosition": {
+				"X": -261.18112,
+				"Y": 0.17669626,
+				"Z": 134.04352
+			},
+			"Timestamp": 1651015054,
+			"AfterSessionEnd": false
+		},
+		{
+			"CarId": 8,
+			"Driver": {
+				"Guid": "76561199073630504",
+				"GuidsList": [
+					"76561199073630504"
+				],
+				"Name": "Cavallino",
+				"Nation": "ITA",
+				"Team": ""
+			},
+			"ImpactSpeed": 45.179535,
+			"OtherCarId": 0,
+			"OtherDriver": {
+				"Guid": "",
+				"GuidsList": null,
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"RelPosition": {
+				"X": 1.0165788,
+				"Y": -0.15665857,
+				"Z": -1.1698585
+			},
+			"Type": "COLLISION_WITH_ENV",
+			"WorldPosition": {
+				"X": -73.5152,
+				"Y": 8.074806,
+				"Z": 81.6185
+			},
+			"Timestamp": 1651022161,
+			"AfterSessionEnd": false
+		},
+		{
+			"CarId": 8,
+			"Driver": {
+				"Guid": "76561199073630504",
+				"GuidsList": [
+					"76561199073630504"
+				],
+				"Name": "Cavallino",
+				"Nation": "ITA",
+				"Team": ""
+			},
+			"ImpactSpeed": 39.01295,
+			"OtherCarId": 0,
+			"OtherDriver": {
+				"Guid": "",
+				"GuidsList": null,
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"RelPosition": {
+				"X": 0.7666462,
+				"Y": -0.047658768,
+				"Z": 2.3122525
+			},
+			"Type": "COLLISION_WITH_ENV",
+			"WorldPosition": {
+				"X": -82.22865,
+				"Y": 7.6318884,
+				"Z": 54.030605
+			},
+			"Timestamp": 1651022811,
+			"AfterSessionEnd": false
+		},
+		{
+			"CarId": 9,
+			"Driver": {
+				"Guid": "76561198034178233",
+				"GuidsList": [
+					"76561198034178233"
+				],
+				"Name": "Costo",
+				"Nation": "CAN",
+				"Team": ""
+			},
+			"ImpactSpeed": 55.209793,
+			"OtherCarId": 0,
+			"OtherDriver": {
+				"Guid": "",
+				"GuidsList": null,
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"RelPosition": {
+				"X": -0.76664275,
+				"Y": -0.17172879,
+				"Z": 2.1703494
+			},
+			"Type": "COLLISION_WITH_ENV",
+			"WorldPosition": {
+				"X": -94.46214,
+				"Y": 0.0403884,
+				"Z": 117.05173
+			},
+			"Timestamp": 1651024933,
+			"AfterSessionEnd": false
+		},
+		{
+			"CarId": 9,
+			"Driver": {
+				"Guid": "76561198034178233",
+				"GuidsList": [
+					"76561198034178233"
+				],
+				"Name": "Costo",
+				"Nation": "CAN",
+				"Team": ""
+			},
+			"ImpactSpeed": 30.94844,
+			"OtherCarId": 0,
+			"OtherDriver": {
+				"Guid": "",
+				"GuidsList": null,
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"RelPosition": {
+				"X": -0.90709627,
+				"Y": 0.2767847,
+				"Z": 1.5556167
+			},
+			"Type": "COLLISION_WITH_ENV",
+			"WorldPosition": {
+				"X": -91.22136,
+				"Y": 0.50555325,
+				"Z": 117.056076
+			},
+			"Timestamp": 1651025278,
+			"AfterSessionEnd": false
+		},
+		{
+			"CarId": 9,
+			"Driver": {
+				"Guid": "76561198034178233",
+				"GuidsList": [
+					"76561198034178233"
+				],
+				"Name": "Costo",
+				"Nation": "CAN",
+				"Team": ""
+			},
+			"ImpactSpeed": 54.615345,
+			"OtherCarId": 0,
+			"OtherDriver": {
+				"Guid": "",
+				"GuidsList": null,
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"RelPosition": {
+				"X": -0.76664793,
+				"Y": -0.047658924,
+				"Z": 2.3122547
+			},
+			"Type": "COLLISION_WITH_ENV",
+			"WorldPosition": {
+				"X": -93.02219,
+				"Y": 0.15918982,
+				"Z": 117.10998
+			},
+			"Timestamp": 1651026299,
+			"AfterSessionEnd": false
+		},
+		{
+			"CarId": 8,
+			"Driver": {
+				"Guid": "76561199073630504",
+				"GuidsList": [
+					"76561199073630504"
+				],
+				"Name": "Cavallino",
+				"Nation": "ITA",
+				"Team": ""
+			},
+			"ImpactSpeed": 18.816563,
+			"OtherCarId": 0,
+			"OtherDriver": {
+				"Guid": "",
+				"GuidsList": null,
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"RelPosition": {
+				"X": 1.0165751,
+				"Y": -0.15665874,
+				"Z": -1.1698532
+			},
+			"Type": "COLLISION_WITH_ENV",
+			"WorldPosition": {
+				"X": -117.17802,
+				"Y": 1.0188507,
+				"Z": -419.35498
+			},
+			"Timestamp": 1651026729,
+			"AfterSessionEnd": false
+		},
+		{
+			"CarId": 8,
+			"Driver": {
+				"Guid": "76561199073630504",
+				"GuidsList": [
+					"76561199073630504"
+				],
+				"Name": "Cavallino",
+				"Nation": "ITA",
+				"Team": ""
+			},
+			"ImpactSpeed": 14.986691,
+			"OtherCarId": 0,
+			"OtherDriver": {
+				"Guid": "",
+				"GuidsList": null,
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"RelPosition": {
+				"X": 0.7666336,
+				"Y": -0.04765972,
+				"Z": 2.3122551
+			},
+			"Type": "COLLISION_WITH_ENV",
+			"WorldPosition": {
+				"X": 15.492479,
+				"Y": 0.99364257,
+				"Z": -507.3163
+			},
+			"Timestamp": 1651029041,
+			"AfterSessionEnd": false
+		},
+		{
+			"CarId": 10,
+			"Driver": {
+				"Guid": "76561198047562689",
+				"GuidsList": [
+					"76561198047562689"
+				],
+				"Name": "Ki-Gon",
+				"Nation": "PLA",
+				"Team": ""
+			},
+			"ImpactSpeed": 45.47806,
+			"OtherCarId": 0,
+			"OtherDriver": {
+				"Guid": "",
+				"GuidsList": null,
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"RelPosition": {
+				"X": -0.7666548,
+				"Y": -0.047657598,
+				"Z": 2.312255
+			},
+			"Type": "COLLISION_WITH_ENV",
+			"WorldPosition": {
+				"X": 408.7678,
+				"Y": 0.15793228,
+				"Z": 120.996635
+			},
+			"Timestamp": 1651034521,
+			"AfterSessionEnd": false
+		},
+		{
+			"CarId": 10,
+			"Driver": {
+				"Guid": "76561198047562689",
+				"GuidsList": [
+					"76561198047562689"
+				],
+				"Name": "Ki-Gon",
+				"Nation": "PLA",
+				"Team": ""
+			},
+			"ImpactSpeed": 25.972034,
+			"OtherCarId": 0,
+			"OtherDriver": {
+				"Guid": "",
+				"GuidsList": null,
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"RelPosition": {
+				"X": -0.76664287,
+				"Y": -0.04765886,
+				"Z": 2.3122566
+			},
+			"Type": "COLLISION_WITH_ENV",
+			"WorldPosition": {
+				"X": -281.48117,
+				"Y": 0.14418696,
+				"Z": 133.30345
+			},
+			"Timestamp": 1651034596,
+			"AfterSessionEnd": false
+		},
+		{
+			"CarId": 11,
+			"Driver": {
+				"Guid": "76561198054625770",
+				"GuidsList": [
+					"76561198054625770"
+				],
+				"Name": "josedrives",
+				"Nation": "AUS",
+				"Team": ""
+			},
+			"ImpactSpeed": 41.16939,
+			"OtherCarId": 0,
+			"OtherDriver": {
+				"Guid": "",
+				"GuidsList": null,
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"RelPosition": {
+				"X": -0.5935475,
+				"Y": -0.04765883,
+				"Z": 2.3122523
+			},
+			"Type": "COLLISION_WITH_ENV",
+			"WorldPosition": {
+				"X": -79.119774,
+				"Y": 7.8607917,
+				"Z": 65.864914
+			},
+			"Timestamp": 1651049522,
+			"AfterSessionEnd": false
+		},
+		{
+			"CarId": 11,
+			"Driver": {
+				"Guid": "76561198054625770",
+				"GuidsList": [
+					"76561198054625770"
+				],
+				"Name": "josedrives",
+				"Nation": "AUS",
+				"Team": ""
+			},
+			"ImpactSpeed": 5.981848,
+			"OtherCarId": 0,
+			"OtherDriver": {
+				"Guid": "",
+				"GuidsList": null,
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"RelPosition": {
+				"X": 0.7101784,
+				"Y": 0.48290542,
+				"Z": -1.8637745
+			},
+			"Type": "COLLISION_WITH_ENV",
+			"WorldPosition": {
+				"X": -76.87719,
+				"Y": 8.641081,
+				"Z": 73.01855
+			},
+			"Timestamp": 1651049527,
+			"AfterSessionEnd": false
+		},
+		{
+			"CarId": 11,
+			"Driver": {
+				"Guid": "76561198054625770",
+				"GuidsList": [
+					"76561198054625770"
+				],
+				"Name": "josedrives",
+				"Nation": "AUS",
+				"Team": ""
+			},
+			"ImpactSpeed": 79.381,
+			"OtherCarId": 0,
+			"OtherDriver": {
+				"Guid": "",
+				"GuidsList": null,
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"RelPosition": {
+				"X": 0.7666408,
+				"Y": -0.047659185,
+				"Z": 2.3122597
+			},
+			"Type": "COLLISION_WITH_ENV",
+			"WorldPosition": {
+				"X": 41.912262,
+				"Y": -2.9513094,
+				"Z": -321.47775
+			},
+			"Timestamp": 1651049622,
+			"AfterSessionEnd": false
+		},
+		{
+			"CarId": 11,
+			"Driver": {
+				"Guid": "76561198054625770",
+				"GuidsList": [
+					"76561198054625770"
+				],
+				"Name": "josedrives",
+				"Nation": "AUS",
+				"Team": ""
+			},
+			"ImpactSpeed": 4.139718,
+			"OtherCarId": 0,
+			"OtherDriver": {
+				"Guid": "",
+				"GuidsList": null,
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"RelPosition": {
+				"X": 1.0165824,
+				"Y": -0.1566598,
+				"Z": -1.1698484
+			},
+			"Type": "COLLISION_WITH_ENV",
+			"WorldPosition": {
+				"X": 42.34316,
+				"Y": -2.8142385,
+				"Z": -322.8053
+			},
+			"Timestamp": 1651049627,
+			"AfterSessionEnd": false
+		},
+		{
+			"CarId": 11,
+			"Driver": {
+				"Guid": "76561198054625770",
+				"GuidsList": [
+					"76561198054625770"
+				],
+				"Name": "josedrives",
+				"Nation": "AUS",
+				"Team": ""
+			},
+			"ImpactSpeed": 71.38355,
+			"OtherCarId": 0,
+			"OtherDriver": {
+				"Guid": "",
+				"GuidsList": null,
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"RelPosition": {
+				"X": 0.70323366,
+				"Y": -0.1085243,
+				"Z": 2.1177824
+			},
+			"Type": "COLLISION_WITH_ENV",
+			"WorldPosition": {
+				"X": 48.99326,
+				"Y": -1.9580029,
+				"Z": -342.11694
+			},
+			"Timestamp": 1651049667,
+			"AfterSessionEnd": false
+		},
+		{
+			"CarId": 11,
+			"Driver": {
+				"Guid": "76561198054625770",
+				"GuidsList": [
+					"76561198054625770"
+				],
+				"Name": "josedrives",
+				"Nation": "AUS",
+				"Team": ""
+			},
+			"ImpactSpeed": 1.5108649,
+			"OtherCarId": 0,
+			"OtherDriver": {
+				"Guid": "",
+				"GuidsList": null,
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"RelPosition": {
+				"X": 0.9061424,
+				"Y": -0.122324295,
+				"Z": 1.5733545
+			},
+			"Type": "COLLISION_WITH_ENV",
+			"WorldPosition": {
+				"X": 54.458176,
+				"Y": -1.1139379,
+				"Z": -358.79205
+			},
+			"Timestamp": 1651049672,
+			"AfterSessionEnd": false
+		},
+		{
+			"CarId": 11,
+			"Driver": {
+				"Guid": "76561198054625770",
+				"GuidsList": [
+					"76561198054625770"
+				],
+				"Name": "josedrives",
+				"Nation": "AUS",
+				"Team": ""
+			},
+			"ImpactSpeed": 37.813927,
+			"OtherCarId": 0,
+			"OtherDriver": {
+				"Guid": "",
+				"GuidsList": null,
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"RelPosition": {
+				"X": -0.63370454,
+				"Y": 0.04753675,
+				"Z": 2.1925619
+			},
+			"Type": "COLLISION_WITH_ENV",
+			"WorldPosition": {
+				"X": 100.418076,
+				"Y": 0.029552313,
+				"Z": -400.92224
+			},
+			"Timestamp": 1651049707,
+			"AfterSessionEnd": false
+		},
+		{
+			"CarId": 11,
+			"Driver": {
+				"Guid": "76561198054625770",
+				"GuidsList": [
+					"76561198054625770"
+				],
+				"Name": "josedrives",
+				"Nation": "AUS",
+				"Team": ""
+			},
+			"ImpactSpeed": 34.305855,
+			"OtherCarId": 0,
+			"OtherDriver": {
+				"Guid": "",
+				"GuidsList": null,
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"RelPosition": {
+				"X": 1.0011843,
+				"Y": 0.27170935,
+				"Z": -0.5816424
+			},
+			"Type": "COLLISION_WITH_ENV",
+			"WorldPosition": {
+				"X": 55.947987,
+				"Y": -0.09649792,
+				"Z": -376.5183
+			},
+			"Timestamp": 1651050022,
+			"AfterSessionEnd": false
+		},
+		{
+			"CarId": 11,
+			"Driver": {
+				"Guid": "76561198054625770",
+				"GuidsList": [
+					"76561198054625770"
+				],
+				"Name": "josedrives",
+				"Nation": "AUS",
+				"Team": ""
+			},
+			"ImpactSpeed": 5.757991,
+			"OtherCarId": 0,
+			"OtherDriver": {
+				"Guid": "",
+				"GuidsList": null,
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"RelPosition": {
+				"X": 0.000002747219,
+				"Y": -0.04621525,
+				"Z": 2.3445919
+			},
+			"Type": "COLLISION_WITH_ENV",
+			"WorldPosition": {
+				"X": -73.19319,
+				"Y": 8.076567,
+				"Z": 82.3884
+			},
+			"Timestamp": 1651050237,
+			"AfterSessionEnd": false
+		},
+		{
+			"CarId": 11,
+			"Driver": {
+				"Guid": "76561198054625770",
+				"GuidsList": [
+					"76561198054625770"
+				],
+				"Name": "josedrives",
+				"Nation": "AUS",
+				"Team": ""
+			},
+			"ImpactSpeed": 37.222145,
+			"OtherCarId": 0,
+			"OtherDriver": {
+				"Guid": "",
+				"GuidsList": null,
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"RelPosition": {
+				"X": 0.7666582,
+				"Y": -0.047659345,
+				"Z": 2.312251
+			},
+			"Type": "COLLISION_WITH_ENV",
+			"WorldPosition": {
+				"X": -113.37756,
+				"Y": 0.548279,
+				"Z": -407.2991
+			},
+			"Timestamp": 1651050607,
+			"AfterSessionEnd": false
+		},
+		{
+			"CarId": 11,
+			"Driver": {
+				"Guid": "76561198054625770",
+				"GuidsList": [
+					"76561198054625770"
+				],
+				"Name": "josedrives",
+				"Nation": "AUS",
+				"Team": ""
+			},
+			"ImpactSpeed": 38.114925,
+			"OtherCarId": 0,
+			"OtherDriver": {
+				"Guid": "",
+				"GuidsList": null,
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"RelPosition": {
+				"X": 0.7655633,
+				"Y": -0.016728312,
+				"Z": 2.2852132
+			},
+			"Type": "COLLISION_WITH_ENV",
+			"WorldPosition": {
+				"X": -69.631134,
+				"Y": 8.135948,
+				"Z": 90.034584
+			},
+			"Timestamp": 1651051573,
+			"AfterSessionEnd": false
+		}
+	],
+	"Laps": [
+		{
+			"BallastKG": 0,
+			"CarId": 1,
+			"CarModel": "ferrari_312t",
+			"Cuts": 2,
+			"DriverGuid": "76561198872987414",
+			"DriverName": "Merlijn",
+			"LapTime": 243892,
+			"Restrictor": 0,
+			"Sectors": [
+				152466,
+				50017,
+				41409
+			],
+			"Timestamp": 1650983332,
+			"Tyre": "S",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 1,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561198872987414",
+			"DriverName": "Merlijn",
+			"LapTime": 123432,
+			"Restrictor": 0,
+			"Sectors": [
+				37648,
+				44744,
+				41040
+			],
+			"Timestamp": 1650983456,
+			"Tyre": "S",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 1,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561198872987414",
+			"DriverName": "Merlijn",
+			"LapTime": 187489,
+			"Restrictor": 0,
+			"Sectors": [
+				98376,
+				47965,
+				41148
+			],
+			"Timestamp": 1650983999,
+			"Tyre": "S",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 1,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561198872987414",
+			"DriverName": "Merlijn",
+			"LapTime": 123535,
+			"Restrictor": 0,
+			"Sectors": [
+				38143,
+				44766,
+				40626
+			],
+			"Timestamp": 1650984122,
+			"Tyre": "S",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 1,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561198872987414",
+			"DriverName": "Merlijn",
+			"LapTime": 122046,
+			"Restrictor": 0,
+			"Sectors": [
+				37315,
+				44757,
+				39974
+			],
+			"Timestamp": 1650984244,
+			"Tyre": "S",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 1,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561198872987414",
+			"DriverName": "Merlijn",
+			"LapTime": 121688,
+			"Restrictor": 0,
+			"Sectors": [
+				37651,
+				44321,
+				39716
+			],
+			"Timestamp": 1650984366,
+			"Tyre": "S",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 1,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561198872987414",
+			"DriverName": "Merlijn",
+			"LapTime": 120728,
+			"Restrictor": 0,
+			"Sectors": [
+				36993,
+				44090,
+				39645
+			],
+			"Timestamp": 1650984487,
+			"Tyre": "S",
+			"ContributedToFastestLap": true
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 2,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561198025181930",
+			"DriverName": "GoodSmile Racing",
+			"LapTime": 126118,
+			"Restrictor": 0,
+			"Sectors": [
+				45739,
+				42376,
+				38003
+			],
+			"Timestamp": 1650986734,
+			"Tyre": "S",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 2,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561198025181930",
+			"DriverName": "GoodSmile Racing",
+			"LapTime": 115205,
+			"Restrictor": 0,
+			"Sectors": [
+				35389,
+				42084,
+				37732
+			],
+			"Timestamp": 1650986849,
+			"Tyre": "S",
+			"ContributedToFastestLap": true
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 3,
+			"CarModel": "ferrari_312t",
+			"Cuts": 1,
+			"DriverGuid": "76561197971130836",
+			"DriverName": "Axeracing",
+			"LapTime": 246129,
+			"Restrictor": 0,
+			"Sectors": [
+				143582,
+				58928,
+				43619
+			],
+			"Timestamp": 1650991518,
+			"Tyre": "S",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 3,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561197971130836",
+			"DriverName": "Axeracing",
+			"LapTime": 132016,
+			"Restrictor": 0,
+			"Sectors": [
+				41750,
+				49087,
+				41179
+			],
+			"Timestamp": 1650991650,
+			"Tyre": "S",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 3,
+			"CarModel": "ferrari_312t",
+			"Cuts": 1,
+			"DriverGuid": "76561197971130836",
+			"DriverName": "Axeracing",
+			"LapTime": 165426,
+			"Restrictor": 0,
+			"Sectors": [
+				75749,
+				48965,
+				40712
+			],
+			"Timestamp": 1650991815,
+			"Tyre": "S",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 3,
+			"CarModel": "ferrari_312t",
+			"Cuts": 1,
+			"DriverGuid": "76561197971130836",
+			"DriverName": "Axeracing",
+			"LapTime": 130599,
+			"Restrictor": 0,
+			"Sectors": [
+				38745,
+				51461,
+				40393
+			],
+			"Timestamp": 1650991946,
+			"Tyre": "S",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 3,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561197971130836",
+			"DriverName": "Axeracing",
+			"LapTime": 132210,
+			"Restrictor": 0,
+			"Sectors": [
+				37557,
+				54962,
+				39691
+			],
+			"Timestamp": 1650992078,
+			"Tyre": "S",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 3,
+			"CarModel": "ferrari_312t",
+			"Cuts": 1,
+			"DriverGuid": "76561197971130836",
+			"DriverName": "Axeracing",
+			"LapTime": 131517,
+			"Restrictor": 0,
+			"Sectors": [
+				37997,
+				44847,
+				48673
+			],
+			"Timestamp": 1650992209,
+			"Tyre": "S",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 3,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561197971130836",
+			"DriverName": "Axeracing",
+			"LapTime": 121923,
+			"Restrictor": 0,
+			"Sectors": [
+				37152,
+				45468,
+				39303
+			],
+			"Timestamp": 1650992331,
+			"Tyre": "S",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 3,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561197971130836",
+			"DriverName": "Axeracing",
+			"LapTime": 120707,
+			"Restrictor": 0,
+			"Sectors": [
+				37359,
+				44113,
+				39235
+			],
+			"Timestamp": 1650992452,
+			"Tyre": "S",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 3,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561197971130836",
+			"DriverName": "Axeracing",
+			"LapTime": 243696,
+			"Restrictor": 0,
+			"Sectors": [
+				160382,
+				44622,
+				38692
+			],
+			"Timestamp": 1650992696,
+			"Tyre": "S",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 3,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561197971130836",
+			"DriverName": "Axeracing",
+			"LapTime": 119245,
+			"Restrictor": 0,
+			"Sectors": [
+				36773,
+				44200,
+				38272
+			],
+			"Timestamp": 1650992815,
+			"Tyre": "S",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 3,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561197971130836",
+			"DriverName": "Axeracing",
+			"LapTime": 344593,
+			"Restrictor": 0,
+			"Sectors": [
+				261460,
+				44415,
+				38718
+			],
+			"Timestamp": 1650993160,
+			"Tyre": "S",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 3,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561197971130836",
+			"DriverName": "Axeracing",
+			"LapTime": 119094,
+			"Restrictor": 0,
+			"Sectors": [
+				36437,
+				44164,
+				38493
+			],
+			"Timestamp": 1650993279,
+			"Tyre": "S",
+			"ContributedToFastestLap": true
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 4,
+			"CarModel": "ferrari_312t",
+			"Cuts": 3,
+			"DriverGuid": "76561198870993027",
+			"DriverName": "Jenkweed",
+			"LapTime": 316882,
+			"Restrictor": 0,
+			"Sectors": [
+				213567,
+				60227,
+				43088
+			],
+			"Timestamp": 1651004565,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 0,
+			"CarModel": "ferrari_312t",
+			"Cuts": 1,
+			"DriverGuid": "76561198798114170",
+			"DriverName": "nzo",
+			"LapTime": 176865,
+			"Restrictor": 0,
+			"Sectors": [
+				76524,
+				58338,
+				42003
+			],
+			"Timestamp": 1651009865,
+			"Tyre": "S",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 0,
+			"CarModel": "ferrari_312t",
+			"Cuts": 1,
+			"DriverGuid": "76561198798114170",
+			"DriverName": "nzo",
+			"LapTime": 136034,
+			"Restrictor": 0,
+			"Sectors": [
+				41975,
+				49960,
+				44099
+			],
+			"Timestamp": 1651010001,
+			"Tyre": "S",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 0,
+			"CarModel": "ferrari_312t",
+			"Cuts": 2,
+			"DriverGuid": "76561198798114170",
+			"DriverName": "nzo",
+			"LapTime": 232256,
+			"Restrictor": 0,
+			"Sectors": [
+				140051,
+				50153,
+				42052
+			],
+			"Timestamp": 1651010233,
+			"Tyre": "S",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 0,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561198798114170",
+			"DriverName": "nzo",
+			"LapTime": 134993,
+			"Restrictor": 0,
+			"Sectors": [
+				43598,
+				49428,
+				41967
+			],
+			"Timestamp": 1651010368,
+			"Tyre": "S",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 0,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561198798114170",
+			"DriverName": "nzo",
+			"LapTime": 132591,
+			"Restrictor": 0,
+			"Sectors": [
+				41033,
+				49433,
+				42125
+			],
+			"Timestamp": 1651010501,
+			"Tyre": "S",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 0,
+			"CarModel": "ferrari_312t",
+			"Cuts": 2,
+			"DriverGuid": "76561198798114170",
+			"DriverName": "nzo",
+			"LapTime": 249763,
+			"Restrictor": 0,
+			"Sectors": [
+				161090,
+				47849,
+				40824
+			],
+			"Timestamp": 1651010750,
+			"Tyre": "S",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 0,
+			"CarModel": "ferrari_312t",
+			"Cuts": 5,
+			"DriverGuid": "76561198798114170",
+			"DriverName": "nzo",
+			"LapTime": 214484,
+			"Restrictor": 0,
+			"Sectors": [
+				103474,
+				66766,
+				44244
+			],
+			"Timestamp": 1651010965,
+			"Tyre": "S",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 0,
+			"CarModel": "ferrari_312t",
+			"Cuts": 1,
+			"DriverGuid": "76561198798114170",
+			"DriverName": "nzo",
+			"LapTime": 192476,
+			"Restrictor": 0,
+			"Sectors": [
+				101541,
+				48861,
+				42074
+			],
+			"Timestamp": 1651011157,
+			"Tyre": "S",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 0,
+			"CarModel": "ferrari_312t",
+			"Cuts": 1,
+			"DriverGuid": "76561198798114170",
+			"DriverName": "nzo",
+			"LapTime": 133176,
+			"Restrictor": 0,
+			"Sectors": [
+				42708,
+				49085,
+				41383
+			],
+			"Timestamp": 1651011291,
+			"Tyre": "S",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 0,
+			"CarModel": "ferrari_312t",
+			"Cuts": 2,
+			"DriverGuid": "76561198798114170",
+			"DriverName": "nzo",
+			"LapTime": 158494,
+			"Restrictor": 0,
+			"Sectors": [
+				64079,
+				50981,
+				43434
+			],
+			"Timestamp": 1651011449,
+			"Tyre": "S",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 0,
+			"CarModel": "ferrari_312t",
+			"Cuts": 1,
+			"DriverGuid": "76561198798114170",
+			"DriverName": "nzo",
+			"LapTime": 241179,
+			"Restrictor": 0,
+			"Sectors": [
+				149180,
+				49878,
+				42121
+			],
+			"Timestamp": 1651011690,
+			"Tyre": "S",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 0,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561198798114170",
+			"DriverName": "nzo",
+			"LapTime": 162645,
+			"Restrictor": 0,
+			"Sectors": [
+				69575,
+				50914,
+				42156
+			],
+			"Timestamp": 1651012016,
+			"Tyre": "S",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 0,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561198798114170",
+			"DriverName": "nzo",
+			"LapTime": 132192,
+			"Restrictor": 0,
+			"Sectors": [
+				40931,
+				49528,
+				41733
+			],
+			"Timestamp": 1651012148,
+			"Tyre": "S",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 0,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561198798114170",
+			"DriverName": "nzo",
+			"LapTime": 130761,
+			"Restrictor": 0,
+			"Sectors": [
+				41418,
+				48176,
+				41167
+			],
+			"Timestamp": 1651012279,
+			"Tyre": "S",
+			"ContributedToFastestLap": true
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 0,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561198798114170",
+			"DriverName": "nzo",
+			"LapTime": 131454,
+			"Restrictor": 0,
+			"Sectors": [
+				40076,
+				48195,
+				43183
+			],
+			"Timestamp": 1651012411,
+			"Tyre": "S",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 5,
+			"CarModel": "ferrari_312t",
+			"Cuts": 2,
+			"DriverGuid": "76561198818062492",
+			"DriverName": "LarsT",
+			"LapTime": 373911,
+			"Restrictor": 0,
+			"Sectors": [
+				266842,
+				64417,
+				42652
+			],
+			"Timestamp": 1651014877,
+			"Tyre": "S",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 5,
+			"CarModel": "ferrari_312t",
+			"Cuts": 1,
+			"DriverGuid": "76561198818062492",
+			"DriverName": "LarsT",
+			"LapTime": 127323,
+			"Restrictor": 0,
+			"Sectors": [
+				40081,
+				46278,
+				40964
+			],
+			"Timestamp": 1651015005,
+			"Tyre": "S",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 8,
+			"CarModel": "ferrari_312t",
+			"Cuts": 2,
+			"DriverGuid": "76561199073630504",
+			"DriverName": "Cavallino",
+			"LapTime": 169142,
+			"Restrictor": 0,
+			"Sectors": [
+				65345,
+				55638,
+				48159
+			],
+			"Timestamp": 1651020425,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 8,
+			"CarModel": "ferrari_312t",
+			"Cuts": 4,
+			"DriverGuid": "76561199073630504",
+			"DriverName": "Cavallino",
+			"LapTime": 153254,
+			"Restrictor": 0,
+			"Sectors": [
+				46087,
+				58991,
+				48176
+			],
+			"Timestamp": 1651020578,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 8,
+			"CarModel": "ferrari_312t",
+			"Cuts": 2,
+			"DriverGuid": "76561199073630504",
+			"DriverName": "Cavallino",
+			"LapTime": 152485,
+			"Restrictor": 0,
+			"Sectors": [
+				48449,
+				62226,
+				41810
+			],
+			"Timestamp": 1651020731,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 8,
+			"CarModel": "ferrari_312t",
+			"Cuts": 4,
+			"DriverGuid": "76561199073630504",
+			"DriverName": "Cavallino",
+			"LapTime": 173449,
+			"Restrictor": 0,
+			"Sectors": [
+				68064,
+				62459,
+				42926
+			],
+			"Timestamp": 1651020904,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 8,
+			"CarModel": "ferrari_312t",
+			"Cuts": 3,
+			"DriverGuid": "76561199073630504",
+			"DriverName": "Cavallino",
+			"LapTime": 143704,
+			"Restrictor": 0,
+			"Sectors": [
+				45285,
+				54692,
+				43727
+			],
+			"Timestamp": 1651021048,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 8,
+			"CarModel": "ferrari_312t",
+			"Cuts": 2,
+			"DriverGuid": "76561199073630504",
+			"DriverName": "Cavallino",
+			"LapTime": 140073,
+			"Restrictor": 0,
+			"Sectors": [
+				43161,
+				54512,
+				42400
+			],
+			"Timestamp": 1651021188,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 8,
+			"CarModel": "ferrari_312t",
+			"Cuts": 1,
+			"DriverGuid": "76561199073630504",
+			"DriverName": "Cavallino",
+			"LapTime": 145872,
+			"Restrictor": 0,
+			"Sectors": [
+				39869,
+				53847,
+				52156
+			],
+			"Timestamp": 1651021334,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 8,
+			"CarModel": "ferrari_312t",
+			"Cuts": 1,
+			"DriverGuid": "76561199073630504",
+			"DriverName": "Cavallino",
+			"LapTime": 323059,
+			"Restrictor": 0,
+			"Sectors": [
+				229562,
+				49496,
+				44001
+			],
+			"Timestamp": 1651021657,
+			"Tyre": "S",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 8,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561199073630504",
+			"DriverName": "Cavallino",
+			"LapTime": 132747,
+			"Restrictor": 0,
+			"Sectors": [
+				40213,
+				49369,
+				43165
+			],
+			"Timestamp": 1651021789,
+			"Tyre": "S",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 8,
+			"CarModel": "ferrari_312t",
+			"Cuts": 4,
+			"DriverGuid": "76561199073630504",
+			"DriverName": "Cavallino",
+			"LapTime": 153589,
+			"Restrictor": 0,
+			"Sectors": [
+				42741,
+				67662,
+				43186
+			],
+			"Timestamp": 1651021943,
+			"Tyre": "S",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 8,
+			"CarModel": "ferrari_312t",
+			"Cuts": 1,
+			"DriverGuid": "76561199073630504",
+			"DriverName": "Cavallino",
+			"LapTime": 137755,
+			"Restrictor": 0,
+			"Sectors": [
+				40141,
+				53883,
+				43731
+			],
+			"Timestamp": 1651022081,
+			"Tyre": "S",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 8,
+			"CarModel": "ferrari_312t",
+			"Cuts": 1,
+			"DriverGuid": "76561199073630504",
+			"DriverName": "Cavallino",
+			"LapTime": 264763,
+			"Restrictor": 0,
+			"Sectors": [
+				172279,
+				49320,
+				43164
+			],
+			"Timestamp": 1651022346,
+			"Tyre": "S",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 8,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561199073630504",
+			"DriverName": "Cavallino",
+			"LapTime": 130766,
+			"Restrictor": 0,
+			"Sectors": [
+				40676,
+				47862,
+				42228
+			],
+			"Timestamp": 1651022476,
+			"Tyre": "S",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 8,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561199073630504",
+			"DriverName": "Cavallino",
+			"LapTime": 130489,
+			"Restrictor": 0,
+			"Sectors": [
+				39976,
+				47830,
+				42683
+			],
+			"Timestamp": 1651022607,
+			"Tyre": "S",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 8,
+			"CarModel": "ferrari_312t",
+			"Cuts": 1,
+			"DriverGuid": "76561199073630504",
+			"DriverName": "Cavallino",
+			"LapTime": 131072,
+			"Restrictor": 0,
+			"Sectors": [
+				40694,
+				47831,
+				42547
+			],
+			"Timestamp": 1651022738,
+			"Tyre": "S",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 8,
+			"CarModel": "ferrari_312t",
+			"Cuts": 2,
+			"DriverGuid": "76561199073630504",
+			"DriverName": "Cavallino",
+			"LapTime": 264637,
+			"Restrictor": 0,
+			"Sectors": [
+				167203,
+				49918,
+				47516
+			],
+			"Timestamp": 1651023347,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 8,
+			"CarModel": "ferrari_312t",
+			"Cuts": 3,
+			"DriverGuid": "76561199073630504",
+			"DriverName": "Cavallino",
+			"LapTime": 142340,
+			"Restrictor": 0,
+			"Sectors": [
+				50379,
+				48555,
+				43406
+			],
+			"Timestamp": 1651023489,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 9,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561198034178233",
+			"DriverName": "Costo",
+			"LapTime": 212667,
+			"Restrictor": 0,
+			"Sectors": [
+				120259,
+				51187,
+				41221
+			],
+			"Timestamp": 1651023596,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 8,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561199073630504",
+			"DriverName": "Cavallino",
+			"LapTime": 131232,
+			"Restrictor": 0,
+			"Sectors": [
+				39854,
+				48438,
+				42940
+			],
+			"Timestamp": 1651023620,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 9,
+			"CarModel": "ferrari_312t",
+			"Cuts": 1,
+			"DriverGuid": "76561198034178233",
+			"DriverName": "Costo",
+			"LapTime": 132120,
+			"Restrictor": 0,
+			"Sectors": [
+				39275,
+				51831,
+				41014
+			],
+			"Timestamp": 1651023728,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 8,
+			"CarModel": "ferrari_312t",
+			"Cuts": 2,
+			"DriverGuid": "76561199073630504",
+			"DriverName": "Cavallino",
+			"LapTime": 214298,
+			"Restrictor": 0,
+			"Sectors": [
+				39482,
+				131689,
+				43127
+			],
+			"Timestamp": 1651023834,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 9,
+			"CarModel": "ferrari_312t",
+			"Cuts": 1,
+			"DriverGuid": "76561198034178233",
+			"DriverName": "Costo",
+			"LapTime": 162661,
+			"Restrictor": 0,
+			"Sectors": [
+				71644,
+				50558,
+				40459
+			],
+			"Timestamp": 1651023890,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 9,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561198034178233",
+			"DriverName": "Costo",
+			"LapTime": 126230,
+			"Restrictor": 0,
+			"Sectors": [
+				38327,
+				47583,
+				40320
+			],
+			"Timestamp": 1651024017,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 8,
+			"CarModel": "ferrari_312t",
+			"Cuts": 1,
+			"DriverGuid": "76561199073630504",
+			"DriverName": "Cavallino",
+			"LapTime": 232580,
+			"Restrictor": 0,
+			"Sectors": [
+				140403,
+				48469,
+				43708
+			],
+			"Timestamp": 1651024067,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 8,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561199073630504",
+			"DriverName": "Cavallino",
+			"LapTime": 129891,
+			"Restrictor": 0,
+			"Sectors": [
+				40764,
+				47277,
+				41850
+			],
+			"Timestamp": 1651024197,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 9,
+			"CarModel": "ferrari_312t",
+			"Cuts": 1,
+			"DriverGuid": "76561198034178233",
+			"DriverName": "Costo",
+			"LapTime": 220152,
+			"Restrictor": 0,
+			"Sectors": [
+				132244,
+				47129,
+				40779
+			],
+			"Timestamp": 1651024237,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 8,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561199073630504",
+			"DriverName": "Cavallino",
+			"LapTime": 130859,
+			"Restrictor": 0,
+			"Sectors": [
+				40292,
+				49222,
+				41345
+			],
+			"Timestamp": 1651024328,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 9,
+			"CarModel": "ferrari_312t",
+			"Cuts": 2,
+			"DriverGuid": "76561198034178233",
+			"DriverName": "Costo",
+			"LapTime": 126026,
+			"Restrictor": 0,
+			"Sectors": [
+				37502,
+				46152,
+				42372
+			],
+			"Timestamp": 1651024363,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 8,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561199073630504",
+			"DriverName": "Cavallino",
+			"LapTime": 127960,
+			"Restrictor": 0,
+			"Sectors": [
+				39611,
+				46643,
+				41706
+			],
+			"Timestamp": 1651024456,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 9,
+			"CarModel": "ferrari_312t",
+			"Cuts": 1,
+			"DriverGuid": "76561198034178233",
+			"DriverName": "Costo",
+			"LapTime": 125444,
+			"Restrictor": 0,
+			"Sectors": [
+				37487,
+				47912,
+				40045
+			],
+			"Timestamp": 1651024488,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 8,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561199073630504",
+			"DriverName": "Cavallino",
+			"LapTime": 128057,
+			"Restrictor": 0,
+			"Sectors": [
+				39309,
+				46759,
+				41989
+			],
+			"Timestamp": 1651024584,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 9,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561198034178233",
+			"DriverName": "Costo",
+			"LapTime": 123707,
+			"Restrictor": 0,
+			"Sectors": [
+				37550,
+				46099,
+				40058
+			],
+			"Timestamp": 1651024612,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 9,
+			"CarModel": "ferrari_312t",
+			"Cuts": 2,
+			"DriverGuid": "76561198034178233",
+			"DriverName": "Costo",
+			"LapTime": 266879,
+			"Restrictor": 0,
+			"Sectors": [
+				178774,
+				46912,
+				41193
+			],
+			"Timestamp": 1651024879,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 9,
+			"CarModel": "ferrari_312t",
+			"Cuts": 1,
+			"DriverGuid": "76561198034178233",
+			"DriverName": "Costo",
+			"LapTime": 220948,
+			"Restrictor": 0,
+			"Sectors": [
+				133140,
+				46512,
+				41296
+			],
+			"Timestamp": 1651025100,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 9,
+			"CarModel": "ferrari_312t",
+			"Cuts": 1,
+			"DriverGuid": "76561198034178233",
+			"DriverName": "Costo",
+			"LapTime": 125448,
+			"Restrictor": 0,
+			"Sectors": [
+				37616,
+				45694,
+				42138
+			],
+			"Timestamp": 1651025225,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 9,
+			"CarModel": "ferrari_312t",
+			"Cuts": 1,
+			"DriverGuid": "76561198034178233",
+			"DriverName": "Costo",
+			"LapTime": 218677,
+			"Restrictor": 0,
+			"Sectors": [
+				131058,
+				47083,
+				40536
+			],
+			"Timestamp": 1651025444,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 9,
+			"CarModel": "ferrari_312t",
+			"Cuts": 3,
+			"DriverGuid": "76561198034178233",
+			"DriverName": "Costo",
+			"LapTime": 199328,
+			"Restrictor": 0,
+			"Sectors": [
+				111345,
+				46088,
+				41895
+			],
+			"Timestamp": 1651025643,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 9,
+			"CarModel": "ferrari_312t",
+			"Cuts": 1,
+			"DriverGuid": "76561198034178233",
+			"DriverName": "Costo",
+			"LapTime": 129751,
+			"Restrictor": 0,
+			"Sectors": [
+				37312,
+				45833,
+				46606
+			],
+			"Timestamp": 1651025773,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 9,
+			"CarModel": "ferrari_312t",
+			"Cuts": 2,
+			"DriverGuid": "76561198034178233",
+			"DriverName": "Costo",
+			"LapTime": 127963,
+			"Restrictor": 0,
+			"Sectors": [
+				37999,
+				49509,
+				40455
+			],
+			"Timestamp": 1651025901,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 8,
+			"CarModel": "ferrari_312t",
+			"Cuts": 3,
+			"DriverGuid": "76561199073630504",
+			"DriverName": "Cavallino",
+			"LapTime": 314141,
+			"Restrictor": 0,
+			"Sectors": [
+				207910,
+				64193,
+				42038
+			],
+			"Timestamp": 1651026021,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 9,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561198034178233",
+			"DriverName": "Costo",
+			"LapTime": 121929,
+			"Restrictor": 0,
+			"Sectors": [
+				36887,
+				45243,
+				39799
+			],
+			"Timestamp": 1651026023,
+			"Tyre": "H",
+			"ContributedToFastestLap": true
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 0,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561198798114170",
+			"DriverName": "nzo",
+			"LapTime": 191719,
+			"Restrictor": 0,
+			"Sectors": [
+				85191,
+				60273,
+				46255
+			],
+			"Timestamp": 1651026061,
+			"Tyre": "S",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 8,
+			"CarModel": "ferrari_312t",
+			"Cuts": 2,
+			"DriverGuid": "76561199073630504",
+			"DriverName": "Cavallino",
+			"LapTime": 133855,
+			"Restrictor": 0,
+			"Sectors": [
+				39494,
+				52048,
+				42313
+			],
+			"Timestamp": 1651026155,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 0,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561198798114170",
+			"DriverName": "nzo",
+			"LapTime": 138142,
+			"Restrictor": 0,
+			"Sectors": [
+				43534,
+				51215,
+				43393
+			],
+			"Timestamp": 1651026199,
+			"Tyre": "S",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 9,
+			"CarModel": "ferrari_312t",
+			"Cuts": 1,
+			"DriverGuid": "76561198034178233",
+			"DriverName": "Costo",
+			"LapTime": 226183,
+			"Restrictor": 0,
+			"Sectors": [
+				140548,
+				46228,
+				39407
+			],
+			"Timestamp": 1651026249,
+			"Tyre": "S",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 8,
+			"CarModel": "ferrari_312t",
+			"Cuts": 1,
+			"DriverGuid": "76561199073630504",
+			"DriverName": "Cavallino",
+			"LapTime": 131527,
+			"Restrictor": 0,
+			"Sectors": [
+				38998,
+				50305,
+				42224
+			],
+			"Timestamp": 1651026286,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 0,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561198798114170",
+			"DriverName": "nzo",
+			"LapTime": 137071,
+			"Restrictor": 0,
+			"Sectors": [
+				43853,
+				50166,
+				43052
+			],
+			"Timestamp": 1651026336,
+			"Tyre": "S",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 8,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561199073630504",
+			"DriverName": "Cavallino",
+			"LapTime": 128080,
+			"Restrictor": 0,
+			"Sectors": [
+				38967,
+				47250,
+				41863
+			],
+			"Timestamp": 1651026414,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 9,
+			"CarModel": "ferrari_312t",
+			"Cuts": 1,
+			"DriverGuid": "76561198034178233",
+			"DriverName": "Costo",
+			"LapTime": 220888,
+			"Restrictor": 0,
+			"Sectors": [
+				133664,
+				46913,
+				40311
+			],
+			"Timestamp": 1651026470,
+			"Tyre": "S",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 0,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561198798114170",
+			"DriverName": "nzo",
+			"LapTime": 136743,
+			"Restrictor": 0,
+			"Sectors": [
+				42850,
+				50152,
+				43741
+			],
+			"Timestamp": 1651026472,
+			"Tyre": "S",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 8,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561199073630504",
+			"DriverName": "Cavallino",
+			"LapTime": 128332,
+			"Restrictor": 0,
+			"Sectors": [
+				39097,
+				46944,
+				42291
+			],
+			"Timestamp": 1651026543,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 8,
+			"CarModel": "ferrari_312t",
+			"Cuts": 1,
+			"DriverGuid": "76561199073630504",
+			"DriverName": "Cavallino",
+			"LapTime": 144946,
+			"Restrictor": 0,
+			"Sectors": [
+				54572,
+				47169,
+				43205
+			],
+			"Timestamp": 1651026688,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 8,
+			"CarModel": "ferrari_312t",
+			"Cuts": 2,
+			"DriverGuid": "76561199073630504",
+			"DriverName": "Cavallino",
+			"LapTime": 264785,
+			"Restrictor": 0,
+			"Sectors": [
+				172297,
+				48920,
+				43568
+			],
+			"Timestamp": 1651026952,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 8,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561199073630504",
+			"DriverName": "Cavallino",
+			"LapTime": 137936,
+			"Restrictor": 0,
+			"Sectors": [
+				47082,
+				47564,
+				43290
+			],
+			"Timestamp": 1651027090,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 8,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561199073630504",
+			"DriverName": "Cavallino",
+			"LapTime": 127722,
+			"Restrictor": 0,
+			"Sectors": [
+				39094,
+				47183,
+				41445
+			],
+			"Timestamp": 1651027218,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 8,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561199073630504",
+			"DriverName": "Cavallino",
+			"LapTime": 127597,
+			"Restrictor": 0,
+			"Sectors": [
+				39122,
+				46810,
+				41665
+			],
+			"Timestamp": 1651027346,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 8,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561199073630504",
+			"DriverName": "Cavallino",
+			"LapTime": 128228,
+			"Restrictor": 0,
+			"Sectors": [
+				39052,
+				47205,
+				41971
+			],
+			"Timestamp": 1651027474,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 8,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561199073630504",
+			"DriverName": "Cavallino",
+			"LapTime": 128315,
+			"Restrictor": 0,
+			"Sectors": [
+				39252,
+				46930,
+				42133
+			],
+			"Timestamp": 1651027602,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 8,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561199073630504",
+			"DriverName": "Cavallino",
+			"LapTime": 128293,
+			"Restrictor": 0,
+			"Sectors": [
+				39522,
+				46395,
+				42376
+			],
+			"Timestamp": 1651027730,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 8,
+			"CarModel": "ferrari_312t",
+			"Cuts": 1,
+			"DriverGuid": "76561199073630504",
+			"DriverName": "Cavallino",
+			"LapTime": 133903,
+			"Restrictor": 0,
+			"Sectors": [
+				39633,
+				47627,
+				46643
+			],
+			"Timestamp": 1651027865,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 8,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561199073630504",
+			"DriverName": "Cavallino",
+			"LapTime": 129858,
+			"Restrictor": 0,
+			"Sectors": [
+				39677,
+				47286,
+				42895
+			],
+			"Timestamp": 1651027994,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 8,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561199073630504",
+			"DriverName": "Cavallino",
+			"LapTime": 127061,
+			"Restrictor": 0,
+			"Sectors": [
+				38920,
+				46080,
+				42061
+			],
+			"Timestamp": 1651028121,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 8,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561199073630504",
+			"DriverName": "Cavallino",
+			"LapTime": 127506,
+			"Restrictor": 0,
+			"Sectors": [
+				38892,
+				46700,
+				41914
+			],
+			"Timestamp": 1651028249,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 8,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561199073630504",
+			"DriverName": "Cavallino",
+			"LapTime": 127030,
+			"Restrictor": 0,
+			"Sectors": [
+				38717,
+				46251,
+				42062
+			],
+			"Timestamp": 1651028376,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 8,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561199073630504",
+			"DriverName": "Cavallino",
+			"LapTime": 127207,
+			"Restrictor": 0,
+			"Sectors": [
+				38921,
+				46800,
+				41486
+			],
+			"Timestamp": 1651028503,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 8,
+			"CarModel": "ferrari_312t",
+			"Cuts": 2,
+			"DriverGuid": "76561199073630504",
+			"DriverName": "Cavallino",
+			"LapTime": 271738,
+			"Restrictor": 0,
+			"Sectors": [
+				177819,
+				51961,
+				41958
+			],
+			"Timestamp": 1651029013,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 8,
+			"CarModel": "ferrari_312t",
+			"Cuts": 1,
+			"DriverGuid": "76561199073630504",
+			"DriverName": "Cavallino",
+			"LapTime": 181747,
+			"Restrictor": 0,
+			"Sectors": [
+				92786,
+				47795,
+				41166
+			],
+			"Timestamp": 1651029195,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 8,
+			"CarModel": "ferrari_312t",
+			"Cuts": 1,
+			"DriverGuid": "76561199073630504",
+			"DriverName": "Cavallino",
+			"LapTime": 133588,
+			"Restrictor": 0,
+			"Sectors": [
+				38183,
+				54599,
+				40806
+			],
+			"Timestamp": 1651029328,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 8,
+			"CarModel": "ferrari_312t",
+			"Cuts": 2,
+			"DriverGuid": "76561199073630504",
+			"DriverName": "Cavallino",
+			"LapTime": 183794,
+			"Restrictor": 0,
+			"Sectors": [
+				91072,
+				50090,
+				42632
+			],
+			"Timestamp": 1651029512,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 8,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561199073630504",
+			"DriverName": "Cavallino",
+			"LapTime": 124684,
+			"Restrictor": 0,
+			"Sectors": [
+				38028,
+				46291,
+				40365
+			],
+			"Timestamp": 1651029637,
+			"Tyre": "H",
+			"ContributedToFastestLap": true
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 8,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561199073630504",
+			"DriverName": "Cavallino",
+			"LapTime": 126775,
+			"Restrictor": 0,
+			"Sectors": [
+				39187,
+				46391,
+				41197
+			],
+			"Timestamp": 1651029764,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 10,
+			"CarModel": "ferrari_312t",
+			"Cuts": 5,
+			"DriverGuid": "76561198047562689",
+			"DriverName": "Ki-Gon",
+			"LapTime": 273317,
+			"Restrictor": 0,
+			"Sectors": [
+				165471,
+				53108,
+				54738
+			],
+			"Timestamp": 1651034759,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 11,
+			"CarModel": "ferrari_312t",
+			"Cuts": 4,
+			"DriverGuid": "76561198054625770",
+			"DriverName": "josedrives",
+			"LapTime": 233335,
+			"Restrictor": 0,
+			"Sectors": [
+				112573,
+				66492,
+				54270
+			],
+			"Timestamp": 1651049601,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 11,
+			"CarModel": "ferrari_312t",
+			"Cuts": 3,
+			"DriverGuid": "76561198054625770",
+			"DriverName": "josedrives",
+			"LapTime": 254615,
+			"Restrictor": 0,
+			"Sectors": [
+				162186,
+				50323,
+				42106
+			],
+			"Timestamp": 1651049855,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 11,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561198054625770",
+			"DriverName": "josedrives",
+			"LapTime": 141082,
+			"Restrictor": 0,
+			"Sectors": [
+				39265,
+				59904,
+				41913
+			],
+			"Timestamp": 1651049996,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 11,
+			"CarModel": "ferrari_312t",
+			"Cuts": 1,
+			"DriverGuid": "76561198054625770",
+			"DriverName": "josedrives",
+			"LapTime": 162257,
+			"Restrictor": 0,
+			"Sectors": [
+				72334,
+				48200,
+				41723
+			],
+			"Timestamp": 1651050158,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 11,
+			"CarModel": "ferrari_312t",
+			"Cuts": 1,
+			"DriverGuid": "76561198054625770",
+			"DriverName": "josedrives",
+			"LapTime": 284232,
+			"Restrictor": 0,
+			"Sectors": [
+				195501,
+				47542,
+				41189
+			],
+			"Timestamp": 1651050443,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 11,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561198054625770",
+			"DriverName": "josedrives",
+			"LapTime": 124951,
+			"Restrictor": 0,
+			"Sectors": [
+				38178,
+				45909,
+				40864
+			],
+			"Timestamp": 1651050568,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 11,
+			"CarModel": "ferrari_312t",
+			"Cuts": 3,
+			"DriverGuid": "76561198054625770",
+			"DriverName": "josedrives",
+			"LapTime": 188448,
+			"Restrictor": 0,
+			"Sectors": [
+				101255,
+				46144,
+				41049
+			],
+			"Timestamp": 1651050756,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 11,
+			"CarModel": "ferrari_312t",
+			"Cuts": 1,
+			"DriverGuid": "76561198054625770",
+			"DriverName": "josedrives",
+			"LapTime": 125212,
+			"Restrictor": 0,
+			"Sectors": [
+				37853,
+				46580,
+				40779
+			],
+			"Timestamp": 1651050881,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 11,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561198054625770",
+			"DriverName": "josedrives",
+			"LapTime": 123782,
+			"Restrictor": 0,
+			"Sectors": [
+				38003,
+				45532,
+				40247
+			],
+			"Timestamp": 1651051005,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 11,
+			"CarModel": "ferrari_312t",
+			"Cuts": 1,
+			"DriverGuid": "76561198054625770",
+			"DriverName": "josedrives",
+			"LapTime": 128626,
+			"Restrictor": 0,
+			"Sectors": [
+				43607,
+				45068,
+				39951
+			],
+			"Timestamp": 1651051134,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 11,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561198054625770",
+			"DriverName": "josedrives",
+			"LapTime": 122127,
+			"Restrictor": 0,
+			"Sectors": [
+				37373,
+				44965,
+				39789
+			],
+			"Timestamp": 1651051256,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 11,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561198054625770",
+			"DriverName": "josedrives",
+			"LapTime": 121491,
+			"Restrictor": 0,
+			"Sectors": [
+				37556,
+				44244,
+				39691
+			],
+			"Timestamp": 1651051377,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 11,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561198054625770",
+			"DriverName": "josedrives",
+			"LapTime": 121959,
+			"Restrictor": 0,
+			"Sectors": [
+				37260,
+				45027,
+				39672
+			],
+			"Timestamp": 1651051499,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 11,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561198054625770",
+			"DriverName": "josedrives",
+			"LapTime": 127921,
+			"Restrictor": 0,
+			"Sectors": [
+				37138,
+				51044,
+				39739
+			],
+			"Timestamp": 1651051627,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 11,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561198054625770",
+			"DriverName": "josedrives",
+			"LapTime": 122041,
+			"Restrictor": 0,
+			"Sectors": [
+				37545,
+				44725,
+				39771
+			],
+			"Timestamp": 1651051749,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 11,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561198054625770",
+			"DriverName": "josedrives",
+			"LapTime": 121596,
+			"Restrictor": 0,
+			"Sectors": [
+				37184,
+				44704,
+				39708
+			],
+			"Timestamp": 1651051871,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 11,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561198054625770",
+			"DriverName": "josedrives",
+			"LapTime": 121589,
+			"Restrictor": 0,
+			"Sectors": [
+				37683,
+				44266,
+				39640
+			],
+			"Timestamp": 1651051992,
+			"Tyre": "H",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 11,
+			"CarModel": "ferrari_312t",
+			"Cuts": 1,
+			"DriverGuid": "76561198054625770",
+			"DriverName": "josedrives",
+			"LapTime": 245009,
+			"Restrictor": 0,
+			"Sectors": [
+				160950,
+				44091,
+				39968
+			],
+			"Timestamp": 1651052237,
+			"Tyre": "S",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 11,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561198054625770",
+			"DriverName": "josedrives",
+			"LapTime": 120153,
+			"Restrictor": 0,
+			"Sectors": [
+				36749,
+				44101,
+				39303
+			],
+			"Timestamp": 1651052358,
+			"Tyre": "S",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 11,
+			"CarModel": "ferrari_312t",
+			"Cuts": 1,
+			"DriverGuid": "76561198054625770",
+			"DriverName": "josedrives",
+			"LapTime": 124694,
+			"Restrictor": 0,
+			"Sectors": [
+				41048,
+				44010,
+				39636
+			],
+			"Timestamp": 1651052482,
+			"Tyre": "S",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 11,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561198054625770",
+			"DriverName": "josedrives",
+			"LapTime": 154112,
+			"Restrictor": 0,
+			"Sectors": [
+				70052,
+				44146,
+				39914
+			],
+			"Timestamp": 1651053074,
+			"Tyre": "S",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 11,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561198054625770",
+			"DriverName": "josedrives",
+			"LapTime": 120656,
+			"Restrictor": 0,
+			"Sectors": [
+				37082,
+				44092,
+				39482
+			],
+			"Timestamp": 1651053194,
+			"Tyre": "S",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 11,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561198054625770",
+			"DriverName": "josedrives",
+			"LapTime": 130602,
+			"Restrictor": 0,
+			"Sectors": [
+				46177,
+				44447,
+				39978
+			],
+			"Timestamp": 1651053325,
+			"Tyre": "S",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 11,
+			"CarModel": "ferrari_312t",
+			"Cuts": 3,
+			"DriverGuid": "76561198054625770",
+			"DriverName": "josedrives",
+			"LapTime": 156176,
+			"Restrictor": 0,
+			"Sectors": [
+				53059,
+				58896,
+				44221
+			],
+			"Timestamp": 1651053481,
+			"Tyre": "S",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 11,
+			"CarModel": "ferrari_312t",
+			"Cuts": 0,
+			"DriverGuid": "76561198054625770",
+			"DriverName": "josedrives",
+			"LapTime": 119693,
+			"Restrictor": 0,
+			"Sectors": [
+				36605,
+				44001,
+				39087
+			],
+			"Timestamp": 1651053601,
+			"Tyre": "S",
+			"ContributedToFastestLap": true
+		}
+	],
+	"Result": [
+		{
+			"BallastKG": 0,
+			"BestLap": 115205,
+			"CarId": 2,
+			"CarModel": "ferrari_312t",
+			"DriverGuid": "76561198025181930",
+			"DriverName": "GoodSmile Racing",
+			"Restrictor": 0,
+			"TotalTime": 9828173,
+			"NumLaps": 2,
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"HasPenalty": false,
+			"PenaltyTime": 0,
+			"LapPenalty": 0,
+			"Disqualified": false
+		},
+		{
+			"BallastKG": 0,
+			"BestLap": 119094,
+			"CarId": 3,
+			"CarModel": "ferrari_312t",
+			"DriverGuid": "76561197971130836",
+			"DriverName": "Axeracing",
+			"Restrictor": 0,
+			"TotalTime": 16257875,
+			"NumLaps": 12,
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"HasPenalty": false,
+			"PenaltyTime": 0,
+			"LapPenalty": 0,
+			"Disqualified": false
+		},
+		{
+			"BallastKG": 0,
+			"BestLap": 119693,
+			"CarId": 11,
+			"CarModel": "ferrari_312t",
+			"DriverGuid": "76561198054625770",
+			"DriverName": "josedrives",
+			"Restrictor": 0,
+			"TotalTime": 76579855,
+			"NumLaps": 25,
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"HasPenalty": false,
+			"PenaltyTime": 0,
+			"LapPenalty": 0,
+			"Disqualified": false
+		},
+		{
+			"BallastKG": 0,
+			"BestLap": 120728,
+			"CarId": 1,
+			"CarModel": "ferrari_312t",
+			"DriverGuid": "76561198872987414",
+			"DriverName": "Merlijn",
+			"Restrictor": 0,
+			"TotalTime": 7465880,
+			"NumLaps": 7,
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"HasPenalty": false,
+			"PenaltyTime": 0,
+			"LapPenalty": 0,
+			"Disqualified": false
+		},
+		{
+			"BallastKG": 0,
+			"BestLap": 121929,
+			"CarId": 9,
+			"CarModel": "ferrari_312t",
+			"DriverGuid": "76561198034178233",
+			"DriverName": "Costo",
+			"Restrictor": 0,
+			"TotalTime": 49449147,
+			"NumLaps": 18,
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"HasPenalty": false,
+			"PenaltyTime": 0,
+			"LapPenalty": 0,
+			"Disqualified": false
+		},
+		{
+			"BallastKG": 0,
+			"BestLap": 124684,
+			"CarId": 8,
+			"CarModel": "ferrari_312t",
+			"DriverGuid": "76561199073630504",
+			"DriverName": "Cavallino",
+			"Restrictor": 0,
+			"TotalTime": 52742760,
+			"NumLaps": 49,
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"HasPenalty": false,
+			"PenaltyTime": 0,
+			"LapPenalty": 0,
+			"Disqualified": false
+		},
+		{
+			"BallastKG": 0,
+			"BestLap": 130761,
+			"CarId": 0,
+			"CarModel": "ferrari_312t",
+			"DriverGuid": "76561198798114170",
+			"DriverName": "nzo",
+			"Restrictor": 0,
+			"TotalTime": 49451625,
+			"NumLaps": 19,
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"HasPenalty": false,
+			"PenaltyTime": 0,
+			"LapPenalty": 0,
+			"Disqualified": false
+		},
+		{
+			"BallastKG": 0,
+			"BestLap": 999999999,
+			"CarId": 4,
+			"CarModel": "ferrari_312t",
+			"DriverGuid": "76561198870993027",
+			"DriverName": "Jenkweed",
+			"Restrictor": 0,
+			"TotalTime": 27544181,
+			"NumLaps": 1,
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"HasPenalty": false,
+			"PenaltyTime": 0,
+			"LapPenalty": 0,
+			"Disqualified": false
+		},
+		{
+			"BallastKG": 0,
+			"BestLap": 999999999,
+			"CarId": 6,
+			"CarModel": "ferrari_312t",
+			"DriverGuid": "76561198151791542",
+			"DriverName": "Sgeti",
+			"Restrictor": 0,
+			"TotalTime": 0,
+			"NumLaps": 0,
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"HasPenalty": false,
+			"PenaltyTime": 0,
+			"LapPenalty": 0,
+			"Disqualified": false
+		},
+		{
+			"BallastKG": 0,
+			"BestLap": 999999999,
+			"CarId": 7,
+			"CarModel": "ferrari_312t",
+			"DriverGuid": "76561198860527133",
+			"DriverName": "Benjamin Nash",
+			"Restrictor": 0,
+			"TotalTime": 0,
+			"NumLaps": 0,
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"HasPenalty": false,
+			"PenaltyTime": 0,
+			"LapPenalty": 0,
+			"Disqualified": false
+		},
+		{
+			"BallastKG": 0,
+			"BestLap": 999999999,
+			"CarId": 10,
+			"CarModel": "ferrari_312t",
+			"DriverGuid": "76561198047562689",
+			"DriverName": "Ki-Gon",
+			"Restrictor": 0,
+			"TotalTime": 57738610,
+			"NumLaps": 1,
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"HasPenalty": false,
+			"PenaltyTime": 0,
+			"LapPenalty": 0,
+			"Disqualified": false
+		},
+		{
+			"BallastKG": 0,
+			"BestLap": 999999999,
+			"CarId": 5,
+			"CarModel": "ferrari_312t",
+			"DriverGuid": "76561198818062492",
+			"DriverName": "LarsT",
+			"Restrictor": 0,
+			"TotalTime": 37983865,
+			"NumLaps": 2,
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"HasPenalty": false,
+			"PenaltyTime": 0,
+			"LapPenalty": 0,
+			"Disqualified": false
+		}
+	],
+	"Penalties": null,
+	"TrackConfig": "",
+	"TrackName": "pinwheel",
+	"Type": "PRACTICE",
+	"Date": "2022-04-27T14:45:12.289984317+02:00",
+	"SessionFile": "2022_4_27_14_45_PRACTICE.json",
+	"SessionConfig": {
+		"session_type": 1,
+		"name": "Practice",
+		"time": 1440,
+		"laps": 0,
+		"is_open": 1,
+		"wait_time": 0,
+		"visibility_mode": 0,
+		"qualifying_type": 0,
+		"qualifying_number_of_laps_to_average": 0,
+		"count_out_lap": false,
+		"disable_push_to_pass": false
+	}
+}

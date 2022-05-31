@@ -18,20 +18,6 @@ async function leerArchivo(cual) {
         method: "POST"
     });
 
-    // switch(fName){
-    //     case "php/nfs.php":
-    //         const json = await response.json();
-    //         contenidoVariable.innerHTML = json["html"];
-    //         tablapractica();
-    //         let myScript = document.createElement("script");
-    //         // myScript.setAttribute("id", "myScript");
-    //         myScript.innerHTML = json["js"];
-    //         document.body.appendChild(myScript);
-    //         // console.log(json["js"]);
-    //         break;
-    //         default:
-    // }
-
     switch (fName) {
         case "php/nfs.php":
             // equivalente a file_get_contents para javascript ------ 
@@ -59,11 +45,6 @@ function file_get_contents(filename) {
     });
 }
 
-// function get(fName) {
-//     fetch(fName).then((resp) => resp.text()).then(function(data) {
-//         temp = data;
-//     });
-// }
 
 async function getTextFromStream(readableStream) {
     const reader = readableStream.getReader();
@@ -88,63 +69,15 @@ function mostrarSeleccionado() {
     contenidoVariable.innerHTML = "No hay un archivo seleccionado.";
 };
 
-async function get_jsonp() {
-    let formData = new FormData();
-    formData.append('file', inputp.files[0]);
-    let response = await fetch(
-        'php/bd/cargajson.php', {
-        method: 'POST',
-        body: formData
-    });
-    console.log(response.statusText);
-}
-// async function get_jsonq() {
+// async function get_jsonp() {
 //     let formData = new FormData();
-//     formData.append('file', inputq.files[0]);
+//     formData.append('file', inputp.files[0]);
 //     let response = await fetch(
 //         'php/bd/cargajson.php', {
 //         method: 'POST',
 //         body: formData
 //     });
 //     console.log(response.statusText);
-// }
-// pasar valores
-
-// function get_jsonc() {
-
-//     // let formData = new FormData();
-//     // formData.append('file', inputc.files[0]);
-//     // // let response = await fetch(
-//     // //     'php/bd/cargajson.php', {
-//     // //         method: 'POST',
-//     // //         body: formData
-//     // //     });
-//     // console.log(formData);
-
-//     let fileReader = new FileReader();
-//     fileReader.readAsText(document.getElementById("inputc").files[0]);
-//     let json = "";
-//     fileReader.onload = function () {
-//       json = fileReader.result;
-//       console.log(json);
-//     };
-
-
-
-
-//     $('#tablacarrera').DataTable({
-//         "processing": true,
-//         "serverSide": false,
-//         "ajax": {
-//             "url": "php/nfs/nfsprocc.php",
-//             "type": "POST",
-//             "data": {
-//                 "data": json
-//             }
-//         }
-//     });
-
-
 // }
 
 function readFileAsync(file) {
@@ -228,34 +161,72 @@ async function get_jsonq() {
 
 async function save_weekend() {
     try {
-        let file = document.getElementById('inputq').files[0];
-        let json = await readFileAsync(file);
-        var formJson = new FormData();
-        formJson.append("json", json);
-        fetch("php/nfs/nfstablaq.php",
-            {
-                method: "POST",
-                body: formJson
-            })
-            .then(response => response.text())
-            .then((formJson) => {
-                let datos = JSON.parse(formJson);
-                table = $('#tablaclasificacion').DataTable();
-                table.destroy();
-                $('#tablaclasificacion').DataTable({
-                    data: datos,
-                    columns: [
-                        { data: 'Posicion' },
-                        { data: 'Piloto' },
-                        { data: 'Diferencia' },
-                        { data: 'MVuelta' },
-                        { data: 'Sector1' },
-                        { data: 'Sector2' },
-                        { data: 'Sector3' }
-                    ]
-                });
-            })
+      let formData = new FormData();
+  
+      // FALTA CONTROLAR TIPO DE FIN DE SEMANA. Sólo va torneo existente por ahora.
+      let torneo = seleccionaTorneo.value;
+      console.log(torneo);
+      if (torneo != "-- Seleccionar Torneo --") {
+        formData.append("torneo", torneo);
+      } else {
+        alert("Seleccione un torneo existente");
+      }
+  
+      if (document.getElementById('inputq').files[0]) {
+        let fileq = document.getElementById('inputq').files[0];
+        let dateq = fileq.name;
+        dateq = dateq.substring(0, dateq.length - 5);
+        if (dateq.slice(-4) != "LIFY") {
+          alert("El archivo de clasificación no corresponde");
+          return;
+        }
+        let jsonq = await readFileAsync(fileq);
+        formData.append("jsonq", jsonq);
+        formData.append("dateq", dateq);
+      }
+      if (document.getElementById('inputc').files[0]) {
+        let filec = document.getElementById('inputc').files[0];
+        let datec = filec.name;
+        datec = datec.substring(0, datec.length - 5);
+        if (datec.slice(-4) != "RACE") {
+          alert("El archivo de carrera no corresponde");
+          return;
+        }
+        let jsonc = await readFileAsync(filec);
+        formData.append("jsonc", jsonc);
+        formData.append("datec", datec);
+      }
+  
+      if (!(document.getElementById('inputq').files[0]) && !(document.getElementById('inputc').files[0])) {
+        alert("Seleccione sesiones para guardar");
+        return;
+      }
+  
+      fetch("guardafinde.php",
+        {
+          method: "POST",
+          body: formData
+        })
+        .then(response => response.text())
+        .then((formData) => console.log(formData))
     } catch (err) {
-        console.log(err);
+      console.log(err);
     }
-}
+  }
+  // VER FUNCION -- caso de input nuevoTorneo en blanco hay que controlarlo
+  async function check_tournament() {
+    let existente = document.getElementById('torneoNuevo');
+    let formData = new FormData();
+    formData.append("existente", existente.value);
+    let response = await fetch("php/nfs/torneonuevo.php",
+      {
+        method: "POST",
+        body: formData
+      })
+      .then(response => response.text())
+      .then((formData) => {
+        let datos = formData;
+        document.getElementById('informaExistente').innerHTML = datos;
+      });
+  
+  }

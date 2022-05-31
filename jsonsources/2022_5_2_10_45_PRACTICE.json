@@ -1,0 +1,1238 @@
+{
+	"Version": 5,
+	"Cars": [
+		{
+			"BallastKG": 0,
+			"CarId": 0,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "vac_tv_van_2",
+			"Restrictor": 0,
+			"Skin": "vactv1",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 1,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "vac_tv_van_2",
+			"Restrictor": 0,
+			"Skin": "vactv2",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 2,
+			"Driver": {
+				"Guid": "76561198417841335",
+				"GuidsList": [
+					"76561198417841335"
+				],
+				"Name": "TV Crew",
+				"Nation": "DNK",
+				"Team": ""
+			},
+			"Model": "acl80_bmw_m1_procar",
+			"Restrictor": 0,
+			"Skin": "90",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 32,
+			"MaxPing": 35
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 3,
+			"Driver": {
+				"Guid": "76561198159251100",
+				"GuidsList": [
+					"76561198159251100"
+				],
+				"Name": "Felix789",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "acl80_bmw_m1_procar",
+			"Restrictor": 0,
+			"Skin": "80_Lafosse",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 30,
+			"MaxPing": 35
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 4,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "acl80_bmw_m1_procar",
+			"Restrictor": 0,
+			"Skin": "31",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 5,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "acl80_bmw_m1_procar",
+			"Restrictor": 0,
+			"Skin": "27_Jones",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 6,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "acl80_bmw_m1_procar",
+			"Restrictor": 0,
+			"Skin": "05",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 7,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "acl80_bmw_m1_procar",
+			"Restrictor": 0,
+			"Skin": "88_Watson",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 8,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "acl80_bmw_m1_procar",
+			"Restrictor": 0,
+			"Skin": "1_Andretti",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 9,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "acl80_bmw_m1_procar",
+			"Restrictor": 0,
+			"Skin": "28_Reutemann",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 10,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "acl80_bmw_m1_procar",
+			"Restrictor": 0,
+			"Skin": "44_Hoettinger",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 11,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "acl80_bmw_m1_procar",
+			"Restrictor": 0,
+			"Skin": "5_Piquet",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 12,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "acl80_bmw_m1_procar",
+			"Restrictor": 0,
+			"Skin": "20_Hunt",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 13,
+			"Driver": {
+				"Guid": "76561198417841335",
+				"GuidsList": [
+					"76561198417841335"
+				],
+				"Name": "TV Crew",
+				"Nation": "DNK",
+				"Team": ""
+			},
+			"Model": "bmw_m1_procar_80",
+			"Restrictor": 0,
+			"Skin": "008_Prost",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 33,
+			"MaxPing": 35
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 14,
+			"Driver": {
+				"Guid": "76561198034178233",
+				"GuidsList": [
+					"76561198034178233"
+				],
+				"Name": "Costo",
+				"Nation": "CAN",
+				"Team": ""
+			},
+			"Model": "bmw_m1_procar_80",
+			"Restrictor": 0,
+			"Skin": "031_Jaegermeister",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 138,
+			"MaxPing": 141
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 15,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "bmw_m1_procar_80",
+			"Restrictor": 0,
+			"Skin": "028_Reutemann",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 16,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "bmw_m1_procar_80",
+			"Restrictor": 0,
+			"Skin": "044_JimBeam",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 17,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "bmw_m1_procar_80",
+			"Restrictor": 0,
+			"Skin": "008_Prost",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 18,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "bmw_m1_procar_80",
+			"Restrictor": 0,
+			"Skin": "101_Winther",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 19,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "bmw_m1_procar_80",
+			"Restrictor": 0,
+			"Skin": "014_Fittipaldi",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 20,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "bmw_m1_procar_80",
+			"Restrictor": 0,
+			"Skin": "080_BASF",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 21,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "bmw_m1_procar_80",
+			"Restrictor": 0,
+			"Skin": "050_Quester",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 22,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "bmw_m1_procar_80",
+			"Restrictor": 0,
+			"Skin": "099_Lammers",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 23,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "bmw_m1_procar_80",
+			"Restrictor": 0,
+			"Skin": "027_Jones",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 24,
+			"Driver": {
+				"Guid": "76561198417841335",
+				"GuidsList": [
+					"76561198417841335"
+				],
+				"Name": "TV Crew",
+				"Nation": "DNK",
+				"Team": ""
+			},
+			"Model": "actk_nissan_skyline_super_silhouette",
+			"Restrictor": 0,
+			"Skin": "Green Red",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 33,
+			"MaxPing": 34
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 25,
+			"Driver": {
+				"Guid": "76561198159251100",
+				"GuidsList": [
+					"76561198159251100"
+				],
+				"Name": "Felix789",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "actk_nissan_skyline_super_silhouette",
+			"Restrictor": 0,
+			"Skin": "grey green",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 32,
+			"MaxPing": 34
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 26,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "actk_nissan_skyline_super_silhouette",
+			"Restrictor": 0,
+			"Skin": "Purple Black",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 27,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "actk_nissan_skyline_super_silhouette",
+			"Restrictor": 0,
+			"Skin": "Yellow Green",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 28,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "actk_nissan_skyline_super_silhouette",
+			"Restrictor": 0,
+			"Skin": "white red",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 29,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "actk_nissan_skyline_super_silhouette",
+			"Restrictor": 0,
+			"Skin": "white red",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 30,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "actk_nissan_skyline_super_silhouette",
+			"Restrictor": 0,
+			"Skin": "Blue White",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 31,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "actk_nissan_skyline_super_silhouette",
+			"Restrictor": 0,
+			"Skin": "Blue White",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 32,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "actk_nissan_skyline_super_silhouette",
+			"Restrictor": 0,
+			"Skin": "Blue White",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 33,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "actk_nissan_skyline_super_silhouette",
+			"Restrictor": 0,
+			"Skin": "Purple Black",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 34,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "actk_nissan_skyline_super_silhouette",
+			"Restrictor": 0,
+			"Skin": "white red",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 35,
+			"Driver": {
+				"Guid": "",
+				"GuidsList": [
+					""
+				],
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"Model": "vac_tv_van_2",
+			"Restrictor": 0,
+			"Skin": "02",
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"MinPing": 0,
+			"MaxPing": 0
+		}
+	],
+	"Events": [
+		{
+			"CarId": 24,
+			"Driver": {
+				"Guid": "76561198417841335",
+				"GuidsList": [
+					"76561198417841335"
+				],
+				"Name": "TV Crew",
+				"Nation": "DNK",
+				"Team": ""
+			},
+			"ImpactSpeed": 43.88422,
+			"OtherCarId": 0,
+			"OtherDriver": {
+				"Guid": "",
+				"GuidsList": null,
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"RelPosition": {
+				"X": -0.95296365,
+				"Y": -0.21839859,
+				"Z": 2.3617835
+			},
+			"Type": "COLLISION_WITH_ENV",
+			"WorldPosition": {
+				"X": -265.85226,
+				"Y": 38.806095,
+				"Z": -554.6068
+			},
+			"Timestamp": 1651439472,
+			"AfterSessionEnd": false
+		},
+		{
+			"CarId": 24,
+			"Driver": {
+				"Guid": "76561198417841335",
+				"GuidsList": [
+					"76561198417841335"
+				],
+				"Name": "TV Crew",
+				"Nation": "DNK",
+				"Team": ""
+			},
+			"ImpactSpeed": 54.347153,
+			"OtherCarId": 0,
+			"OtherDriver": {
+				"Guid": "",
+				"GuidsList": null,
+				"Name": "",
+				"Nation": "",
+				"Team": ""
+			},
+			"RelPosition": {
+				"X": -0.95296085,
+				"Y": -0.2183975,
+				"Z": 2.361748
+			},
+			"Type": "COLLISION_WITH_ENV",
+			"WorldPosition": {
+				"X": -169.98985,
+				"Y": 57.25632,
+				"Z": -853.6942
+			},
+			"Timestamp": 1651439762,
+			"AfterSessionEnd": false
+		}
+	],
+	"Laps": [
+		{
+			"BallastKG": 0,
+			"CarId": 2,
+			"CarModel": "acl80_bmw_m1_procar",
+			"Cuts": 1,
+			"DriverGuid": "76561198417841335",
+			"DriverName": "TV Crew",
+			"LapTime": 205039,
+			"Restrictor": 0,
+			"Sectors": [
+				98375,
+				55765,
+				50899
+			],
+			"Timestamp": 1651438386,
+			"Tyre": "V70",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 2,
+			"CarModel": "acl80_bmw_m1_procar",
+			"Cuts": 0,
+			"DriverGuid": "76561198417841335",
+			"DriverName": "TV Crew",
+			"LapTime": 146899,
+			"Restrictor": 0,
+			"Sectors": [
+				43925,
+				51723,
+				51251
+			],
+			"Timestamp": 1651438533,
+			"Tyre": "V70",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 2,
+			"CarModel": "acl80_bmw_m1_procar",
+			"Cuts": 0,
+			"DriverGuid": "76561198417841335",
+			"DriverName": "TV Crew",
+			"LapTime": 143565,
+			"Restrictor": 0,
+			"Sectors": [
+				45392,
+				50473,
+				47700
+			],
+			"Timestamp": 1651438676,
+			"Tyre": "V70",
+			"ContributedToFastestLap": true
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 13,
+			"CarModel": "bmw_m1_procar_80",
+			"Cuts": 0,
+			"DriverGuid": "76561198417841335",
+			"DriverName": "TV Crew",
+			"LapTime": 200246,
+			"Restrictor": 0,
+			"Sectors": [
+				95833,
+				55895,
+				48518
+			],
+			"Timestamp": 1651438923,
+			"Tyre": "V79",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 13,
+			"CarModel": "bmw_m1_procar_80",
+			"Cuts": 0,
+			"DriverGuid": "76561198417841335",
+			"DriverName": "TV Crew",
+			"LapTime": 136119,
+			"Restrictor": 0,
+			"Sectors": [
+				42937,
+				48217,
+				44965
+			],
+			"Timestamp": 1651439059,
+			"Tyre": "V79",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 13,
+			"CarModel": "bmw_m1_procar_80",
+			"Cuts": 0,
+			"DriverGuid": "76561198417841335",
+			"DriverName": "TV Crew",
+			"LapTime": 135143,
+			"Restrictor": 0,
+			"Sectors": [
+				42133,
+				47885,
+				45125
+			],
+			"Timestamp": 1651439194,
+			"Tyre": "V79",
+			"ContributedToFastestLap": true
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 24,
+			"CarModel": "actk_nissan_skyline_super_silhouette",
+			"Cuts": 2,
+			"DriverGuid": "76561198417841335",
+			"DriverName": "TV Crew",
+			"LapTime": 191593,
+			"Restrictor": 0,
+			"Sectors": [
+				86685,
+				48572,
+				56336
+			],
+			"Timestamp": 1651439498,
+			"Tyre": "V83",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 24,
+			"CarModel": "actk_nissan_skyline_super_silhouette",
+			"Cuts": 0,
+			"DriverGuid": "76561198417841335",
+			"DriverName": "TV Crew",
+			"LapTime": 137341,
+			"Restrictor": 0,
+			"Sectors": [
+				43066,
+				48150,
+				46125
+			],
+			"Timestamp": 1651439635,
+			"Tyre": "V83",
+			"ContributedToFastestLap": true
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 25,
+			"CarModel": "actk_nissan_skyline_super_silhouette",
+			"Cuts": 0,
+			"DriverGuid": "76561198159251100",
+			"DriverName": "Felix789",
+			"LapTime": 170002,
+			"Restrictor": 0,
+			"Sectors": [
+				79493,
+				46548,
+				43961
+			],
+			"Timestamp": 1651441565,
+			"Tyre": "V83",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 25,
+			"CarModel": "actk_nissan_skyline_super_silhouette",
+			"Cuts": 0,
+			"DriverGuid": "76561198159251100",
+			"DriverName": "Felix789",
+			"LapTime": 129389,
+			"Restrictor": 0,
+			"Sectors": [
+				40690,
+				45158,
+				43541
+			],
+			"Timestamp": 1651441695,
+			"Tyre": "V83",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 25,
+			"CarModel": "actk_nissan_skyline_super_silhouette",
+			"Cuts": 0,
+			"DriverGuid": "76561198159251100",
+			"DriverName": "Felix789",
+			"LapTime": 128306,
+			"Restrictor": 0,
+			"Sectors": [
+				39886,
+				44807,
+				43613
+			],
+			"Timestamp": 1651441823,
+			"Tyre": "V83",
+			"ContributedToFastestLap": true
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 3,
+			"CarModel": "acl80_bmw_m1_procar",
+			"Cuts": 0,
+			"DriverGuid": "76561198159251100",
+			"DriverName": "Felix789",
+			"LapTime": 158892,
+			"Restrictor": 0,
+			"Sectors": [
+				65795,
+				47507,
+				45590
+			],
+			"Timestamp": 1651442273,
+			"Tyre": "V70",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 3,
+			"CarModel": "acl80_bmw_m1_procar",
+			"Cuts": 0,
+			"DriverGuid": "76561198159251100",
+			"DriverName": "Felix789",
+			"LapTime": 132290,
+			"Restrictor": 0,
+			"Sectors": [
+				41152,
+				46687,
+				44451
+			],
+			"Timestamp": 1651442405,
+			"Tyre": "V70",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 3,
+			"CarModel": "acl80_bmw_m1_procar",
+			"Cuts": 0,
+			"DriverGuid": "76561198159251100",
+			"DriverName": "Felix789",
+			"LapTime": 131789,
+			"Restrictor": 0,
+			"Sectors": [
+				40673,
+				46324,
+				44792
+			],
+			"Timestamp": 1651442537,
+			"Tyre": "V70",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 3,
+			"CarModel": "acl80_bmw_m1_procar",
+			"Cuts": 0,
+			"DriverGuid": "76561198159251100",
+			"DriverName": "Felix789",
+			"LapTime": 131780,
+			"Restrictor": 0,
+			"Sectors": [
+				40912,
+				46354,
+				44514
+			],
+			"Timestamp": 1651442669,
+			"Tyre": "V70",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 3,
+			"CarModel": "acl80_bmw_m1_procar",
+			"Cuts": 0,
+			"DriverGuid": "76561198159251100",
+			"DriverName": "Felix789",
+			"LapTime": 131016,
+			"Restrictor": 0,
+			"Sectors": [
+				40808,
+				46117,
+				44091
+			],
+			"Timestamp": 1651442800,
+			"Tyre": "V70",
+			"ContributedToFastestLap": true
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 14,
+			"CarModel": "bmw_m1_procar_80",
+			"Cuts": 1,
+			"DriverGuid": "76561198034178233",
+			"DriverName": "Costo",
+			"LapTime": 296925,
+			"Restrictor": 0,
+			"Sectors": [
+				198762,
+				50629,
+				47534
+			],
+			"Timestamp": 1651449630,
+			"Tyre": "V79",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 14,
+			"CarModel": "bmw_m1_procar_80",
+			"Cuts": 1,
+			"DriverGuid": "76561198034178233",
+			"DriverName": "Costo",
+			"LapTime": 136178,
+			"Restrictor": 0,
+			"Sectors": [
+				43699,
+				47344,
+				45135
+			],
+			"Timestamp": 1651449766,
+			"Tyre": "V79",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 14,
+			"CarModel": "bmw_m1_procar_80",
+			"Cuts": 0,
+			"DriverGuid": "76561198034178233",
+			"DriverName": "Costo",
+			"LapTime": 133455,
+			"Restrictor": 0,
+			"Sectors": [
+				41754,
+				46579,
+				45122
+			],
+			"Timestamp": 1651449900,
+			"Tyre": "V79",
+			"ContributedToFastestLap": false
+		},
+		{
+			"BallastKG": 0,
+			"CarId": 14,
+			"CarModel": "bmw_m1_procar_80",
+			"Cuts": 0,
+			"DriverGuid": "76561198034178233",
+			"DriverName": "Costo",
+			"LapTime": 133001,
+			"Restrictor": 0,
+			"Sectors": [
+				41750,
+				46836,
+				44415
+			],
+			"Timestamp": 1651450033,
+			"Tyre": "V79",
+			"ContributedToFastestLap": true
+		}
+	],
+	"Result": [
+		{
+			"BallastKG": 0,
+			"BestLap": 128306,
+			"CarId": 25,
+			"CarModel": "actk_nissan_skyline_super_silhouette",
+			"DriverGuid": "76561198159251100",
+			"DriverName": "Felix789",
+			"Restrictor": 0,
+			"TotalTime": 3838280,
+			"NumLaps": 3,
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"HasPenalty": false,
+			"PenaltyTime": 0,
+			"LapPenalty": 0,
+			"Disqualified": false
+		},
+		{
+			"BallastKG": 0,
+			"BestLap": 131016,
+			"CarId": 3,
+			"CarModel": "acl80_bmw_m1_procar",
+			"DriverGuid": "76561198159251100",
+			"DriverName": "Felix789",
+			"Restrictor": 0,
+			"TotalTime": 4815531,
+			"NumLaps": 5,
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"HasPenalty": false,
+			"PenaltyTime": 0,
+			"LapPenalty": 0,
+			"Disqualified": false
+		},
+		{
+			"BallastKG": 0,
+			"BestLap": 133001,
+			"CarId": 14,
+			"CarModel": "bmw_m1_procar_80",
+			"DriverGuid": "76561198034178233",
+			"DriverName": "Costo",
+			"Restrictor": 0,
+			"TotalTime": 12048114,
+			"NumLaps": 4,
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"HasPenalty": false,
+			"PenaltyTime": 0,
+			"LapPenalty": 0,
+			"Disqualified": false
+		},
+		{
+			"BallastKG": 0,
+			"BestLap": 135143,
+			"CarId": 13,
+			"CarModel": "bmw_m1_procar_80",
+			"DriverGuid": "76561198417841335",
+			"DriverName": "TV Crew",
+			"Restrictor": 0,
+			"TotalTime": 1209255,
+			"NumLaps": 3,
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"HasPenalty": false,
+			"PenaltyTime": 0,
+			"LapPenalty": 0,
+			"Disqualified": false
+		},
+		{
+			"BallastKG": 0,
+			"BestLap": 137341,
+			"CarId": 24,
+			"CarModel": "actk_nissan_skyline_super_silhouette",
+			"DriverGuid": "76561198417841335",
+			"DriverName": "TV Crew",
+			"Restrictor": 0,
+			"TotalTime": 1650908,
+			"NumLaps": 2,
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"HasPenalty": false,
+			"PenaltyTime": 0,
+			"LapPenalty": 0,
+			"Disqualified": false
+		},
+		{
+			"BallastKG": 0,
+			"BestLap": 143565,
+			"CarId": 2,
+			"CarModel": "acl80_bmw_m1_procar",
+			"DriverGuid": "76561198417841335",
+			"DriverName": "TV Crew",
+			"Restrictor": 0,
+			"TotalTime": 691812,
+			"NumLaps": 3,
+			"ClassID": "00000000-0000-0000-0000-000000000000",
+			"HasPenalty": false,
+			"PenaltyTime": 0,
+			"LapPenalty": 0,
+			"Disqualified": false
+		}
+	],
+	"Penalties": null,
+	"TrackConfig": "layout_gp_b_osrw",
+	"TrackName": "ks_nurburgring",
+	"Type": "PRACTICE",
+	"Date": "2022-05-02T10:45:48.608361263+02:00",
+	"SessionFile": "2022_5_2_10_45_PRACTICE.json",
+	"SessionConfig": {
+		"session_type": 1,
+		"name": "Practice",
+		"time": 1440,
+		"laps": 0,
+		"is_open": 1,
+		"wait_time": 0,
+		"visibility_mode": 0,
+		"qualifying_type": 0,
+		"qualifying_number_of_laps_to_average": 0,
+		"count_out_lap": false,
+		"disable_push_to_pass": false
+	}
+}

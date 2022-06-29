@@ -2,7 +2,7 @@
 <h2 id="SecondHeading" class="SecondHeading">Cargar nuevo fin de semana / carrera</h2>
 <main>
     <legend>Tipo de fin de semana</legend>
-    <ul class="nav nav-tabs">
+    <ul class="nav nav-tabs" id="tiposFecha" onclick="tab_tipoFecha()">
         <li class="active"><a data-toggle="tab" href="#tlibre">Fecha libre</a></li>
         <li><a data-toggle="tab" href="#texistente">Torneo Existente</a></li>
         <li><a data-toggle="tab" href="#tnuevo">Torneo Nuevo</a></li>
@@ -35,40 +35,13 @@
             <br>
         </div>
     </div>
-
-
-    <div class="container">
-        <fieldset>
-            <!-- <legend>Tipo de carrera</legend>
-            <label for="tipocarrera">Carrera</label>
-            <select id="tipocarrera" onchange="seleccionaTipo();" onfocus="this.selectedIndex = 'ninguna'">
-                <option name="tipo" value="ninguna">--seleccionar--</option>
-                <option name="tipo" value="libre">Libre</option>
-                <option name="tipo" value="texistente">Torneo existente</option>
-                <option name="tipo" value="tnuevo">Torneo nuevo</option>
-            </select> -->
-
-            <!-- <div class="texistente">
-                
-                <h3>SELECCIONE TORNEO</h3>
-                <div class="custom-select d-flex col-4">
-                    <select>
-                        <option value="0">Seleccione torneo:</option>
-                        <option value="1">Copa de Marcas Brasil</option>
-                        <option value="2">F1 2007</option>
-                    </select>
-                </div>
-                <hr>
-            </div> -->
-
-
-
-        </fieldset>
-
-    </div>
     <hr>
     <!-- <div class="container"> -->
     <!-- <form enctype="multipart/form-data"> -->
+    <input type="file" id="inputp" name="cargajson">
+    <button id='uploadp' type='button' onclick="get_jsonp()" value="upload">Cargar práctica</button>
+    <br> <!-- Line break no funciona -->
+    </p>
     <input type="file" id="inputq" name="cargajson">
     <button id='uploadq' type='button' onclick="get_jsonq()" value="upload">Cargar qualy</button>
     <br> <!-- Line break no funciona -->
@@ -81,14 +54,14 @@
     <!-- </div> -->
 
 
-    <ul class="nav nav-tabs">
+    <ul class="nav nav-tabs" id="sesiones">
         <li class="active"><a data-toggle="tab" href="#practica">Práctica</a></li>
         <li><a data-toggle="tab" href="#clasificacion">Clasificación</a></li>
         <li><a data-toggle="tab" href="#carrera">Carrera</a></li>
     </ul>
 
     <div class="tab-content">
-        <!-- <div id="practica" class="tab-pane fade in active">
+        <div id="practica" class="tab-pane fade in active">
             <h3>Práctica</h3>
             <table id="tablapractica" class="display" style="width:100%">
                 <thead>
@@ -114,8 +87,7 @@
                     </tr>
                 </tfoot>
             </table>
-
-        </div> -->
+        </div>
         <div id="clasificacion" class="tab-pane fade">
             <h3>Clasificación</h3>
             <table id="tablaclasificacion" class="display" style="width:100%">
@@ -142,7 +114,6 @@
                     </tr>
                 </tfoot>
             </table>
-
         </div>
         <div id="carrera" class="tab-pane fade">
             <h3>Carrera</h3>
